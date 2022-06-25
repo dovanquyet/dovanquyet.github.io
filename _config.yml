@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DO Van Quyet"
+title                    : "DO Van Quyet 😇"
 title_separator          : "-"
 name                     : &name "DO Van Quyet"
 description              : &description "M.Phil Student in CSE @ HKUST"
@@ -105,7 +105,7 @@ author:
   linkedin         : "dovanquyet/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       : "https://soundcloud.com/dovanquyet"
+  soundcloud       : "dovanquyet"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg"
+  youtube          : "channel/UCw0K4xQPwp8wZp6rkWRcTCg"
   wikipedia        :
 
 
