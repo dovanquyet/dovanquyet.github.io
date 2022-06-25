@@ -1,12 +1,16 @@
 ---
+permalink: /academic/
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Academic Profile"
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf),
+my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf)
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -56,4 +60,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams 
+-->
