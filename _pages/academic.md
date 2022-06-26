@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf),
-my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf)
+my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf).
+
+For full description of my academic and industrial experience, please visit my LinkedIn page.
 
 <!-- 
 {% include base_path %}

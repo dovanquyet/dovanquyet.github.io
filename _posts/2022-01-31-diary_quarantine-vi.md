@@ -225,13 +225,13 @@ Ngày 29 Tết, mình bắt đầu sửa soạn đồ đạc để về trườn
 <img src="/images/quarantine/giao_thua.JPG" width="500">
 </p>
 
-Và cuối cùng ngày đó đã đến. Ăn sáng xong thì bọn mình trả phong luôn, đi xuống đường đứng cho vui. 
+Và cuối cùng ngày đó đã đến. Ăn sáng xong thì bọn mình trả phòng luôn, đi xuống đường đứng cho vui. 
 
 <p align="center">
 <img src="/images/quarantine/out_quarantine.JPG" width="500">
 </p>
 
-Cơ mà, chân tôiiiiii. Đau bàn chân dãn man. Cố lết ra bến xe bus rồi chời người đến đón. Hai đứa dến đón cũng đến sớm vch, và quan trọng là không gặp được hai người cần đón =)). Đi lòng vòng một hồi mới gặp được nhau, rứa là lỡ hai chuyến xe bus. Chuyến đầu thì ko kịp chạy sang bên kia đường, chuyến tiếp theo thì do "không vẫy", CAY :)
+Cơ mà, chân tôiiiiii. Đau bàn chân dã man. Cố lết ra bến xe bus rồi chờ người đến đón. Hai đứa dến đón cũng đến sớm vch, và quan trọng là không gặp được hai người cần đón =)). Đi lòng vòng một hồi mới gặp được nhau, rứa là lỡ hai chuyến xe bus. Chuyến đầu thì ko kịp chạy sang bên kia đường, chuyến tiếp theo thì do "không vẫy", CAY :)
 
 <p align="center">
 <img src="/images/quarantine/bus_stop.JPG" width="500">
