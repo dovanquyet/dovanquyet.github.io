@@ -17,7 +17,7 @@ My research interest lies in the field of Natural Language Processing, Data Mini
 
 About my personal life, I am a big fan of music. I consider myself as an amateur singer. Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism originates the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)).
 
-This webpage is last updated on **2022/06/25**.
+This webpage is last updated on **2022/06/27**.
 
 ## News
 

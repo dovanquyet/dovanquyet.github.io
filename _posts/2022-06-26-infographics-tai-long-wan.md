@@ -13,7 +13,7 @@ Infographics về chuyến đi Tai Long Wan của bọn mình.
 
 ## Chuẩn bị
 
-Nhằm mục đích để anh em có cơ hội gắn kết bằng những chuyến đi cùng nhau, và cũng là dịp để "nâng cao sức ~~chịu đựng~~ khỏe", nhằm chớp lấy cơ hội khi mà thời tiết đang **nắng** đẹp, mình đã rủ ae ug còn sót lại ở UG đi du hí đâu đó khám phá HK. Có đứa giới thiệu Tai Long Wan, và chẳng ai biết chỗ nào khác, nên mình chọn chỗ đó luôn. Phận làm đại ca cũng ko đơn giản, sau khi chọn địa điểm rồi thì phải tra google map các kiểu để xem cụ thể mình sẽ đi đâu làm gì ở Tai Long Wan, đi xe bus nào để đến được chỗ đó. 
+Nhằm mục đích để anh em có cơ hội gắn kết bằng những chuyến đi cùng nhau, và cũng là dịp để "nâng cao sức ~~chịu đựng~~ khỏe", nhằm chớp lấy cơ hội khi mà thời tiết đang **nắng** đẹp, mình đã rủ ae ug còn sót lại ở HKUST đi du hí đâu đó khám phá HK. Có đứa giới thiệu Tai Long Wan, và chẳng ai biết chỗ nào khác, nên mình chọn chỗ đó luôn. Phận làm đại ca cũng ko đơn giản, sau khi chọn địa điểm rồi thì phải tra google map các kiểu để xem cụ thể mình sẽ đi đâu làm gì ở Tai Long Wan, đi xe bus nào để đến được chỗ đó. 
 
 <p align="center">
 <img src="/images/wanderhk/tai_long_wan/0-map.jpg" width="500">
@@ -37,7 +37,7 @@ Người thành công có lối đi riêng, chúng tôi cũng như vậy, nhưng
 <img src="/images/wanderhk/tai_long_wan/2-nham_duong.jpg" width="500">
 </p>
 
-Thế là ba ông thần lại lóc cóc leo ngược lên, xem lại map. À, thì ra kia mới lại hướng đúng kìa! Hướng mà có đôi zai gái đang đứng xoa kem chống nắng cho nhau ấy :3. Ừ rồi, thế thì đi luôn thôi. Ơ nhưng, L sao đấy? L bị say nắng nên ko cảm thấy thoải mái, bảo tôi và đứa còn lại đi trước. Tôi tí nữa thì quyết định đi trước rồi đấy, tức là coi như bỏ L ở lại chỗ đấy cho đến khi bọn tôi quay về. Hmm, nhưng như thế thì buồn lắm, và cũng tội nó, nên đợi 10' xem sao. Phù, may quá, L hồi sức rồi. May là mình đã đưa ra quyết định đúng đắn là **chờ đồng đội**.
+Thế là ba ông thần lại lóc cóc leo ngược lên, xem lại map. À, thì ra kia mới lại hướng đúng kìa! Hướng mà có đôi zai gái đang đứng xoa kem chống nắng cho nhau ấy :3. Ừ rồi, thế thì đi luôn thôi. Ơ nhưng, L sao đấy? L bị say nắng nên ko cảm thấy thoải mái, bảo tôi và đứa còn lại đi trước. Tôi tí nữa thì quyết định đi trước rồi đấy, tức là coi như bỏ L ở lại chỗ đấy cho đến khi bọn tôi quay về. Hmm, nhưng như thế thì buồn lắm, và cũng tội nó, nên đợi 10' xem sao. Phù, may quá, L hồi sức rồi. May là mình đã đưa ra quyết định đúng đắn, đó là **chờ đồng đội**.
 
 <p align="center">
 <img src="/images/wanderhk/tai_long_wan/3-first_step.jpg" width="500">
@@ -53,7 +53,7 @@ Thế là ba ông thần lại lóc cóc leo ngược lên, xem lại map. À, t
 <img src="/images/wanderhk/tai_long_wan/5-vitamin_sea.jpg" width="500">
 </p>
 
-Cũng ko có nhiều điều khác để kể, vì đi đến đoạn này thì bọn tôi đã thấm mệt rồi. Mệt thì leo dốc, vì lâu rồi chưa thể dục, và vì trời nắng quá. Tiếp tục đi, bọn tôi thấy một khu trồng lúa (để thử nghiệm giống mới chăng?), rồi ngạc nghiên chưa: Bò Vàng!
+Cũng ko có nhiều điều khác để kể, vì đi đến đoạn này thì bọn tôi đã thấm mệt rồi. Mệt vì leo dốc, vì lâu rồi chưa thể dục, và vì trời nắng quá. Tiếp tục đi, bọn tôi thấy một khu trồng lúa (để thử nghiệm giống mới chăng?), rồi ngạc nghiên chưa: Bò Vàng!
 
 <p align="center">
 <img src="/images/wanderhk/tai_long_wan/6-bo_vang.jpg" width="500">
@@ -96,5 +96,4 @@ Rồi, đi về thôi. Có hơi mệt một xíu, nhưng mà thật là vui khi 
 </p>
 
 18h30 thì mình về đến nhà. Mệt, nhưng vui vì mình đã "dũng cảm" xách mông lên và đi khám phá HK. Trong dịp hè, chắc chắn sẽ còn nhiều chuyến đi như thế này nữa. Let's go!
-
 
