@@ -7,6 +7,9 @@ redirect_from:
   - /blog-posts/
 ---
 
+View posts by [topics](https://dovanquyet.github.io/tags/).
+<!-- Some interesting topics are: ... -->
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}

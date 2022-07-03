@@ -4,8 +4,6 @@ date: 2022-01-31
 title: 'Nhật ký cách ly'
 tags:
   - quarantine
-  - cs224w
-  - aging
 ---
 
 # Nhật ký cách ly của Quyết

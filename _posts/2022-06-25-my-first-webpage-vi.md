@@ -4,8 +4,6 @@ date: 2022-06-25
 title: 'Webpage đầu tiên của tui :D'
 tags:
   - cool
-  - IT
-  - nlp
 ---
 
 Uầy, mình không ngờ là trong một buổi chiều, mình đã dựng xong bản đầu tiên của website cá nhân. 

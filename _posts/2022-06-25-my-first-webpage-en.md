@@ -4,8 +4,6 @@ date: 2022-06-25
 title: 'My First Webpage'
 tags:
   - cool
-  - IT
-  - nlp
 ---
 
 Wow, I don't think that I can finish the first version of my web that fast, just within an afternoon.
