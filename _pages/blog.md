@@ -7,9 +7,7 @@ redirect_from:
   - /blog-posts/
 ---
 
-View posts by [topics](https://dovanquyet.github.io/tags/).
-<!-- Some interesting topics are: ... 
-<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2> -->
+View posts by [topics](https://dovanquyet.github.io/tags/). Some interesting topics are: infographic, philosophy, ...
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
