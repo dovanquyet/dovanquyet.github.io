@@ -17,13 +17,15 @@ My research interest lies in the field of Natural Language Processing, Data Mini
 
 About my personal life, I am a big fan of music. I consider myself as an amateur singer. Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism originates the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)).
 
-This webpage is last updated on **2022/07/03**.
+This webpage is last updated on **2022/07/11**.
 
 ## News
 
 - [2022/06/24] My first paper has been submitted to EMNLP2022. Let's see if it's accepted =). Also, I am invited to join the program commitee as a reviewer for track Ethics.
 - [2022/05/06] My application for M.Phil program to HKUST is accepted, yeah! I will remain in HK for two more years
 - [2022/04/30] The rejection from the last school that I applied for a Ph.D program came. Not surprised, at all!
+
+For more (interesting) stories about my personal life, please check [here](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay)
 
 ## Contact me!
 
