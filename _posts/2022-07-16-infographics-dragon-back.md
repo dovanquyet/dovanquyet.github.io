@@ -48,7 +48,7 @@ Trăng lên đỉnh núi trăng tà/Sáu giờ rồi đó về nhà đi con. Ló
 <img src="/images/wanderhk/dragon_back/7-go_home.jpg" width="500">
 </p>
 
-P/s: Ngạc nhiên chưa, lần đầu tiên tôi thấy rau muống ở cửa hàng trong trường =))
+P/s: Ngạc nhiên chưa, tôi vào trường để mua đồ trước khi về nhà, và lần đầu tiên tôi thấy rau muống ở cửa hàng trong trường =))
 
 <p align="center">
 <img src="/images/wanderhk/dragon_back/8-rau_muong.jpg" width="500">
