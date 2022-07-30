@@ -8,16 +8,16 @@ tags:
 
 Nơi tôi kể những câu chuyện (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
 
-### 2022
+## 2022
 
-#### Bảo hành màn hình máy tính
+### Bảo hành màn hình máy tính
 
 Vch, gọi điện cho trung tâm bảo hành thì phải nói chuyện với bot, nó nói thì chậm, mà cũng chẳng hiểu nó cần thông tin gì để mình được nối máy đến đội hỗ trợ. Nhanh trí lục lại kinh nghiệm về chuyên ngành NLP, tôi đã phớt lờ câu hỏi của bot và vào vấn đề luôn: T muốn gặp techical team! May quá, nó nối máy rồi.
 
 Nhưng chưa hết đâu. Đội kỹ thuật hỏi tôi một vài thông tin cơ bản, và mất tận 5 PHÚT để họ tự tin rằng họ nghe đúng email của tôi. Vch! A for Apple, B for Ball suốt!
 
 
-#### Hóng hớt được tin tức siêu nóng
+### Hóng hớt được tin tức siêu nóng
 
 Ối làng nước ơi, đứa mà tôi thích năm lớp x và tán suốt lắm 20xx và đứa bạn thân của tôi hồi cấp x sắp thành đôi thì phải! Dẫu biết trong đầu tôi có nhiều tình huống viễn tưởng, nhưng khi biết có một tình huống sắp trở thành sự thật thì tôi ko thể nhịn cười được =)) 
 

@@ -8,9 +8,9 @@ tags:
 
 Nơi tôi kể những câu chuyện kỳ lạ xảy ra với tôi. Lạ thật!
 
-### 2022
+## 2022
 
-#### Màn hình máy tính
+### Màn hình máy tính
 
 Ông trời ạ, ông đùa tôi đúng không? Tôi mua màn hình của người quen, giao ước với họ rằng trong vòng một tháng nếu không có vấn đề gì với màn hình thì sau đó người kia sẽ không phải chịu bất cứ trách nhiệm gì nữa, tôi sẽ hoàn toàn chịu trách nhiệm. Tôi đã rất tự tin về chất lượng của nó, nhưng rồi ...
 
@@ -18,8 +18,10 @@ Nơi tôi kể những câu chuyện kỳ lạ xảy ra với tôi. Lạ thật!
 
 Nhưng ông đâu có tha cho tôi, cuối tuần trước ông lại cho màn hình nháy tiếp. Tôi vẫn kệ thôi, tôi chỉ bực khi lỗi là của mình, còn khi nó là lỗi của người/thứ khác thì tôi sẽ xử lý đúng theo quy định - nếu nó còn thế này thì tôi sẽ gọi bảo hành. Tối thứ sáu tuần trước, khi ngồi nói chuyện với người thân, tôi có giãi bày về chuyện này. Tôi tự hào lắm khi mình ko bị ảnh hưởng bởi chuyện này, với luận điểm đã kể trên. Và ... tối hôm đó, màn hình có thêm một vạch nữa! Tốt thôi, gọi bảo hành ngay đi!
 
+Sự việc này làm tôi hồi tưởng về câu chuyện về chiếc điện thoại cách đây 6 năm. Tôi được mua điện thoại mới, nhưng nó bị lỗi phần mềm. Tôi ngoan cố không chịu đổi máy (trời ạ), và bố mẹ tôi thực sự rất mệt mỏi trong việc thuyết phục tôi đi đổi. Máy móc hỏng là chuyện bình thường, ấy thế mà lúc đó tôi thật cố chấp, tin tưởng rằng nó sẽ hết lỗi nếu tôi chịu đựng thêm một thời gian nữa (May mà cuối cùng tôi đã chịu đi đổi lấy chiếc khác, và chiếc đó vẫn cùng tôi song hành đến tận bây giờ). Quay về hiện tại, tôi mừng vì mình ko còn cố chấp như vậy nữa. Tôi đã chấp nhận rằng có nhũng thứ ngoài tầm kiểm soát của mình, nói rộng hơn, chấp nhận rằng xã hội này sẽ còn nhiều vấn đề mà tôi ko thể giúp/tự giải quyết được, chấp nhận rằng có những mối quan hệ mình ko thể giữ được dù là cố gắng đến đâu, và chấp nhận rằng mình còn nhiều thiếu xót. Vì vậy, tôi vẫn sẽ cố gắng, nhưng tôi ko lo lắng nữa.
 
-#### Giấc mơ oái oăm
+
+### Giấc mơ oái oăm
 
 Lâu lâu không về nhà, nên lúc chia tay mọi người để ra sân bay thì bịn rịn lắm. Rồi lên xe ra sân bay, lúc đến thì mới phảt hiện ra: CHƯA MUA VÉ MÁY BAY ...
 
