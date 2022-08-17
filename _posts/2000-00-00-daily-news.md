@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2022-07-11
+date: 2022-08-12
 title: 'Chuyện hàng ngày'
 tags:
   - funny
@@ -9,6 +9,19 @@ tags:
 Nơi tôi kể những câu chuyện (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
 
 ## 2022
+
+### Xuân hạ thu đông rồi lại xuân
+
+Thực ra tôi chụp được có 3 bức ảnh thôi, và đều vào mùa hè. Nhưng thiết nghĩ, trên phương diện hình ảnh, thì 3 bức này là đại diện cho các kiểu thời tiết rồi. Các phương diện khác thì cần những giác quan khác để cảm nhận.
+
+<p align="center">
+<img src="/images/daily/3_weather.jpg" width="500">
+</p>
+
+### Mắm tôm
+
+Hàng xóm nhà mình có sở thích nấu ăn. Thi thoảng lúc đang ngồi học, một số mùi thơm của các món ăn bay sang nhà mình, chiếm trọn lấy không khí trong cả căn phòng. Hôm nay (31/7) cũng như vậy, nhưng có một điều lạ: Mùi hương hôm nay thật quen thuộc - Mắm tôm! Thơm vch! Có khi nào họ đang xào rau muống không nhỉ?
+
 
 ### Bảo hành màn hình máy tính
 

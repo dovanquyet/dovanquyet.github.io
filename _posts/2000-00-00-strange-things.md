@@ -10,6 +10,14 @@ Nơi tôi kể những câu chuyện kỳ lạ xảy ra với tôi. Lạ thật!
 
 ## 2022
 
+
+### Đạm whey
+
+Mới thó được ít bột đạm whey của anh giai cùng nhà trọ, tôi hí hửng uống đều đặn để bổ sung đạm cho cơ bắp phát triển. Trông có vẻ giống sửa bột nhỉ, pha bằng nước ở nhiệt độ bình thường cũng được nè, nhưng hay bị vón cục quá. Pha bằng nước ấm thì có nhanh hòa tan không nhỉ? Thử coi.
+
+Vch, tôi thấy điều gì đó không ổn và bắt đầu nhớ lại kiến thức sinh học hay hóa học hồi cấp ba: protein sẽ "kết tủa" ở nhiệt độ thấp hoặc nhiệt độ cao. Thôi xong rồi, protein trong sữa bắt đầu kết tủa thành từng mảng, trông như óc đậu vậy, nhưng khó ăn hơn nhiều @@ Đành phải đổ bỏ thôi.
+
+
 ### Màn hình máy tính
 
 Ông trời ạ, ông đùa tôi đúng không? Tôi mua màn hình của người quen, giao ước với họ rằng trong vòng một tháng nếu không có vấn đề gì với màn hình thì sau đó người kia sẽ không phải chịu bất cứ trách nhiệm gì nữa, tôi sẽ hoàn toàn chịu trách nhiệm. Tôi đã rất tự tin về chất lượng của nó, nhưng rồi ...
