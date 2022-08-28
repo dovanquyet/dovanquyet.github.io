@@ -11,6 +11,20 @@ Nơi tôi kể những câu chuyện kỳ lạ xảy ra với tôi. Lạ thật!
 ## 2022
 
 
+### Ngáo mua sắm
+
+Thứ X tuần vừa rồi là buổi meeting đầu tiên với mentor, tính từ lúc chuyển vào ktx. Do bàn học trong phòng khá nhỏ, nên tôi phải để kê một vài thùng cotton bên cạnh rồi đặt laptop ở đó, kết nối với màn hình đặt trên bàn học. Nói cách khác, camera của laptop sẽ chiếu chéo mặt tôi, thay vì chiếu thẳng mặt. Do đó, hình của tôi trong Zoom meeting với mentor trông ko quen mắt :), và tôi chợt hứng lên, muốn mua một USB Camera (webcam) để đặt lên màn hình - chiếu thẳng vào mặt tôi. Tôi ngờ ngợ việc mình cũng có thể dùng điện thoại như webcam, như đó là kết nối qua wifi, mà tôi cũng ko có giá để đt trên màn hình. Thế nên, tôi vẫn quyết định mua webcam.
+
+Tôi dành gần 1 tiếng để tìm, liên hệ người bán hàng trên một trang mua bán đồ cũ. Hẹn rằng chiều hôm sau - đúng lúc bão chuẩn bị vào HK - sẽ gặp để lấy, tôi ko mảy may gì nhiều lắm. Chiều hôm sau, khi ra chỗ hẹn để lấy hàng, trời ơi một hàng người siêu dài cũng đang chờ xe bus! Mãi mới ra bến MTR, chờ ở đó nửa tiếng mà ông kia vẫn chưa đến. Và bất ngờ chưa, ổng nhầm bến MTR!!!!! Đ\*o hiểu! Bực mình, tôi về luôn.
+
+Về đến nhà, tôi tự dưng muốn thử cách dùng đt như USB webcam. Tìm chỉ dẫn một lúc là xong @@, và cũng chỉ mấy vài phút để tôi thiết kế giá kê đt ở dưới màn hình. Rứa là tôi có cái mình muốn. Tôi tự hỏi tại sao chiều qua mình lại không thử cách này trước khi tìm mua trên mạng. Tự dưng tôi phung phí 3 tiếng đồng hồ. Haizzz
+
+
+### Quảng cáo
+
+Ủa kỳ zậy! Quảng cáo Paradon ở HK bày ra bối cảnh bạn phải ở trong phòng làm việc và trên xe bus được bật điều hòa rất lạnh, rồi bạn bị đau đầu và cần thuốc. Như kiểu đánh người ta rồi quảng cáo cách chữa vậy! Thà là dân HK tăng nhiệt độ (~ giảm công suất) của điều hòa đi một xíu, thế là xong, khỏi cần thuốc thang gì cả!
+
+
 ### Đạm whey
 
 Mới thó được ít bột đạm whey của anh giai cùng nhà trọ, tôi hí hửng uống đều đặn để bổ sung đạm cho cơ bắp phát triển. Trông có vẻ giống sửa bột nhỉ, pha bằng nước ở nhiệt độ bình thường cũng được nè, nhưng hay bị vón cục quá. Pha bằng nước ấm thì có nhanh hòa tan không nhỉ? Thử coi.

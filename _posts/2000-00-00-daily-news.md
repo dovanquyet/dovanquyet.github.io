@@ -6,9 +6,22 @@ tags:
   - funny
 ---
 
-Nơi tôi kể những câu chuyện (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
+Nơi tôi kể những câu chuyện, suy nghĩ (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
 
 ## 2022
+
+
+### Dục
+
+Nhân tiện câu chuyện về việc tôi dần dân 'thích' chuyên ngành của mình, tôi có liên hệ đến vấn đề khác tế nhị hơn trong tình yêu. Tôi tự hỏi, tại sao lúc hai người có quan hệ tình cảm với nhau, thì họ có mong muốn được 'gần gũi'? Liệu đó có phải do cơ chế sinh sản chi phối, hay mong muốn được hòa làm một của hai người (trích Prof. Simon Wong, HUMA1000G, HKUST), như kiểu Optimus Prime kết hợp với Ultra Magnus để tạo ra thực thể mạnh hơn :))?
+
+
+### Học MPhil
+
+Tôi chuẩn bị bước vào kỳ học mới, nên từ 2 tuần trước, tôi đã nghỉ thực tập và quay trở lại với việc nghiên cứu. Lần này khác với những lần nghiên cứu hoặc đi làm trước - tôi sẽ nghiên cứu toàn thời gian trong suốt một thời gian dài (có thể là từ giờ đến hết đời), chứ không chỉ thi thoảng động đến hoặc ngắn hạn.
+
+Sau hai tuần mà ngày nào tôi cũng nghiên cứu vấn đề đó, bố sung kiến thức xung quanh nó, và nghĩ về cách giải quyết vấn đề, tôi thấy mình bắt đầu có cảm giác như ... thích một ai đó :) Biểu hiện ư, đó là tôi thường xuyên nghĩ đến chuyên ngành của mình trong những lúc thả trôi tâm thức, thay vì những thứ linh tinh khác. Đúng kiểu, "nếu ko theo được nghề mình thích thì hãy thích nghề mình theo"!
+
 
 ### Xuân hạ thu đông rồi lại xuân
 
@@ -17,6 +30,7 @@ Thực ra tôi chụp được có 3 bức ảnh thôi, và đều vào mùa hè
 <p align="center">
 <img src="/images/daily/3_weather.jpg" width="500">
 </p>
+
 
 ### Mắm tôm
 
