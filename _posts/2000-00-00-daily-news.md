@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2022-08-12
+date: 2022-08-30
 title: 'Chuyện hàng ngày'
 tags:
   - funny
@@ -9,6 +9,19 @@ tags:
 Nơi tôi kể những câu chuyện, suy nghĩ (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
 
 ## 2022
+
+### Em tôi đã trưởng thành
+
+Lâu lâu ko nói chuyện với đứa em 'kết nghĩa', nay nhân dịp chuẩn bị vào năm học mới, tôi rủ nó video call. Nửa đầu câu chuyện là những chuyện tán ngẫu bình thường, như sang đến nửa sau của câu chuyện, tôi thực sự thấy dáng dấp của một người đã trưởng thành! Chẳng biết nó đã sâu sắc, có tư tưởng tiến bộ như vậy từ bao giờ, nhưng hôm nay tôi mới thực sự để ý.
+
+Nó cũng như tôi, combat với bố mẹ về những vấn đề trong cuộc sống. Nó khuyên em trai nó ko nên chạy theo danh tiếng của trường như lời khuyên của bố mẹ, mà hãy theo trường nào mạnh ở ngành mà đứa em nó thích. Nó, do dạy tiếng anh đều đều và được tiếp xúc với nhiều học sinh cấp ba, muốn thành lập một tổ chức để định hướng cho học sinh, để học sinh hiểu được mình nên chọn trường nào ngành nào, thay vì chỉ chăm chăm vào các trường có danh tiếng. Ô chao, em tôi đã lớn rồi!
+
+
+### Lập gia đình - First blood in NDNT
+
+Mặc dù đây là lần thứ hai tôi biết tin rằng một đứa bạn của tôi lập gia đình, nhưng lần này nó lạ lắm :) Lần trước là một bạn nữ, và chồng của bạn ấy hơn chúng tôi 8 tuổi, nên coi như trong nhà vẫn có một người đã trưởng thành cáng đáng mọi việc. Nhưng đằng này thì khác, bạn tôi và vợ cũng chỉ tầm tuổi tôi, nên tôi cứ hình dung như kiểu hai đứa trẻ lấy nhau vậy. 
+
+Hic, tôi thì vẫn hồn nhiên vô tư, vẫn đang ngồi trên ghế nhà trường và chưa biết bao giờ thì ra trường :), còn bạn tôi thì đã về nhà ~~chồng~~ vợ. Bước vào một cuộc hôn nhân sớm như vậy, tôi trộm nghĩ hai đứa sẽ vất vả lắm đây. Nhưng mong là hai đứa sẽ ổn.
 
 
 ### Dục
