@@ -1,14 +1,22 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
 date: 2022-08-30
-title: 'Chuyện hàng ngày'
+title: 'Chuyện hàng ngày/Daily story'
 tags:
   - funny
 ---
 
 Nơi tôi kể những câu chuyện, suy nghĩ (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
+This is where I write my (funny) daily stories. The language used is casual, sometimes exaggerating.
 
 ## 2022
+
+### Mental Health-related
+
+Two weeks ago, I signed up to a mingling session named Comfort Paws, where people can play with therapy dogs. Actually, the session is a component of the whole program, in which participants will be trained to support dog therary session. But for some reason, the program is cancelled, and only provide mingling sessions, like the one I signed up. When time came, I went to the venue, and soon recognized that only students with comfirmation email from organizing committee are allowed to join. Sad, but it seems that there are more people caring about mental healthcare than I thought. Good news!
+
+Several days later, noticing the competitivity of mental health-related events, as soon as I received email about MHFA (Mental Health First Aid) program, I swifted the path from my doom to the office and was the first person to sign up. Yeah! And furthermore, last week, I was invited to join a startup providing mental health therapy (CBT) service. Of course, I joined.
+
 
 ### Em tôi đã trưởng thành
 

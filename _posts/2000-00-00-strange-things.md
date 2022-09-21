@@ -1,14 +1,28 @@
 ---
 permalink: /posts/vi/chuyen-la
-date: 2022-08-28
-title: 'Chuyện lạ'
+date: 2022-09-14
+title: 'Chuyện lạ/Strange things'
 tags:
   - funny
 ---
 
 Nơi tôi kể những câu chuyện kỳ lạ xảy ra với tôi. Lạ thật!
+This is where I tell strange things happened to me. Very strange!
 
 ## 2022
+
+### Tự do và khuôn khổ
+
+Hôm qua, mentor của tôi có hỏi tôi rằng, liệu chính phủ Tàu có đang tham vọng quá ko, có còn là chủ nghĩa xã hội nữa ko, khi mà càng ngày càng tăng sức ép lên người dân của chính mình rằng phải đi theo lý tưởng của chính phủ. Ông ấy nói thêm rằng, rất nhiều người trong giới trẻ Tàu hiện nay ko muốn chịu sự quân phiệt của chính phủ nên đã cố gắng để đi đến khu vực khác du học, trong đó có HK. Tôi đáp rằng, sự nghiêm khắc của chính phủ có thể chỉ như của cha mẹ đối với con cái. Nghiêm khắc quá mức thì ắp sẽ dẫn đến sự phản kháng thôi.
+
+Ngẫm lại thì thấy có nhiều người đã từng học ở Tsinghua lại sang HK để học tiếp PhD, trong khi Tsinghua rank cao hơn và tốt hơn (theo đánh giá của chính các bạn người Tàu) các trường ở HK. Thì ra họ muốn tìm một mảnh đất tự do hơn. Liệu chăng mâu thuẫn nội bộ giữa người dân và chính phủ sẽ khiến Tàu ngã ngựa ở ngưỡng của thiên đường, ko thể bá chủ thế giới được?
+
+
+### Gym
+
+I thought that if I am diligent (as I was) to maintain my home-workout schedule, my muscle would grow and I would become musculine. But it seems not to be the case.
+
+My body is _optimized_ to help me workout more easily, by not to grow my muscle as expected, but to make me slimmer @@. Cannot believe this optimization! In fact, it elicits the problem in AI - pretrained tasks does not lead to the optimization that we want, but to others!
 
 
 ### Ngáo mua sắm

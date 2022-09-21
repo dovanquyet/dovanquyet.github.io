@@ -14,8 +14,9 @@ For full description of my academic and industrial experience, please visit my L
 
 I have self-studied the following courses/series whose videos are available on Youtube. These are all amazing, and they significantly broaden my knowledge.
 
-- Stanford - Human Behavioral Biology (starting)
-- Stanford - CS330 Deep Multi-Task and Meta Learning (on going)
+- Stanford - Human Behavioral Biology (not yet start)
+- Stanford - CS330 Deep Multi-Task and Meta Learning (nearly finish). It will take a long time to finish :D
+- MIT - MIT 9.13 The Human Brain, Spring 2019 (finished in Sep 2022). Eventhough I only shallowly learned from this course, it really brings me the knowledge about our brain's functionality and inspires me a lot on how should I structure an AI system.
 - Harvard - Justice: What's The Right Thing To Do (finished in Jul 2022). This course gives me references to strengthen my reasoning system!
 - Stanford - CS234 Reinforment Learning (finished in Jun 2022)
 - Stanford - CS224w Machine Learning on Graph (finished in Feb 2022)

@@ -12,6 +12,13 @@ To be updated ...
 
 ## 2022
 
+### AI
+
+"Learning about something is to learn its behavior, learn the way that it interacts with others in the environment."
+
+I don't remember who said so, but the saying just poped up in my mind when I was thinking about the fundemental theory of AI.
+
+
 ### Raiden ([Mortal Kombat 11 Story](https://youtu.be/CdEi4lr4lMQ?t=12334))
 "I thought that to control time and destiny fairly, I must purge myself of all human emotion... All that remained was pure logic. But I learned quickly that the logical choice is often not the just choice. Unless tempered by compassion and heart, logic leads to decisions no better than those based on anger or fear."
 
