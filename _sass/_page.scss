@@ -18,15 +18,14 @@
 }
 
 .page {
-  @include breakpoint($large) {
+  @include breakpoint($x-large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0.5 of 12);
   }
 
   .page__inner-wrap {
     @include full();
-
     .page__content,
     .page__meta,
     .page__share {
@@ -201,7 +200,7 @@
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
-  @include breakpoint(max-width $small) {
+  @include breakpoint(max-width $large) {
     .btn span {
       border: 0;
       clip: rect(0 0 0 0);

@@ -7,17 +7,16 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf).
+Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf) (updated in Oct 2022). For full description of my academic and industrial experience, please visit my LinkedIn page.
 <!-- my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf). -->
 
-For full description of my academic and industrial experience, please visit my LinkedIn page.
 
 ### Recent Publications
 
 Only present recent 5 publications here. For the full list of my publication, please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ) and my [Resumé](https://dovanquyet.github.io/files/resume.pdf).
 
-- **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.** 
-Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See.
+- Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See.\
+**PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**\
 *Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
 
 _Remark: \* indicates equal contribution._
