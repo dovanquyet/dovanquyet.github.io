@@ -11,6 +11,13 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ## 2022
 
+### Booking dot UST
+
+Even though booking.com failed to proceed my flight booking, I will not debrief it here. Instead, "booking system in HKUST is rubbished", my friend said, especially for badminton. I really don't know why a lot of people, lncluding me, cannot access the server in the first minute when the booking system is just openning. After that first minute, almost all courts are gone, just a few left which I will book for immediately @@
+
+Talking to my friends, they are quite surprised about my booking. They even cannot book a court :) Two of them suggested that I was previleged that I had my name/id in some part of the system, so it favors me LOL. What an idea! Ya, the code is close-source, who knows what the developers add to source code of the booking system. Btw, last weekend, I found a cheat code :) Change the time in my device so that I can connect to the server first, but still have to wait until the system really opens.
+
+
 ### Mental Health-related
 
 Two weeks ago, I signed up to a mingling session named Comfort Paws, where people can play with therapy dogs. Actually, the session is a component of the whole program, in which participants will be trained to support dog therary session. But for some reason, the program is cancelled, and only provide mingling sessions, like the one I signed up. When time came, I went to the venue, and soon recognized that only students with comfirmation email from organizing committee are allowed to join. Sad, but it seems that there are more people caring about mental healthcare than I thought. Good news!

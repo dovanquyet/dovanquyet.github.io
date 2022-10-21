@@ -78,16 +78,16 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author. Visit _include/author-profile.html to modify accordingly
 author:
   name             : "DO Van Quyet 杜文决"
   avatar           : "avatar.jpg"
-  bio              : "M.Phil Student in CSE @ HKUST"
+  bio              : "M.Phil in CSE @ HKUST"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "vqdo@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ"
+  email            : # "vqdo@connect.ust.hk"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "dovanquyet/"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4229-8346"
   pinterest        :
   soundcloud       : # "dovanquyet"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          : "channel/UCw0K4xQPwp8wZp6rkWRcTCg"
   wikipedia        :
+  dblp             : "https://dblp.uni-trier.de/pid/331/2617.html"
+  semanticscholar  : "https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252"
 
 
 # Reading Files
