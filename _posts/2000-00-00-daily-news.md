@@ -11,6 +11,26 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ## 2022
 
+
+### Play with VR devices
+
+At first, when I just join Psy+ team and they told me that they were developing an VR app with AI therapist, I considered VR as redundant (dien dat bang tieng viet, no la 'hien than cua tu ban', va toi ko thich 'tu ban'). I thought that a simple chatbot, which can be served via Messenger, Wechat, WhatsApp ..., is enough, and the focus of the application should be the NLP models.
+
+BUT, yesterday my team rent VR devices from the library counter and tried to deploy our app. Even though our model couldn't run yet, but I could experience the VR environment. Oh my god! With some app named Google Earth, I flied to and enjoyed the scene of a lot of cities. With my eyes covered by the VR glass, I felt how my feets react to the scene change. The reaction was like I was really flying! After the session, I made a joke that 'experience in VR world will make users excited and out-of-depression immedidately, so we don't need to focus much on NLP models' :))
+
+
+### Xóm tôi
+
+Vậy là ngày mai, anh hàng xóm nhà tôi sẽ lấy vợ, ~~để mặc chị tôi ở lại chờ mong~~ trong xóm chỉ còn chị em nhà tôi chưa lập gia đình. Chắc bố mẹ tôi cũng sốt ruột lắm, vì cũng đã kêu ca với chúng tôi nhiều lần. Tôi là con trai nên ko bị áp lực chuyện lấy vợ quá sớm, nhưng chị tôi thì khác, chịu khá nhiều áp lực. Cũng chẳng biết làm thế nào, chỉ biết tập trung học hành cho nhanh xong thôi. Chuyện lập gia đình ko phải chuyện một sớm một chiều, mà cũng ko phải muốn là được.
+
+
+### Chửi khi nghiên cứu
+
+Ối giồi, chuyện này siêu bình thường luôn. Nhưng tôi cứ thích viết lên đây. Chửi vì do mình ko cẩn thận, hoặc do mình muốn làm cho xong mà toàn gặp những lỗi trời ơi đất hỡi. Hoặc có thể chửi do bản năng hoặc để xả stress.
+
+Ngồi ở phòng, thi thoảng tôi lại nghe tiếng chửi. Xuất phát từ ai thì tôi ko nói đâu :)
+
+
 ### Booking dot UST
 
 Even though booking.com failed to proceed my flight booking, I will not debrief it here. Instead, "booking system in HKUST is rubbished", my friend said, especially for badminton. I really don't know why a lot of people, lncluding me, cannot access the server in the first minute when the booking system is just openning. After that first minute, almost all courts are gone, just a few left which I will book for immediately @@
@@ -79,3 +99,5 @@ Nhưng chưa hết đâu. Đội kỹ thuật hỏi tôi một vài thông tin c
 Mà còn thế này cơ, hình tôi là người gián tiếp mai mối hai đứa nó. Tết năm 20xx, tôi mạnh dạn rủ bạn nữ trong đoạn trên đến họp hội cấp x của tôi, đương nhiên là đứa bạn thân của tôi có mặt rồi. Trong buổi đó, hai đứa nó ko thích hát karaoke nên ngồi nói chuyện với nhau suốt, tôi nghĩ cũng bình thưởng thôi. Sau đó vài tháng, bạn tôi cũng rủ tôi và bạn nữ kia tham gia vụ khai trương bất động sản gì gì đó (bạn tôi có nhiệm vụ mời khách :v, ko đủ nên đến lượt tôi). Bẵng đi một khoảng thời gian, và ... 
 
 Hai đứa nó mà lấy nhau thì tôi mừng lắm đây. Tha hồ cà khịa. Nên hát bài "Vợ người ta" ở nhà trai hay nhà gái nhỉ?
+
+P/s: Theo thông tin mới nhất thì bạn tôi ko thành công, vậy là tôi ko được cà khịa rồi :))
