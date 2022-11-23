@@ -15,8 +15,8 @@ Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf
 
 Only present recent 5 publications here. For the full list of my publication, please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ) and my [Resumé](https://dovanquyet.github.io/files/resume.pdf).
 
-- Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See.\
-**PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**\
+- **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**\
+Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See.\
 *Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
 
 _Remark: \* indicates equal contribution._
@@ -42,7 +42,8 @@ I have self-studied the following courses/series whose videos are available on Y
 
 ### Awards
 
-- Academic Achievement Medalist of HKUST UG Class of 2022 [2022]
+- [Academic Achievement](https://registry.hkust.edu.hk/academic-achievements/medal-recipients-year) Medalist of HKUST UG Class of 2022 [2022]
+- HKUST SS Chern's Class Achievement with Outstanding Performance [2022]
 - Awardees for the 16th, 17th HKUST Epsilon Fund Award [2021, 2022]
 - Dean’s List Student of HKUST [All semesters except Spring 2021]
 - The Bronze Medal at the 58th International Mathematical Olympiad [2017]

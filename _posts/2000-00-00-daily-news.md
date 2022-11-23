@@ -1,15 +1,34 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2022-10-10
+date: 2022-11-23
 title: 'Chuyện hàng ngày/Daily story'
 tags:
-  - funny
+ - funny
 ---
 
 Nơi tôi kể những câu chuyện, suy nghĩ (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
 This is where I write my (funny) daily stories. The language used is casual, sometimes exaggerating.
 
 ## 2022
+
+
+### A Math problem can be a Data Science problem
+
+"In particular, I began looking at texts, trying to understand how we understand them ... microanalyzing one paragraph from _Newsweek_, trying to specify every bit of knowledge required for understanding the text and describing how every linguistic problem in the text invokes that knowledge to arrive at solutions." - Influences and Inferences (Jerry R. Hobbs). The paragraph that again inspires me to inspect data closely.
+
+Follow at thinking at default mode, I retrospect the time at high school, how I solved Math problems. And, ohhhh, there were a lot of problems which needed me to play with a lot of examples, then gradually draw the arguments and finally solve them. With no difference, currently when people deal with a data science problem, they also need to look at data to draw the gut feel about each attributes, each instances, hypothesize the proplem as which data instances are outliers, which attributes are important... to build the model to analyze the dataset. See, they are not different.
+
+
+### Depressed because of poor data
+
+Omg, I'm gonna die with the dataset! I and my mentor have discussed the poor quality of this dataset, but still use it to verify our methodology. Inspired by my professor and other professers' advices, I once again look at the data. I try to find a positive example, but cannot find any @@ All instances in the evaluation set seems not to be true! Can't bear!
+
+
+### Chương trình truyền hình dạy học/giao lưu tiếng Việt cho người ngoại quốc ở Việt Nam
+
+Gần đây tôi thấy nhiều các show liên quan đến tiếng Việt được sản xuất. Năm ngoái thì có "Vua Tiếng Việt", thi thoảng cũng có các bạn nước ngoài tham gia, rồi đầu năm nay thì có "Chữ V diệu kỳ", và gần đây thì có "Nhập gia tùy tục". Hai chương trình kể sau dành riêng cho các bạn nước ngoài. Thế mới thấy chính phủ VN bắt đầu quan tâm hơn đến cộng đồng người ngoại quốc ở VN. Khi đất nước hội nhập phát triển, càng ngày sẽ càng có nhiều người từ các nước khác đến VN để lập nghiệp và sinh sống. Để họ hòa nhập với cộng đồng nước sở tại, rất cần những chương trình truyền hình như đã kể trên.
+
+Tuy nhiên, ở một góc nhìn khác có phần hơi tiêu cực một chút, tôi nhìn những chương trình kể trên như một sự "bành trướng văn hóa". Giữa năm nay, VTV có đưa tin về quyết tâm "xuất khẩu văn hóa" của thành phố Hà Nội, noi gương Hàn Quốc và nhiều quốc gia khác. Nó là điều tất yếu của một quốc gia/vùng (đang) phát triển, nhưng liệu nó có trở thành sự "xâm lược văn hóa" ở những nước mà văn hóa chưa phát triển, chưa đủ 'hay' để khiến dân tộc đó phải gìn giữ thay vì du nhập văn hóa 'hay hơn' từ nước khác?
 
 
 ### Play with VR devices

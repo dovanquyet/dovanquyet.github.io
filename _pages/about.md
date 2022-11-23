@@ -8,22 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-This webpage is last updated on **2022/10/21**.
+This webpage is last updated on **2022/11/23**.
 
 
 ## About me
 
-Hi folks! Welcome to my personal homepage. I'm a first year M.Phil student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Previously, I got my B.Sc from HKUST in July 2022.
+Hi folks! Welcome to my personal homepage. I'm a first year M.Phil student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Also, from Nov 2022, I start to collaborate with students of [Prof. Pascale Fung](https://pascale.home.ece.ust.hk/). Previously, I got my B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in July 2022.
 
 My research interest lies in the field of Natural Language Processing, Commonsense Reasoning, Continual Learning with Expandable AI, Data Mining, etc. My dream is to apply NLP into real world, especially in education and psychological therapy. Currently, I focus on how to incorporate commonsense knowledge in LMs, to make the models 'understand' (concepts) rather than just 'memorize' (word co-occurence).
 
-About my personal life, I am a big fan of music. I consider myself as an amateur singer. Check this [Youtube channel](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) to hear my voice :D Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism originates the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)).
+About my personal life, I am a big fan of music. I consider myself as an amateur singer. Check this [Youtube channel](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) to hear my voice :D Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism accounts for the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)).
 
 My full academic profile can be found [here](https://dovanquyet.github.io/academic). For (interesting) stories about my personal life, please check [here](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay).
 
 
 ## News
 
+- [2022/11/17] Have a chat with Prof. Pascale. She is also interested in using commonsense knowledge to control the language model's generation and support open-ended QA. Thus, I start working with her students :P.
 - [2022/10/06] My first paper has been accepted as Findings of EMNLP2022. Yeah!!!
 - [2022/06/24] My first paper has been submitted to EMNLP2022. Let's see if it's accepted =). Also, I joined the program commitee as a reviewer for track Ethics.
 - [2022/05/06] My application for M.Phil program to HKUST is accepted, yeah! I will remain in HK for two more years
