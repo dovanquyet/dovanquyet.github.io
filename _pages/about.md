@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This webpage is last updated on **2022/11/23**.
+This webpage is last updated on **2022/12/9**.
 
 
 ## About me

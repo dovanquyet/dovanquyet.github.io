@@ -12,6 +12,18 @@ This is where I write my (funny) daily stories. The language used is casual, som
 ## 2022
 
 
+### Thi cuối kỳ
+
+Sau 3 năm, đây là đợt thi cuối kỳ đầu tiên tôi được lên trường thi trực tiếp. Cảm giác cũng ko có gì khác biệt lắm, khéo còn thỏa mái hơn thi trực tuyến vì không phải lo setup thiết bị. Kỳ này tôi học và thi một môn, và môn đó về Computer Science. Nói không phải khen, nhưng mấy môn COMP toàn sợ học sinh làm xong sớm và không có gì để làm tiếp nên các thầy cho đề dài miên man. Viết mỏi hết cả tay mà vẫn chưa xong @@.
+
+Được cái việc chấm điểm diễn ra rất nhanh, mặc dù môn này có tầm 100 học sinh lận, sáng thi tối biết điểm luôn LOL. Nay tôi đi kiểm tra bài thi thì phát hiện một lỗi tính toán sai. Cay :)) Nhưng cũng chịu, có bài tính đúng thì cũng phải có bài tính sai, những bài khác tính đúng hết là ổn rồi, ko đòi hỏi gì ở bản thân nữa. Có điều trong những bài còn lại, có bài tôi biết tính đúng nhưng ko biết làm :D
+
+
+### Giải thích từ Hán Việt
+
+Hôm trước nói chuyện với bạn, tự dưng tôi được nghe lại định nghĩa của từ thủy chung. Thấy nó bảo, 'chung' trong 'chung kết' có nghĩa là cuối cùng hoặc sau cùng, còn 'thủy' trong 'quầy kem thủy tạ ở đầu hồ Gươm' có nghĩa là đầu tiên. Nghe cũng hợp lý phết nhỉ 😇
+
+
 ### A Math problem can be a Data Science problem
 
 "In particular, I began looking at texts, trying to understand how we understand them ... microanalyzing one paragraph from _Newsweek_, trying to specify every bit of knowledge required for understanding the text and describing how every linguistic problem in the text invokes that knowledge to arrive at solutions." - Influences and Inferences (Jerry R. Hobbs). The paragraph that again inspires me to inspect data closely.
