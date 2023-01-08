@@ -1,11 +1,12 @@
 ---
 permalink: /
-excerpt: "About me"
+layout: archive
 title: "Homepage"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
+excerpt: "About me"
 ---
 
 This webpage is last updated on **2023/1/8**.
