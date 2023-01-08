@@ -3,7 +3,7 @@ permalink: /posts/en/trash-papers
 date: 2022-11-23
 title: 'Trash Papers'
 tags:
-  - research
+  - work and research
 ---
 
 

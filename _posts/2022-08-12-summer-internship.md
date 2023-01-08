@@ -3,7 +3,7 @@ permalink: /posts/en/summer-internship-2022
 date: 2022-08-12
 title: 'What I Have Done During My Summer Internship'
 tags:
-  - nlp
+  - work and research
 ---
 
 This is my last day at Eureka Fintech. A journey has to finish, giving time for another journey to start - a new semester as a Research Postgraduate student. For the sake of revising what I have done during this internship, I write this blog.

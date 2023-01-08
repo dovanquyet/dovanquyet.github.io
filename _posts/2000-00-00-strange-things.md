@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-la
-date: 2022-09-14
+date: 2022-01-08
 title: 'Chuyện lạ/Strange things'
 tags:
   - funny
@@ -8,6 +8,16 @@ tags:
 
 Nơi tôi kể những câu chuyện kỳ lạ xảy ra với tôi. Lạ thật!
 This is where I tell strange things happened to me. Very strange!
+
+
+## 2023
+
+### Đổ vỡ .. có khi lại hay
+
+Tôi ko có ý nói về xu hướng ly hôn trong bình yên đâu. Câu chuyện của tôi thế này cơ: chiếc điện thoại yêu dấu của tôi từ đầu năm ngoái đã hỏng loa ngoài (theo một cách thần kỳ). Trước thời điểm đó, chiếc loa vẫn hoạt động bình thường, chẳng có dấu hiệu hỏng hóc gì cả. Tôi nghi rằng không khí ẩm mốc quá, nên nó đã làm hỏng bảng mạch của điện thoại, khiến cho loa ko hoạt động được nữa.
+
+Đoán già đoán non thế thôi nhưng cũng chẳng để làm gì, tôi cũng chẳng biết cách sửa. Đành phải dùng loa bluetooth để phát âm thanh từ điện thoại vậy. Đến tuần trước (tôi đã về nhà), mẹ tôi lau dọn tủ và nhỡ tay làm rơi điện thoại của tôi. Chiếc điện thoại này rất bền (trộm vía), rơi nhiều lần mà chằng hề hắn gì lắm, lần này cũng vậy nên tôi ko quan tâm. Vài hôm sau, khi tôi kết nối loa bluetooth để phát nhạc, tôi nghe thấy nguồn âm thanh là lạ. Loa bluetooth trầm cơ mà, sao lại treb thế này nhỉ? Mà âm lượng cũng có vẻ bé, thế thì ko phải loa bluetooth rồi. Thế thì, ... nó là loa điện thoại, giời ơi! À, hóa ra máy móc đôi khi thích bạo lực để được sửa.
+
 
 ## 2022
 
