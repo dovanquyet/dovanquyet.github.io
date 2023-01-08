@@ -2,7 +2,7 @@
 permalink: /posts/en/favorite-quotes
 date: 2022-07-03
 title: 'Favorite Quotes in Films'
-tags:
+categories:
   - philosophy
 ---
 

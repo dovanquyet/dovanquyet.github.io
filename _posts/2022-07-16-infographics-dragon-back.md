@@ -2,7 +2,7 @@
 permalink: /posts/vi/infographics-dragon-back
 date: 2022-07-16
 title: 'Infographics Du hí Hồng Kông: Dragon Back - Lưng Rồng'
-tags:
+categories:
   - infographic
 ---
 

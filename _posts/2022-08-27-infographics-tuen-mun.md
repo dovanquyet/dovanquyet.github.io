@@ -2,7 +2,7 @@
 permalink: /posts/vi/infographics-tuen-mun
 date: 2022-08-27
 title: 'Infographics Du hí Hồng Kông: Tuen Mun'
-tags:
+categories:
   - infographic
 ---
 

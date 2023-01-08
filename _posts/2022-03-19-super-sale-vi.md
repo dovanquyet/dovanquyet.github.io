@@ -2,7 +2,7 @@
 permalink: /posts/vi/hang-giam-gia
 date: 2022-03-19
 title: 'Ham muốn ...'
-tags:
+categories:
   - funny
 ---
 

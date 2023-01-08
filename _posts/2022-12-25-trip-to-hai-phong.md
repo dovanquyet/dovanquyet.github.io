@@ -1,7 +1,8 @@
 ---
+permalink: /posts/vi/hai-phong-hai-san
 date: 2022-12-25
 title: 'Trở về để du lịch :D'
-tags:
+categories:
   - occasion
 header:
   image: /images/posts/trip_to_hp.jpg

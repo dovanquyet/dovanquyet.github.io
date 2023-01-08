@@ -2,7 +2,7 @@
 permalink: /posts/en/future-researcher-or-social-work-avoidant
 date: 2022-11-23
 title: 'We - future researchers or future social-work avoidants?'
-tags:
+categories:
   - philosophy
 ---
 

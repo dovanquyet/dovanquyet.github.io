@@ -2,7 +2,7 @@
 permalink: /posts/en/summer-internship-2022
 date: 2022-08-12
 title: 'What I Have Done During My Summer Internship'
-tags:
+categories:
   - work and research
 ---
 

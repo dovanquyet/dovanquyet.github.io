@@ -2,7 +2,7 @@
 permalink: /posts/vi/nhat-ky-cach-ly
 date: 2022-01-31
 title: 'Nhật ký cách ly'
-tags:
+categories:
   - occasion
 ---
 

@@ -2,7 +2,7 @@
 permalink: /posts/vi/my-first-webpage
 date: 2022-06-25
 title: 'Webpage đầu tiên của tui :D'
-tags:
+categories:
   - cool
 ---
 

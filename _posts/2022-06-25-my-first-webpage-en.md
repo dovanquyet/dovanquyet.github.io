@@ -2,7 +2,7 @@
 permalink: /posts/en/my-first-webpage
 date: 2022-06-25
 title: 'My First Webpage'
-tags:
+categories:
   - cool
 ---
 

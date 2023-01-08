@@ -2,7 +2,7 @@
 permalink: /posts/vi/infographics-tai-long-wan
 date: 2022-06-26
 title: 'Infographics Du hí Hồng Kông: Tai Long Wan - Vịnh Sóng Lớn'
-tags:
+categories:
   - infographic
 ---
 

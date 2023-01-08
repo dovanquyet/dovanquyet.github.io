@@ -2,7 +2,7 @@
 permalink: /posts/vi/ban-ve-game
 date: 2022-12-15
 title: 'Bàn về game'
-tags:
+categories:
   - cool
 ---
 

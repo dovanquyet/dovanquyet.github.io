@@ -2,7 +2,7 @@
 permalink: /posts/vi/ve-nha
 date: 2022-12-22
 title: 'Đi để trở về'
-tags:
+categories:
   - occasion
 ---
 

@@ -2,7 +2,7 @@
 permalink: /posts/en/timeline-in-films
 date: 2022-11-23
 title: 'The inconsistency of timeline in animated movies'
-tags:
+categories:
   - funny
 ---
 

@@ -2,7 +2,7 @@
 permalink: /posts/vi/infographics-hku
 date: 2022-08-06
 title: 'Infographics Du hí Hồng Kông: HKU + Victoria Harbor'
-tags:
+categories:
   - infographic
 ---
 

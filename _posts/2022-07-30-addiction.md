@@ -2,7 +2,7 @@
 permalink: /posts/en/addiction
 date: 2022-07-30
 title: '23 years of age, I have an (short) addiction to games, as planned!'
-tags:
+categories:
   - philosophy
 ---
 

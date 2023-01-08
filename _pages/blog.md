@@ -7,7 +7,7 @@ redirect_from:
   - /blog-posts/
 ---
 
-View posts by [topics](https://dovanquyet.github.io/tags/). Some interesting topics are: infographic, philosophy, ...
+View posts by [topics](https://dovanquyet.github.io/categories/). Some interesting topics are: infographic, philosophy, ...
 All topics (by alphabetical order) are cool, funny, infographic, occasion, philosophy, work and research.
 
 {% include base_path %}
