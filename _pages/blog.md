@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
-layout: collection
+layout: archive
 title: "Blog"
 author_profile: True
 redirect_from:
