@@ -5,6 +5,7 @@ main:
 
   - title: "Academic"
     url: /academic/
+
   # - title: "Publications"
   #   url: /publications/
 
@@ -23,9 +24,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Posts (testing)"
-    url: /_posts/
-    
+  # - title: "Posts (testing)"
+  #   url: /posts/
 
   # - title: "Misc"
   #   url: /miscellany/

@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dovanquyet/dovanquyet.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 100
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false # change to true to add link to talkmap on talks page
@@ -211,14 +211,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -227,7 +227,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -236,7 +236,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
@@ -245,7 +245,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS
@@ -256,8 +256,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
