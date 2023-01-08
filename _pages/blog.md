@@ -1,8 +1,8 @@
 ---
 permalink: /blog/
-layout: archive
+layout: collection
 title: "Blog"
-author_profile: False
+author_profile: True
 redirect_from:
   - /blog-posts/
 ---

@@ -22,6 +22,9 @@ main:
         
   - title: "Blog"
     url: /blog/
+
+  - title: "Posts (testing)"
+    url: /_posts/
     
 
   # - title: "Misc"
