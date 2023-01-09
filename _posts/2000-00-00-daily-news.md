@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2022-01-08
+date: 2023-01-08
 title: 'Chuyện hàng ngày/Daily story'
 categories:
  - funny

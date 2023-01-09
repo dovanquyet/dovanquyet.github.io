@@ -1,6 +1,6 @@
 ---
 permalink: / 
-excerpt: "About me"
+layout: archive
 title: "Homepage"
 author_profile: true
 redirect_from:

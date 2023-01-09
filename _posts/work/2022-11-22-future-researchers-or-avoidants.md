@@ -6,7 +6,7 @@ categories:
   - philosophy
 ---
 
-Note: 'Avoidant' in this post means person who avoid to not have to do smt.
+Note: 'Avoidant' in this post means person who avoid doing smt.
 
 The experience in the group project I had in this semeseter is bad. Not just because of the trash paper we build our project on, but also the not-engaging attitude of my groupmates. If I wrote this post earlier, I must tell more stories to critize them stronger. But the following is enough.
 
