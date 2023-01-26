@@ -10,7 +10,7 @@ redirect_from:
 
 This webpage is last updated on **2023/1/26**.
 
-Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang_chu)
+Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
 
 ## About me
