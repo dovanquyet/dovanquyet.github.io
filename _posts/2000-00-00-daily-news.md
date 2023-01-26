@@ -4,6 +4,7 @@ date: 2023-01-08
 title: 'Chuyện hàng ngày/Daily story'
 categories:
  - funny
+ - philosophy
 ---
 
 Nơi tôi kể những câu chuyện, suy nghĩ (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
@@ -15,7 +16,7 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 Sau khi khám bệnh thì tôi đến tiệc của NDNT luôn (một công đôi việc hehe). Mặc dù sở trường là hát, cơ mà được giao nhiệm vụ thì vẫn run. Khi tôi đến đó thì mới chỉ có vài người, mn còn đang xem trận VN gặp Indonesia. May quá, văn nghệ kiểu này có thể nhìn màn hình được, tức là ko cần phải thuộc lời.
 
-Văn nghệ xong, các bác, các cô, các chú phát biểu. Mn bắt đầu ăn. Ko có gì đáng nói (những lời chú Hải phát biểu rất hay, nhưng mình đã được nghe chú nói về những ý đó nhiều lần nên lần này ko có gì bình luận nữa). Đến lúc ăn xong xuôi, ae gạ tôi lên hát trước để mở đầu tăng hai, KARAOKE. Tôi mở màn xong thì anh em lên hát. Cháy, cháy nhà, ae hát cháy quá! Các thánh gào ghê vch luôn. Thề này thì văn nghệ của những năm sau dễ tổ chức rồi. Không phải tổng duyệt gì hết, tôi cứ đốt trước, anh em sẽ cháy theo ngay!
+Văn nghệ xong, các bác, các cô, các chú phát biểu. Mn bắt đầu ăn. Ko có gì đáng nói (những lời chú Hải phát biểu rất hay, nhưng mình đã được nghe chú nói về những ý đó nhiều lần nên lần này ko có gì bình luận nữa). Đến lúc ăn xong xuôi, ae gạ tôi lên hát trước để mở đầu tăng hai, KARAOKE. Tôi mở màn xong thì anh em lên hát. Cháy, cháy nhà, ae hát cháy quá! Các thánh gào ghê vch luôn. Thế này thì văn nghệ của những năm sau dễ tổ chức rồi. Không phải tổng duyệt gì hết, tôi cứ đốt trước, anh em sẽ cháy theo ngay!
 
 CẢNH BÁO KHÔNG LÀM THEO: Còn một vụ nữa, T và N ạ, anh đã nghĩ ra kế để điều tra mối quan hệ mà mn bàn tán. Cần một người hy sinh thân mình để giả vờ chuẩn bị tán 1 bạn, rồi hỏi bạn kia xem hai người có mối quan hệ gì không để tán. Ae thì phải nói thật với nhau, tránh trường gà nhà đá nhau. Đấy, thế là moi tin thành công :D
 
@@ -26,7 +27,7 @@ Nhà tôi vừa xuống bệnh viện đại học Y khám tổng quát. Mẹ t�
 
 Nhà tôi vào lấy số, số nhỏ vì lúc đó chưa nhiều người đến. Khám xong xuôi các thứ thì mới có 8 rưỡi, tôi tranh thủ ngồi nghịch .. thôi ko nhắc lại nữa :/ Lấy kết quả thì bệnh của mẹ và chị tôi chẳng có gì bất ngờ, kê đơn thuốc về uống là được. Còn tôi thì lòi ra một bệnh ... to be continued
 
-P/s1: Anh chị em nhớ sinh hoạt điều độ, ăn uống đủ chất, tập thể dục, và ngủ sớm. Nếu ko thì cơ thể của bạn cũng chẳng biểu hiện ra nó có vấn đề đâu, đến lúc đi khám mới biết.
+P/s1: Anh chị em nhớ sinh hoạt điều độ, ăn uống đủ chất, tập thể dục, và ngủ sớm. Nếu ko thì cơ thể của bạn cũng chẳng biểu hiện ra nó có vấn đề đâu, đến lúc đi khám mới biết. \
 P/s2: Sếp nào học ở ĐH Y thì cho tôi xin mật khẩu wifi của NVYT DHY với, chứ dùng wifi cho bệnh nhân thì chậm lắm :)))
 
 
@@ -52,8 +53,8 @@ Bịa vừa thôi ông, tôi cười đau bụng lắm rồi 😂
 
 ### Just found a video
 
-https://www.youtube.com/watch?v=9L0GO0Fgu4g
-It's about the English proficiency of middle school students in Shanghai. he are monsters!
+https://www.youtube.com/watch?v=9L0GO0Fgu4g \
+It's about the English proficiency of middle school students in Shanghai. They are monsters!
 
 
 ### Thi cuối kỳ

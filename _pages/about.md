@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This webpage is last updated on **2023/1/8**.
+This webpage is last updated on **2023/1/26**.
+
+Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang_chu)
 
 
 ## About me
@@ -34,3 +36,14 @@ My full academic profile can be found [here](https://dovanquyet.github.io/academ
 ## Contact me!
 
 Feel free to reach me at vqdo {at} connect [dot] ust (dot) hk.
+
+
+## Trang Chủ (phiên bản tiếng Việt cho trang này)
+
+Chào mừng mọi người đến mới trang chủ của mình. Hiện tại mình đang theo học chương trình thạc sĩ nghiên cứu ở [Hong Kong University of Science and Technology](https://hkust.edu.hk/), dưới sự hướng dẫn của Giáo sư [Yangqiu Song (Tống Dương Thu)](https://www.cse.ust.hk/~yqsong/). Từ tháng 11 năm 2022, mình có advisor thứ 2, đó là nữ giáo sư [Pascale Fung](https://pascale.home.ece.ust.hk/). Trước đó, mình nhận bằng Cử nhân ngành Data Science (Khoa học Dữ liệu) và Advanced Pure Math (Toán thuần túy nâng cao) vào tháng 7 năm 2022.
+
+Nghiên cứu của mình tập trung vào ngành NLP (Xử lý Ngôn ngữ tự nhiên), Commonsense Reasoning, ... Mong muốn của mình sau này đó là áp dụng NLP trong thực tế, đặc biệt là giáo dục và tâm lý trị liệu. Gần đây, với sự ra đời của ChatGPT, nghiên cứu của mình tập trung vào mô hình đó. Bên cạnh đó, mình đang nghiên cứu việc áp dụng conceptualization (i.e trừu tượng/cụ thể hóa) cho Commonsense Reasoning và các bài toán khác của NLP. Quan điểm về các mô hình tốt nhất hiện nay đã thay đổi khá nhiều so với nửa năm trước. Mình ko còn yêu cầu các mô hình phải hiểu ngôn ngữ (nếu nó thực sự hiểu thì loài người sẽ phải đối mặt với nguy hiểm lớn), mà chỉ cần chúng thực hiện được các tác vụ. Hiện tại, chúng đang làm khá tốt rồi.
+
+Về cuộc sống, mình rất thích âm nhạc. Giọng hát mình khá ổn và đã đi trình diễn ở một số nơi. Nhấn vào [kênh Youtube này](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) để nghe một vài bài hát mình cover hoặc tự viết :D Về tinh thần, lối suy nghĩ của mình được ảnh hưởng lớn từ [Thiền sư Thích Nhất Hạnh](https://plumvillage.org/thich-nhat-hanh/), đặc biệt là qua cuốn sách Đường Xưa Mây Trắng ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)).
+
+Cuối cùng, bạn có thể xem những thông tin liên quan đến học thuật của mình tại [đây](https://dovanquyet.github.io/academic), và những bài viết blog liên quan đến cuộc sống hàng ngày tại [đây](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay).

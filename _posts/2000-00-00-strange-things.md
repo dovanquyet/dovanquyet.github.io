@@ -4,6 +4,7 @@ date: 2023-01-08
 title: 'Chuyện lạ/Strange things'
 categories:
   - funny
+  - philosophy
 ---
 
 Nơi tôi kể những câu chuyện kỳ lạ xảy ra với tôi. Lạ thật!
