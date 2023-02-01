@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This webpage is last updated on **2023/1/26**.
+This webpage is last updated on **2023/02/01**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
