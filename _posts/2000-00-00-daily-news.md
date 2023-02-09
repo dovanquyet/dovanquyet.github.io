@@ -12,6 +12,50 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ## 2023
 
+### Dự án Máu Hiếm
+
+Tối chủ nhật tuần trước khi sang HK, tôi có gặp cả chú H NDNT và anh H - đại ca của tôi hồi cấp hai, người đã giúp tôi nhiều ở những ngày đầu để tôi có được thành tích như vậy trong những năm THPT. Tình cờ tôi được nghe chú H kể lại về dự án Máu Hiếm (cho tất cả các loại máu chứ ko chỉ các máu hiếm), rằng chú rất tâm huyết với dự án này, nó sẽ giải quyết được vấn đề phải đổ bỏ nhiều máu dự trừ ko dùng được. Cụ thể là mình sẽ xây dựng app hiến máu, khi nào bệnh viện cần thì sẽ liên hệ để lấy máu. Như vậy sẽ đảm bảo chất lượng cho máu, vừa ko phải bảo quản nhiều. Đó là luận điểm mà chú đưa ra.
+
+Sau đó tôi gặp anh H. Anh ấy đang là bác sĩ nội trú gây mê hồi sức, nên hẳn là anh sẽ giải đáp được thắc mắc của tôi. Tôi kể cho anh nghe về dự án máu hiếm, đặt nhiều câu hỏi để xem tiềm năng thực sự của dự án đến đâu. Theo anh ấy thì dự án này:
+1. chỉ đang làm điều mà Viện Huyết học và Truyền máu Trung Ương đang làm. Viện cũng lưu lại số của những người có máu hiếm, đến lúc họ cần thì sẽ liên lạc. Vậy nên mới có chuyện một người hiến máu chục lần trong 1 năm.
+2. không thực tiễn, vì thực tế các bệnh viện luôn luôn thiếu máu! Thế nên ko có chuyện có máu dự trù bị đổ đi. Đương nhiên thông tin này cần phải được xác nhận lại. Bên cạnh đó, kể cả có dự trữ ít máu đi và áp dụng mô hình "cơ thể là kho chứa máu di động", thì khi muốn truyền cho người khác thì máu sẽ phải được kiểm tra và phân tách. Việc này sẽ cản trở việc cấp cứu.
+Thế nên, dưới khía cạnh Y học, dự án Máu Hiếm sẽ ko có nhiều ưu điểm gì.
+
+Chắc biết đâu mới là sự lựa chọn đúng đắn. Chắc có lẽ mình cứ theo Viện Trung Ương xem sao!
+
+
+### Anh thanh niên
+
+Lặng lẽ Sapa, giờ thì mn nhớ nhân vật này chưa? Anh ấy chỉ sống một mình trên một đỉnh núi, nghiên cứu khí tượng thủy văn gì gì đó. Khi có ai đến chơi thì ảnh rất mừng, đủ để hiểu cuộc sống của anh cô đơn thế nào.
+
+Tôi có một bạn hơn tôi 1 tuổi, hồi cấp 3 đợt ôn thi vòng 2, tôi và anh ấy ở cùng phòng, nên từ đó mới thân nhau. Giờ thì anh học xong Học viện An Ninh, về làm ở một xã ven sông Hồng trong huyện tôi. Ra Tết, tôi và đứa em họ ra chơi với anh. Chẳng có ai trực cùng anh cả, mấy ông trực cùng ca thì tót về nhà ăn cơm rồi. Chỗ đấy thì toàn là đất trống, hình như để tổ chức hội làng, đến đêm thì nó im như tờ luôn. Tội anh thật, trông anh có khác gì anh thanh niên trong câu chuyện kia ko cơ chứ! Máy tính, đàn ca sáo nhị ở đó đều có, nhưng chơi cho ai nghe? Anh có một bể cá để tiêu khiển, nhưng cá có phát ra tiếng động được đâu. Tôi hỏi anh sao ko nuôi chó, thì anh bảo anh đã cố nuôi nhưng ko thành, mấy con anh nuôi đến chết cả. Hic, chúng nó buồn quá nên c.h.ế.t chăng?
+
+Mà thôi, nói chuyện vui đi, anh ấy mới cảnh cáo được 1 người bán thực phẩm chức năng dạo, tạm gọi là lừa đảo. Anh nói về thủ đoạn tinh vi của người ấy (nói chung là những người làm việc đó), rằng họ tặng quà cho người dân thì tặng có mấy thứ ti ti, thế mà thực phẩm chức năng của họ thì bán đắt hơn nhiều so với giá nhập. Nếu lừa bán được 1 sản phẩm thì họ cũng lãi to rồi! Đã thế dân mình còn nhẹ dạ cả tin, dễ bị lừa. Bảo sao lừa đảo còn có đất dung thân!
+
+Sắp tới có lễ hội đền Ngự Dội, lễ hội rước thánh Tản Viên từ Đền Và ở Sơn Tây sang đền Ngự Dội ở Vĩnh Ninh, nhóm của anh sẽ phải chuẩn bị bố trí an ninh cho sự kiện một cách kỹ càng. Thôi, chúc anh hoàn thành công việc và tìm được thú vui cho mình ở cái nơi hoang vắng đấy =)
+
+
+### Emotion Conservation Law
+
+Ya, sound like Energy Conservation Law, but the principle is a bit different. Actually, it's just integral :D Consider a person, if we can quantify the emotion of him/her at any time, and take the integral of that function w.r.t time and between two timestamps that you are at normal mood/state, the result should be 0. That mean your mood/state is the anti-derivative of your time-dependent emotion.
+
+In fact, the 'conservation' implies that if we feel happy sometimes, we must feel sad sometimes too. It's easy to imagine: You joined a summer program with strangers, you had two weeks to make friends, work and play with them. You felt very happy about that, and suddenly after two weeks you and them went back home and you missed them very much. That's just a normal process. Or reversely, you can think like your emotion = change of mood/state. Your mood is up, you feel happy, then when it is down back to the original point, you will feel sad. Again, it's normal.
+
+
+### Ngáo mua sắm - Phần 2
+
+Thực ra cũng ko ngáo lắm đâu, có lý do phết (nghe quen quen, lần 1 cũng thế mà nhỉ?), đó là tôi chỉ có 1 áo khoác mỏng, sang tháng 3/4 khi thời tiết ko còn lạnh nữa thì tôi sẽ mặc áo như vậy. Nếu chỉ có 1 cái thì ko đổi mode được :v. Thế nên ko một chút do dự, khi tôi thấy Shopee sale áo như thế, tôi đặt mua ngay trong 1 nốt nhạc. Rẻ lắm, có 70k (cả tiền ship) thôi :))
+
+Lúc nhận áo thì tôi hơi bàng hoàng. Sao cái áo này trông ... phèn phèn nhỉ? Sao trong ảnh thì nó đẹp thế, mà cầm nó trên tay thì thấy chất vải ko khác gì cái áo cũ của tôi, cái mà bây giờ đã thành rẻ lau :/ Kiểm tra lại hình ảnh trên shop, tôi thấy cái áo cũng ... giống ảnh phết. Ủa, thế thì ... hmmm, sao lúc tôi mua tôi lại nghĩ áo này có dáng thể thao nhỉ? Ngáo thực sự. Chắc là lúc đó tôi đã ở trạng thái ngáo mua sắm ko cần suy nghĩ nhiều. Đồ công nghệ trên shopee còn tin được, chứ quần áo thì đừng tin nhé!
+
+
+### Chơi nhà thầy
+
+Ối giồi ôi, tôi nhắn tin hỏi thầy có nhà ko để tôi vào chơi, nhưng thầy tôi chỉ đáp lại bằng Sticker :)) Okay, đến ngày hẹn thì tôi vẫn đi. Phóng xe vào Vĩnh Yên, vẫn con đường đấy, vẫn căn nhà ấy, tôi tấp xe lên vỉa hè và gọi thấy thật to. Tiếng của thầy trong nhà vọng ra, và nhoáng cái thầy đã ra mở cửa cho tôi. Lâu lắm rồi tôi mới gặp thầy, hình như 3,4 năm rồi. Thầy đã hơn 60 tuổi, đã nghỉ hưu chính thức, nhưng trông thầy còn 'trẻ khỏe' lắm, vẫn cười vang lắm :D.
+
+Hai thầy trò tâm sự về nhiều thứ trong mấy năm qua, nào là thầy được Huân Chương Lao Động Hạng 3, Chiến sĩ thi đua yêu nước (hmm, tôi ko chắc lắm, nhưng tên của danh hiệu có từ 'Yêu nước' và 5 năm mới trao 1 lần, mỗi lĩnh vực chỉ có 1 người được nhận. Thế mà thầy tôi được nhận, oai chưa :v), ...; rồi chuyện thầy ở nhà chán quá nên qua rằm thầy sẽ lại đi dạy ở CVP để quyết tâm có thủ khoa. Thiết nghĩ thầy còn nhiều nhiệt huyết như vậy thì rõ là nên tiếp tục đi dạy. Khéo thầy còn có thêm học sinh thi IMO cũng nên :p. Trước khi về, thầy có bảo tôi có sách Toán bên HK thì mua giúp thầy, thế là tôi kể cho thầy nghe về cuốn sách hôm trước thầy L.A.V tặng và thầy ưng cuốn đó luôn. Hôm sau tôi gửi chuyển phát nhanh cho thầy. Hi vọng quyển sách trong tay thầy sẽ lan tỏa được nhiều giá trị hơn là chỉ nằm trong tủ sách của tôi!
+
+
 ### YEP NDNT
 
 Sau khi khám bệnh thì tôi đến tiệc của NDNT luôn (một công đôi việc hehe). Mặc dù sở trường là hát, cơ mà được giao nhiệm vụ thì vẫn run. Khi tôi đến đó thì mới chỉ có vài người, mn còn đang xem trận VN gặp Indonesia. May quá, văn nghệ kiểu này có thể nhìn màn hình được, tức là ko cần phải thuộc lời.
@@ -163,7 +207,7 @@ Hàng xóm nhà mình có sở thích nấu ăn. Thi thoảng lúc đang ngồi 
 
 ### Bảo hành màn hình máy tính
 
-Vch, gọi điện cho trung tâm bảo hành thì phải nói chuyện với bot, nó nói thì chậm, mà cũng chẳng hiểu nó cần thông tin gì để mình được nối máy đến đội hỗ trợ. Nhanh trí lục lại kinh nghiệm về chuyên ngành NLP, tôi đã phớt lờ câu hỏi của bot và vào vấn đề luôn: T muốn gặp techical team! May quá, nó nối máy rồi.
+Vch, gọi điện cho trung tâm bảo hành thì phải nói chuyện với bot, nó nói thì chậm, mà cũng chẳng hiểu nó cần thông tin gì để mình được nối máy đến đội hỗ trợ. Nhanh trí lục lại kinh nghiệm về chuyên ngành NLP, tôi đã phớt lờ câu hỏi của bot và vào vấn đề luôn: T muốn gặp technical team! May quá, nó nối máy rồi.
 
 Nhưng chưa hết đâu. Đội kỹ thuật hỏi tôi một vài thông tin cơ bản, và mất tận 5 PHÚT để họ tự tin rằng họ nghe đúng email của tôi. Vch! A for Apple, B for Ball suốt!
 
