@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2023-01-08
+date: 2023-02-12
 title: 'Chuyện hàng ngày/Daily story'
 categories:
  - funny
@@ -10,7 +10,20 @@ categories:
 Nơi tôi kể những câu chuyện, suy nghĩ (vui) hàng ngày. Ngôn ngữ viết sẽ rất bình dân, đôi khi còn viết hơi quá một chút.
 This is where I write my (funny) daily stories. The language used is casual, sometimes exaggerating.
 
+
 ## 2023
+
+### Lễ ra mắt Hội sinh viên VN tại Hồng Công
+
+To, hoành tráng, ca sĩ hát hay :)) Đây là lần đầu tiên mà mình được gặp nhiều các bạn dư học sinh VN ở HK như vậy. 4 năm trước bọn mình có được tham gia tiệc Quốc Khánh của Lãnh Sứ Quán (LSQ), nhưng cảm giác nó ko to thế này.
+
+Ngoài các bạn du học sinh thì có rất nhiều kiều bào người Việt sinh sống ở HK cũng đến tham dự. Hội SV VN ở HK thực tế là một tổ chức của LSQ, thế nên việc có nhiều người ko phải là du học sinh cũng tham dự sự kiện ko phải là điều gì khó hiểu. Ôi cái không khí Việt Nam này, thật là đáng quý. Hi vọng hội sẽ phát triển bền vững, tổ chức được nhiều hoạt động cho sinh viên! Sắp tới, mình sẽ tham gia ban cán sự của Hội, phụ trách mảng sự kiện (thể thao, văn nghệ, e-sport :P). Quẩy lên ae ei!
+
+<p align="center">
+<img src="/images/daily/vsa_inauguration_ceremony_1.jpg" width="500">
+<img src="/images/daily/vsa_inauguration_ceremony_2.jpg" width="500">
+</p>
+
 
 ### Dự án Máu Hiếm
 

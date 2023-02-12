@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This webpage is last updated on **2023/02/01**.
+This webpage is last updated on **2023/02/12**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
@@ -19,13 +19,14 @@ Hi folks! Welcome to my personal homepage. I'm a first year M.Phil student at th
 
 My research interest lies in the field of Natural Language Processing, Commonsense Reasoning, Continual Learning with Expandable AI, Data Mining, etc. My dream is to apply NLP into real world, especially in education and psychological therapy. ~~Currently, I focus on how to incorporate commonsense knowledge in LMs, to make the models 'understand' (concepts) rather than just 'memorize' (word co-occurence)~~ My perspective toward LMs has changed since the birth of ChatGPT. Currently, I work on it and a project that comprehensively evaluate it. After reading several blogs discussing ChatGPT, I (am influenced by the idea that we) shouldn't expect LMs to really understand language anymore because it never understand, instead expect them to mimic human behavior as realistic as possible. In fact, LLMs have already done good jobs.
 
-About my personal life, I am a big fan of music. I consider myself as an amateur singer. Check this [Youtube channel](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) to hear my voice :D Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism accounts for the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)).
+About my personal life, I am a big fan of music. I consider myself as an amateur singer. Check this [Youtube channel](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) to hear my voice :D Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism accounts for the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)). Also, I just join the organizing team of Vietnam Student Association in HK as event co-head organizer, focusing on music, sport, e-sport events :)
 
 My full academic profile can be found [here](https://dovanquyet.github.io/academic). For (interesting) stories about my personal life, please check [here](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay).
 
 
 ## News
 
+- [2023/02/09] Our work on evaluating ChatGPT is out. Check this [paper](https://arxiv.org/abs/2302.04023)
 - [2022/11/17] Have a chat with Prof. Pascale. She is also interested in using commonsense knowledge to control the language model's generation and support open-ended QA. Thus, I start working with her students :P.
 - [2022/10/06] My first paper has been accepted as Findings of EMNLP2022. Yeah!!!
 - [2022/06/24] My first paper has been submitted to EMNLP2022. Let's see if it's accepted =). Also, I joined the program commitee as a reviewer for track Ethics.

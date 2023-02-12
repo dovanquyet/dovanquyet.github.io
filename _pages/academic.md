@@ -7,16 +7,20 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf) (updated in Oct 2022). For full description of my academic and industrial experience, please visit my LinkedIn page.
+Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf) (updated in Feb 2023). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
 <!-- my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf). -->
 
 
-### Recent Publications
+### Publications
 
-Only present recent 5 publications here. For the full list of my publication, please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ) and my [Resumé](https://dovanquyet.github.io/files/resume.pdf).
+Only present the most recent or important 5 publications here. For the full list of my publication, please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ) and my [Resumé](https://dovanquyet.github.io/files/resume.pdf).
+
+- **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**\
+Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, **Quyet V. Do**, Yan Xu, Pascale Fung\
+*Preprint*, 2023. [\[pdf\]](https://arxiv.org/abs/2302.04023)
 
 - **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**\
-Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See.\
+Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See\
 *Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
 
 _Remark: \* indicates equal contribution._
@@ -26,7 +30,8 @@ _Remark: \* indicates equal contribution._
 
 I have self-studied the following courses/series whose videos are available on Youtube. These are all amazing, and they significantly broaden my knowledge.
 
-- MIT - MIT 6.868J The Society of Mind, Fall 2011 (about to start, I need to learn the idea from Marvin Minsky because I believe that the idea will base the future NLP)
+- MIT - MIT 6.868J The Society of Mind, Fall 2011 (start, I need to learn the idea from Marvin Minsky because I believe that the idea will base the future NLP)
+- Zero Knowledge Proofs - [MOOC Spring 23](https://zk-learning.org/) (interesting course, but not relevant to my current research. So ...)
 - Stanford - Human Behavioral Biology (not yet start)
 - Stanford - CS330 Deep Multi-Task and Meta Learning (nearly finish). It will take a long time to finish :D
 - MIT - MIT 9.13 The Human Brain, Spring 2019 (finished in Sep 2022). Eventhough I only shallowly learned from this course, it really brings me the knowledge about our brain's functionality and inspires me a lot on how should I structure an AI system
@@ -57,4 +62,4 @@ n/a
 
 ### Teaching
 
-- TA: HKUST COMP4332 (Spring 23, tentative)
+- TA: HKUST COMP4332 (Spring 23)

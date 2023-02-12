@@ -10,4 +10,4 @@ Chắc các bạn cũng có thể gọi nó với cái tên thân thuộc hơn, 
 
 To be updated ...
 
-P/s: T viết bài này một phần cũng vì m, L ạ. Mong m sớm tìm ra định danh của m! T cũng ko mong gì hơn thế.
+Thế nên hiện tại, tôi vẫn hay bảo mn rằng, hãy gọi tôi là nghiên cứu sinh, thay vì vận động viên hay ca sĩ.
