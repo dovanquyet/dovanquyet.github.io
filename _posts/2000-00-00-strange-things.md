@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-la
-date: 2023-01-08
+date: 2023-03-21
 title: 'Chuyện lạ/Strange things'
 categories:
   - funny
@@ -12,6 +12,33 @@ This is where I tell strange things happened to me. Very strange!
 
 
 ## 2023
+
+
+### Tại sao tôi lại nhiều cảm xúc (emotional) thế này!
+
+> Đấy là hôm qua rồi. Sau khi tôi viết xong blog WSDM23, tôi đã ko còn tí cảm xúc nào! Có lẽ tôi ko nên thường xuyên viết blog dài như vậy nữa :/ Nhưng thôi, tiện viết blog thì viết cho xong vậy :(
+
+Sáng sớm ngủ dậy, trời hơi se lạnh, tôi bật highlight trận chung kết đôi nam All England lên để xem. Trận đấu hay, hấp dẫn, và kết bởi một hành động rất đẹp đến từ đại ca Ashan. Ổng bị chấn thương, nhưng vẫn cố gắng thi đấu nốt điểm cuối để những người em được trải nghiệm cảm giác ghi được Championship point ở All England nó như thế nào. What a sportmanship!
+
+Đến khi ngồi học, tôi bấm vào bài hát (được Youtube recommend cho tôi 2 tháng nay, nhưng giờ tôi mới click vào) "Tìm Em Câu Ví Sông Lam", bản MV của Vũ Thắng Lợi. Ôi sao mà xúc động vậy. Nước mắt tôi tự động trào ra, như thế tôi là nhân vật chính trong câu chuyện vậy. Nghe lại vài lần, tôi vẫn có cảm xúc ấy. Xem MV còn thấy buồn hơn, vì được thấy motif chuyện tình cảm thời chiến: Hai người có tình cảm nhưng người con trai ko dám thổ lộ, hứa hẹn gì, bởi vì đâu có biết được sau này ra trận mình còn quay về hay ko. Nghĩ như vậy thôi, tôi lại càng xúc động, hic! Không hiểu tại sao.
+
+Đến gần trưa thì zoom với supervisor. Lần gần nhất mình có meeting riêng với thầy là tháng trước. Giai đoạn đó mình phải vất vả bảo vệ quan điểm đối với 1 đề tài nghiên cứu trước những câu hỏi của thầy. Lần này, sau 1 tháng mình lăn lộn với project đó, thấy được sự khó khăn khi thực hiện nó, mình chủ động nói với thầy là sẽ ko ưu tiên ý tưởng nghiên cứu này nữa, thay vào đó là tập trung cho 2 projects khác vì dataset cho chúng đã được bọn mình dán nhãn xong. Cơ mà, thầy lại động viên mình có thể tiếp tục nghiên cứu này, trong lúc đang chạy thí nghiệm cho 2 projects kia. Thầy trải lòng về việc nhiều dataset đúng là rất tệ, rất nông, ko có lý thuyết nào chống lưng cho nó cả. Nhiều nhóm nghiên cứu tạo ra nhiều datasets như vậy chỉ là để lấy tiền từ DARPA thôi. Và rằng là nhà nghiên cứu, chúng ta nên làm những điều đúng đắn, chứ ko được lấp liếm cho qua những vấn đề. Tôi thừa biết trước đây thầy đặt nhiều câu hỏi cho tôi vì muốn tôi thực sự nghĩ sâu về ý tưởng này, chứ ko hề có ý ngăn cản. Nhưng khi nghe những lời nói của thầy, rồi một vài ý tưởng thầy chia sẻ, tôi lại .. 'xúc động' :)) Thầy tôi chắc chắn là một trong những supervisor tốt nhất trên thế giới, tôi có thể khẳng định như vậy!
+
+Thực ra, chiều qua tôi cảm thấy hơi mệt, chắc là do buổi sáng tôi 'xúc động' nhiều quá. Sống tình cảm quá cũng khổ :)) Cứ lạnh lùng boy một xíu có khi lại cân bằng cuộc sống tốt hơn.
+
+
+### 'I really want to have a date'
+
+Câu này là do Jackson Wang nói nhé, ko phải tôi :)) Bằng một cách thần kỳ nào đó, tôi nghe các bài hát của ổng rồi xem được đoạn short này của ổng trên Youtube.
+
+Tôi cũng chẳng biết mình có thực sự cần tình yêu vào lúc này ko. Tháng trước, tôi suy nghĩ về chuyện này nhiều, rằng tôi cần try hard để nộp PhD Mỹ, chứ ko được dành thời gian cho việc yêu đương lúc này. Nhưng càng ngăn cấm thì càng nghĩ đến nhiều, tôi điên đầu về chuyện cấm bản thân ko được có tình cảm với bất cứ ai. Đến cuối tháng thì tôi đành buông xuôi, ko cấm nữa. Kệ, não tôi thích gì mặc xác nó!
+
+Đương nhiên khi ko bị cấm nữa, (cơ thể) tôi có dần dần thích một bạn. Tôi cũng kệ nó thôi, nó thích nói chuyện gì với bạn ấy cũng được. Thích tán gái cũng được, cơ mà làm bài bản vào! Tôi ko áp lực về chuyện có nên cơm nên cháo gì với bạn ấy hay ko, kệ mà. Một tuần sau, (cơ thể) tôi hỏi bạn ấy đã có ny chưa. Tôi cũng đoán được trước câu trả lời, và ko có gì ngạc nhiên khi bạn bảo có rồi. Thú thực, tôi mừng thầm khi biết bạn ấy đã có ny, vì như vậy tôi sẽ ko bị rơi vào trường hợp 'đâm lao thì phải theo lao'. Đấy, cứ thỏa mái với bản thân mình, có phải đỡ khổ ko. Đằng nào thì xung quanh mình cũng có ai là chưa có ny đâu mà lo yêu đương tốn thời gian!
+
+Thế 1 buổi hẹn hò thì sao nhỉ? Hmm, tùy. Mình có thời gian hoặc có hứng và tìm được người cũng có mong muốn ấy thì có thể thử. Tôi kệ mà! Nhưng thú thực, gần đây, tôi ko có suy nghĩ gì về chuyện yêu đương nữa. Tôi cũng ko biết đồ thị về nhu cầu tình cảm của tôi nó sẽ thế nào trong tương lai. Thế nên nếu (một cách thần kỳ nào đó) có ai rủ tôi đi hẹn hò, thì tôi cũng chẳng biết trả lời thế nào. I don't know if 'I really want to have a date' :/
+
+Lạt mềm 'kệ' buộc chặt 'ham muốn' ư?
+
 
 ### Đổ vỡ .. có khi lại hay
 
