@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2023-02-12
+date: 2023-04-12
 title: 'Chuyện hàng ngày/Daily story'
 categories:
  - funny
@@ -12,6 +12,22 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 
 ## 2023
+
+### Những người bạn Trung Quốc của tôi
+
+Trong một ngày, 3 người bạn người Trung Quốc làm tôi cười ko nhặt được miệng.
+
+Đầu buổi chiều, bạn đầu tiên trả lời tin nhắn của tôi từ lúc tôi ... mới quay lại HK, tức là 2 tháng trước. Hồi đó tôi nhắn bạn để mời bạn ăn bánh chưng, rồi 2 tháng sau bạn trả lời là "Tại sao t lại quên trả lời tin nhắn của m nhỉ? Lúc nào m có thì cho t thử nhé :))". Okie bạn, đợi năm sau nhé!
+
+Đến chiều muộn, một thanh niên khác gửi tôi lời giải của bài về nhà của một môn học. Tôi thấy lạ vch, vào cảm ơn và nhắc bạn rằng bài về nhà này ... quá hạn nộp rồi :)) Phản ứng của nó thì chắc tôi ko cần mô tả nữa :v Ảo thật đấy!
+
+Đến tối, hàng xóm của tôi (cũng là roommate cũ của tôi hồi học năm 2, đợt Tết tôi có cho nó thử ăn bánh Chưng) nhắn tôi là có quà từ quê nó. Một hồi sau thì nó nhắn tiếp là, nó nhận ra quà này thực ra từ ... Việt Nam. Đó là bánh đậu xanh Hải Dương, rất phổ biến ở quê nó, và hồi bé nó ăn suốt. Tốt lắm bạn, cho người Việt đồ ăn Việt!
+
+
+### Parents in VTV series
+
+I don't know where I should place this snippet. It seems not funny to place here :/, but okay, I will temporarily place it here. Coincidentally, two film series in VTV, namely "Dưới bóng cây hạnh phúc" and "Đứng nói khi yêu", end in the same day (Mar 29, 2023). Scripts of these series depict a lot of different life stories, a lot of different aspects of relationship. Yet the most tragedic climax of these series ALL ORIGINATE FROM PARENTS OF PROTAGONISTS! The parents represents the old mindset, that spark or magnify the conflict between couples in the films. They all tell others (and I believe they do) they just wish all the best to their children, but they don't know what is the best for their children. Speaking from the angle of business, it's really similar to the case of "don't understand customers' need". Once parent "don't understand their customers' need", their "company, relationship with the customer" will soon collapse. That's really what happen in the films.
+
 
 ### Lễ ra mắt Hội sinh viên VN tại Hồng Công
 
