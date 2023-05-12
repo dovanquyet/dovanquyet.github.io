@@ -91,7 +91,7 @@ Sau khi khám bệnh thì tôi đến tiệc của NDNT luôn (một công đôi
 
 Văn nghệ xong, các bác, các cô, các chú phát biểu. Mn bắt đầu ăn. Ko có gì đáng nói (những lời chú Hải phát biểu rất hay, nhưng mình đã được nghe chú nói về những ý đó nhiều lần nên lần này ko có gì bình luận nữa). Đến lúc ăn xong xuôi, ae gạ tôi lên hát trước để mở đầu tăng hai, KARAOKE. Tôi mở màn xong thì anh em lên hát. Cháy, cháy nhà, ae hát cháy quá! Các thánh gào ghê vch luôn. Thế này thì văn nghệ của những năm sau dễ tổ chức rồi. Không phải tổng duyệt gì hết, tôi cứ đốt trước, anh em sẽ cháy theo ngay!
 
-CẢNH BÁO KHÔNG LÀM THEO: Còn một vụ nữa, T và N ạ, anh đã nghĩ ra kế để điều tra mối quan hệ mà mn bàn tán. Cần một người hy sinh thân mình để giả vờ chuẩn bị tán 1 bạn, rồi hỏi bạn kia xem hai người có mối quan hệ gì không để tán. Ae thì phải nói thật với nhau, tránh trường gà nhà đá nhau. Đấy, thế là moi tin thành công :D
+CẢNH BÁO KHÔNG LÀM THEO: Còn một vụ nữa, T và N ạ, anh đã nghĩ ra kế để điều tra mối quan hệ mà mn bàn tán. Cần một người hy sinh thân mình để giả vờ chuẩn bị tán 1 bạn, rồi hỏi bạn kia xem hai người có mối quan hệ gì không để tán. Ae thì phải nói thật với nhau, tránh trường hợp gà nhà đá nhau. Đấy, thế là moi tin thành công :D
 
 
 ### Đi khám bệnh

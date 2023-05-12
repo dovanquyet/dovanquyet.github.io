@@ -7,21 +7,30 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf) (updated in Feb 2023). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
+Please take a look at my [Resumé](https://dovanquyet.github.io/files/resume.pdf) (updated in May 2023). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
 <!-- my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf). -->
 
 
 ### Publications
 
-Only present the most recent or important 5 publications here. For the full list of my publication, please refer to [Google Scholar](https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ) and my [Resumé](https://dovanquyet.github.io/files/resume.pdf).
+Only present the most recent or important 5 publications here. For the full list of my publications with brief summaries, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252) and my [Resumé](https://dovanquyet.github.io/files/resume.pdf).
+
+
+- **COLA: Contextualized Commonsense Causal Reasoning from the Causal Inference Perspective**\
+Zhaowei Wang, **Quyet V. Do**, Hongming Zhang, Jiayao Zhang, Weiqi Wang, Tianqing Fang, Yangqiu Song, Ginny Y. Wong, S. See\
+*ACL 2023*. [\[pdf\]](https://arxiv.org/abs/2305.05191) [\[code\]](https://github.com/HKUST-KnowComp/COLA).
+
+- **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**\
+Tianqing Fang\*, **Quyet V. Do**\*, Sehyun Choi, Weiqi Wang, Yangqiu Song\
+*ArXiv Preprint*, 2023. [\[pdf\]](https://arxiv.org/abs/2304.10392) [\[code\]](https://github.com/HKUST-KnowComp/CSKB-Population).
 
 - **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**\
 Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, **Quyet V. Do**, Yan Xu, Pascale Fung\
-*Preprint*, 2023. [\[pdf\]](https://arxiv.org/abs/2302.04023)
+*ArXiv Preprint*, 2023. [\[pdf\]](https://arxiv.org/abs/2302.04023) [\[code\]](https://github.com/HLTCHKUST/chatgpt-evaluation).
 
 - **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**\
 Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See\
-*Findings of Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP)*, 2022. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
+*Findings of EMNLP 2022*. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
 
 _Remark: \* indicates equal contribution._
 
@@ -43,7 +52,7 @@ I have self-studied the following courses/series whose videos are available on Y
 
 ### Service
 
-- Conference Reviewer: EMNLP'22, ACL'23
+- Conference Reviewer: EMNLP'22, ACL'23, AACL'23
 
 
 ### Awards

@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This webpage is last updated on **2023/04/12**.
+**"Think big, act ~small~ medium, and move ~fast~ gradually"**
+
+This webpage is last updated on **2023/05/12**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
@@ -24,11 +26,13 @@ About my personal life, I am a big fan of music. I consider myself as an amateur
 My full academic profile can be found [here](https://dovanquyet.github.io/academic). For (interesting) stories about my personal life, please check [here](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay).
 
 
-## News
+## Academic News
 
+- [2023/05/01] Our paper on Contextualized Commonsense Causal Reasoning has been accepted to EMNLP'23 Main Conference. Check it [here](https://arxiv.org/abs/2305.05191)
+- [2023/04/20] Our paper on Commonsense Knowledge Base Population is archieved. Check it [here](https://arxiv.org/abs/2304.10392)
 - [2023/02/09] Our work on evaluating ChatGPT is out. Check this [paper](https://arxiv.org/abs/2302.04023)
 - [2022/11/17] Have a chat with Prof. Pascale. She is also interested in using commonsense knowledge to control the language model's generation and support open-ended QA. Thus, I start working with her students :P.
-- [2022/10/06] My first paper has been accepted as Findings of EMNLP2022. Yeah!!!
+- [2022/10/06] My [first paper](https://arxiv.org/abs/2210.07988) has been accepted as Findings of EMNLP2022. Yeah!!!
 - [2022/06/24] My first paper has been submitted to EMNLP2022. Let's see if it's accepted =). Also, I joined the program commitee as a reviewer for track Ethics.
 - [2022/05/06] My application for M.Phil program to HKUST is accepted, yeah! I will remain in HK for two more years
 - [2022/04/30] The rejection from the last school that I applied for a Ph.D program came. Not surprised, at all!
@@ -45,6 +49,6 @@ Chào mừng mọi người đến mới trang chủ của mình. Hiện tại m
 
 Nghiên cứu của mình tập trung vào ngành NLP (Xử lý Ngôn ngữ tự nhiên), Commonsense Reasoning, ... Mong muốn của mình sau này đó là áp dụng NLP trong thực tế, đặc biệt là giáo dục và tâm lý trị liệu. Gần đây, với sự ra đời của ChatGPT, nghiên cứu của mình tập trung vào mô hình đó. Bên cạnh đó, mình đang nghiên cứu việc áp dụng conceptualization (i.e trừu tượng/cụ thể hóa) cho Commonsense Reasoning và các bài toán khác của NLP. Quan điểm về các mô hình tốt nhất hiện nay đã thay đổi khá nhiều so với nửa năm trước. Mình ko còn yêu cầu các mô hình phải hiểu ngôn ngữ (nếu nó thực sự hiểu thì loài người sẽ phải đối mặt với nguy hiểm lớn), mà chỉ cần chúng thực hiện được các tác vụ. Hiện tại, chúng đang làm khá tốt rồi.
 
-Về cuộc sống, mình rất thích âm nhạc. Giọng hát mình khá ổn và đã đi trình diễn ở một số nơi. Nhấn vào [kênh Youtube này](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) để nghe một vài bài hát mình cover hoặc tự viết :D Về tinh thần, lối suy nghĩ của mình được ảnh hưởng lớn từ [Thiền sư Thích Nhất Hạnh](https://plumvillage.org/thich-nhat-hanh/), đặc biệt là qua cuốn sách Đường Xưa Mây Trắng ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)). Bên cạnh đó, từ tháng 02/2023, mình tham gia Ban cán sự của [Hội sinh viên VN tại HK](https://www.facebook.com/profile.php?id=100087606602683) như Phó CT hội phụ trách mảng tổ chức sự kiện.
+Về cuộc sống, mình rất thích âm nhạc. Giọng hát mình khá ổn và đã đi trình diễn ở một số nơi. Nhấn vào [kênh Youtube này](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) để nghe một vài bài hát mình cover hoặc tự viết :D Về tinh thần, lối suy nghĩ của mình được ảnh hưởng lớn từ [Thiền sư Thích Nhất Hạnh](https://plumvillage.org/thich-nhat-hanh/), đặc biệt là qua cuốn sách Đường Xưa Mây Trắng ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)). Bên cạnh đó, từ tháng 02/2023, mình tham gia Ban cán sự của [Hội sinh viên VN tại HK](https://www.facebook.com/profile.php?id=100087606602683) với vai trò Phó chủ tịch phụ trách mảng tổ chức sự kiện.
 
 Cuối cùng, bạn có thể xem những thông tin liên quan đến học thuật của mình tại [đây](https://dovanquyet.github.io/academic), và những bài viết blog liên quan đến cuộc sống hàng ngày tại [đây](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay).
