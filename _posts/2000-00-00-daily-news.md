@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2023-04-12
+date: 2023-12-31
 title: 'Chuyện hàng ngày/Daily story'
 categories:
  - funny
@@ -12,6 +12,35 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 
 ## 2023
+
+
+### Đi thăm trường cũ
+
+Tôi có hẹn gặp mấy đứa bạn học ở trường KHTN, thực ra là bắt một đứa khao vì nó đỗ công chức trong Tổng cục Thống kê :)) Nghe oai ri.
+
+Tôi hẹn các bạn ở trường KHTN, một phần nghĩ rằng các bạn đi làm ở gần trường nên cũng dễ qua đó, một phần cũng vì tôi muốn xem lại trường cũ xem nó ra sao. Công nhận là đẹp thật. Các tòa nhà được sơn lại, phủ lên đó là những cây hoa giấy, mang lại cảm giác rất quen thuộc. Tôi có đi qua những phòng mà tôi học những môn Toán và môn Cơ sở Văn Hóa, còn hội trường tầng 7 thì thôi, tôi lười lên đó lắm.
+
+<p align="center">
+<img src="/images/daily/dhkhtn_2023_1.jpg" width="500">
+<img src="/images/daily/dhkhtn_2023_2.jpg" width="500">
+</p>
+
+Ngồi nghỉ ở vườn hoa của trường một lúc thì chủ chi đến. Hóa ra là anh em định hẹn nhau ở gần khu chơi bi-a luôn, thế là tôi lại mất công lai bạn chủ chi ra khu đó. Tôi thì vừa từ gần khu đó đi Grab đến trường, giờ lại quay lại chỗ kia. Bực thật :)).
+
+
+### Deadline là liều thuốc bổ
+
+Tôi cong mông chạy thí nghiệm và viết báo để cho kịp EMNLP. Đây là bài báo đầu tiên mà tôi làm tác giả chính, nên tôi vừa háo hức vừa áp lực. Lúc đó tôi nghĩ đến một ví dụ, đó là nhà văn Nam Cao (tôi ko chắc chắn về tên nhà văn đó). Ông viết rất nhiều tác phẩm hay khi ông cần tiền để lấy vợ. Có những thứ vừa là áp lực vừa là động lực để phấn đấu mới thật là ý nghĩa. Tôi cũng vậy, nhờ có deadline của EMNLP thì tôi mới có bài báo nghiên cứu của riêng mình. Tuy nhiên, tôi ví deadline là thuốc mà, kể cả có bổ thì nó vẫn có mặt trái. Uống nhiều cũng ko tốt đâu.
+
+
+### Sense of Loser
+
+Thú thực là, lúc tôi có cảm giác này là lúc tôi đang bận viết báo nghiên cứu, nên ko có thời gian và tâm trí để viết những lời này ra. Lúc tôi đang viết những dòng này thì chắc phải là 1 tháng sau khi tôi note lại chủ đề này, nên cảm xúc có thể ko còn nguyên vẹn nữa.
+
+Từ lúc học tiểu học đến hết cấp ba thì tôi luôn là đứa học giỏi Toán nhất lớp, nên chỉ trừ giai đoạn lớp 6-7 là tôi có kém các bạn cùng khối (nhưng vẫn nhất lớp), còn đâu thì tôi hầu như chưa phải chịu cảm giác thua kém ai. Lúc học đại học thì biết rằng mình cần thời gian để chọn ngành nghề cho đúng, thế nên tôi cũng ko hay so sánh mình với các bạn, chủ yếu là phải trả lời được câu hỏi của mình rằng mình sẽ theo ngành gì đã. Hiện tại tôi cũng đã chọn chuyên ngành nghiên cứu được hai năm, và trong lứa của tôi ở lab của thầy tôi, có một bạn người Trung nổi bật lên hẳn. Tôi hay gọi nó là con đẻ của thầy, vì nó được thầy tin tưởng giao phó nhiều project và việc quan trọng của lab, đương nhiên expectation của thầy đặt lên nó chắc cũng cao hơn tôi. Nhưng đó là chuyện khác, chuyện chính ở bài viết này đó là tôi cảm thấy mình thua kém nó. Thực sự thua kém nhiều thứ, từ kỹ năng làm thí nghiệm, trình độ viết báo, đến kiến thức về ngành NLP. Tôi cũng chẳng biết sự thực là tôi thua kém nó bao nhiêu, nhưng tôi luôn có cảm giác là vậy. 
+
+Cuối cùng thì tôi cũng "được" rơi vào hoàn cảnh mà những đứa bạn hồi cấp 2 và cấp 3 của tôi phải chịu khi tôi luôn cố gắng giữ thế độc tôn. Cảm giác thua kém ở "mặt trận chính" luôn khiến người ta lo lắng. Giờ tôi cũng được lo lắng như các bạn, cũng ko được thầy của mình quan tâm như "con đẻ" của thầy, và phải học cách tự sinh tồn. Tốt thôi, đây là cơ hội tốt để tôi trưởng thành.
+
 
 ### Những người bạn Trung Quốc của tôi
 

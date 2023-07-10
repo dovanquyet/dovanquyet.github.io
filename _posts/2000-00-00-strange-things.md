@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-la
-date: 2023-03-21
+date: 2023-12-31
 title: 'Chuyện lạ/Strange things'
 categories:
   - funny
@@ -12,6 +12,15 @@ This is where I tell strange things happened to me. Very strange!
 
 
 ## 2023
+
+### Chiếc áo thân quen
+
+Hôm nay tôi lên thu quần áo và nhận ra chiếc áo cộc thân thuộc đã gắn bó với tôi trong một khoảng thời gian dài trước đây. Lúc tôi bỏ chiếc áo đó để làm rẻ lau, nó đã cũ và có nhiều chấm .. mốc. Hôm nay nhìn lại chiếc áo đó, tôi ngạc nhiên vì .. trông nó còn ổn hơn cả lúc tôi vừa bỏ. Ảo thật @@
+
+
+### Nghĩ lung tung lúc đang gấp rút viết báo nghiên cứu
+
+Thật là buồn cười khi trong lúc nước sôi lửa bỏng để viết phần introduction cho bài báo của tôi, tôi lại lỡ sa vào một ánh mắt. Và cứ như theo lập trình, não tôi lại có hứng thú tơ tưởng đến chuyện đi chơi, thân mật, ... Chết thật. Phải đến lúc tôi tưởng tượng đến đoạn tôi kết hôn với người đó, thì tôi mới phì cười vì trí tưởng tượng của tôi đã đi quá xa. Nói chung là vừa viết báo vừa nghĩ đến chuyện tình cảm quả là một trải nghiệm khá ảo lòi. May là tôi có bí kíp, tạm gọi là nguyên tắc 5 ngày. Nếu ngày 1 bạn nhỡ crush ai đó, những ngày sau bạn nhỡ thầm thương trộm nhớ ai đó nhưng ko muốn nó thành sự thật (a.k.a nghe theo lý trí) thì cứ mặc kệ não thích nghĩ gì thì nghĩ. Đến ngày thứ 5 thì bạn sẽ tự nhiên ko còn cảm xúc gì đâu, yên tâm.
 
 
 ### Tại sao tôi lại nhiều cảm xúc (emotional) thế này!

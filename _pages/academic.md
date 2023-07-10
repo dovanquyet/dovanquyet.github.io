@@ -42,7 +42,7 @@ I have self-studied the following courses/series whose videos are available on Y
 - MIT - MIT 6.868J The Society of Mind, Fall 2011 (start, I need to learn the idea from Marvin Minsky because I believe that the idea will base the future NLP)
 - Zero Knowledge Proofs - [MOOC Spring 23](https://zk-learning.org/) (interesting course, but not relevant to my current research. So ...)
 - Stanford - Human Behavioral Biology (not yet start)
-- Stanford - CS330 Deep Multi-Task and Meta Learning (nearly finish). It will take a long time to finish :D
+- Stanford - CS330 Deep Multi-Task and Meta Learning (finished)
 - MIT - MIT 9.13 The Human Brain, Spring 2019 (finished in Sep 2022). Eventhough I only shallowly learned from this course, it really brings me the knowledge about our brain's functionality and inspires me a lot on how should I structure an AI system
 - Harvard - Justice: What's The Right Thing To Do (finished in Jul 2022). This course gives me references to strengthen my reasoning system!
 - Stanford - CS234 Reinforment Learning (finished in Jun 2022)
@@ -52,7 +52,9 @@ I have self-studied the following courses/series whose videos are available on Y
 
 ### Service
 
-- Conference Reviewer: EMNLP'22, ACL'23, AACL'23
+- Conference Reviewer: EMNLP'22, ACL'23, AACL'23, EMNLP'23
+- Volunteer: IJCAI'23
+- Others: Guest speaker @ HKUST School of Science DSCT Alumni Sharing 2022, RPg representative @ HKUST RGC Visit 2023
 
 
 ### Awards
