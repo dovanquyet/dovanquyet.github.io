@@ -14,6 +14,23 @@ This is where I write my (funny) daily stories. The language used is casual, som
 ## 2023
 
 
+### Vô duyên đối diện bất tương phùng
+
+Thực ra là ko gặp đâu, chỉ là đến lúc cô giáo D đăng story rằng bạn ấy vừa bay sang Bangkok thì tôi mới giật mình. Hôm qua, trong lúc ngồi chờ lên máy bay, tôi thấy ai đó trông giống bạn. Cơ mà kiểu, ui giồi người ta giống nhau là chuyện bình thường, có gì đâu mà quan tâm. Tôi cũng định chụp ảnh lại và nhắn trêu bạn là có người trông giống bạn quá, nhưng lại thôi vì tôi thấy nó lãng xẹt :)) Đến lúc xem story của bạn thì tôi mới biết người đó ko giống bạn, mà đó là bạn tôi luôn!
+
+
+### Mưa ở HK nó ... lịch sự
+
+Nghe được câu này, tôi cười đau cả bụng. Hôm qua tôi bay từ VN sang HK, kết thúc đợt ăn chơi 2 tuần. Chuyến bay hôm qua ko đông lắm, và thực ra cũng ko có gì đáng nói. À, có một gia đình gồm 3 thế hệ đi du lịch HK, khi mà người con trai đã lấy vợ và có con, nhưng trông anh zai đó còn trẻ hơn cả tôi :)) Btw, anh zai đó và đứa con trai trông trẻ trâu như nhau, và khi xuống sân bay ở HK thì đứa con trai thốt lên câu "Mưa ở HK nó .. lịch sự hơn ở VN vì nó có cơn". Tôi vừa ôm bụng cười vừa đi đến cửa hải quan ...
+
+
+### Quê hương đổi mới
+
+Hôm trước trong một bài viết, tôi có khen sự phát triển ở Hà Nội. Đến hôm nay, khi tôi nổi hứng đạp xe quanh xã ở quê tôi, thì tôi mới thấy quê tôi cũng phát triển rất nhanh. Thứ dễ thấy là hình thức thanh toán. Giờ hầu như cửa hàng nào cũng có hình thức chuyển khoản rồi, chứ ko chỉ có mỗi tiền mặt. Đường xá thì được ốp vỉa hè bóng loáng, trông thật xịn xò :)) Đi sang thôn khác thì thấy những bờ "hồ" (tôi ko biết nên gọi nó là ao hay hồ nữa :v) được lắp lan can để tăng tính an toàn. Và đương nhiên, ko thể ko kể đến là khu thể thao của xã. Tôi nhớ đợt Tết trông nó còn rách rưới lắm, giờ thì được xây bao loan xung quanh, nhà thể chất thì đã có người chơi cầu lông đều đều chứ ko bị bỏ hoang nữa. Nói chung là trông khanh trang sạch sẽ, rất ưng mắt tui :)) Chẳng biết mấy năm nữa thì quê tôi còn phát triển đến cỡ nào.
+
+P/s. một khía cạnh khác mà tôi chưa nhắc đến đó là mua sắm online. Tôi ko biết hàng xóm thế nào nhưng nhà tôi chắc giờ sẽ toàn mua hàng online. Bố tôi, lúc tôi vừa về thì bảo bố ko thích mua hàng online (chắc vì sợ lừa đảo), nhưng tôi đã mua cho bố tôi hai thứ và có vẻ bố tôi cũng thích rồi đây :)) Tiện thế, sao mà ko thích cho được!
+
+
 ### Đi thăm trường cũ
 
 Tôi có hẹn gặp mấy đứa bạn học ở trường KHTN, thực ra là bắt một đứa khao vì nó đỗ công chức trong Tổng cục Thống kê :)) Nghe oai ri.

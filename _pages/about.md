@@ -10,7 +10,7 @@ redirect_from:
 
 **"Think big, act small, and move fast"**
 
-This webpage is last updated on **2023/07/10**.
+This webpage is last updated on **2023/07/18**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
