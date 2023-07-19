@@ -14,9 +14,16 @@ This is where I write my (funny) daily stories. The language used is casual, som
 ## 2023
 
 
+### Âm nhạc điều khiển cuộc sống
+
+Thi thoảng tôi có để ý rằng có tôi cảm thấy dễ chịu khi vừa nghe một bài hát vừa ngồi học, và thực ra nghe một lúc thì tôi ko còn cảm thấy là tôi đang nghe bài hát đó nữa. Tôi tự hỏi những bài hát đó có ảnh hưởng như thế nào lên cơ thể tôi? Gần đây tôi có đưa ra một giả thuyết, rằng tempo của bài hát có thể điều khiển tempo hay mức năng lượng tương ứng của cơ thể con người. Ví dụ như trong chiến trận thời xưa, người ta dùng trống, dùng tiếng hô để tăng nhuệ khí cho quân đội. Tôi nghe mấy bài nhạc đó, tôi cũng thấy máu tranh đấu trong người nổi lên.
+
+Tôi có tìm hiểu nhanh trên mạng thì chưa thấy bài viết nào nói về tác dụng của âm nhạc cho việc học, nhưng tôi thấy hai bài viết sau. Một bài là ["How music tempo can affect your running pace and recovery"](https://www.runnersworld.com/uk/a774594/how-music-tempo-can-affect-your-running-pace-and-recovery/), nghe giống trường hợp người ta bật nhạc sập sình ở phòng gym để tăng hưng phấn cho người tập, sau đó về nhà thì nghe nhạc du dương êm ái để cơ thể thư giãn và hồi phục. Bài còn lại thì liên quan đến việc người ta đi mua sắm ["How does music tempo influence shopping speed and spending?"](https://www.linkedin.com/advice/0/how-does-music-tempo-influence-shopping-speed). Mới đọc title của bài này là tôi đã thấy giật mình rồi. Rõ là có nhiều thứ liên quan đến tâm lý học mà mình ko biết, và mình bị chi phối một cách vô thức như vậy đấy.
+
+
 ### Vô duyên đối diện bất tương phùng
 
-Thực ra là ko gặp đâu, chỉ là đến lúc cô giáo D đăng story rằng bạn ấy vừa bay sang Bangkok thì tôi mới giật mình. Hôm qua, trong lúc ngồi chờ lên máy bay, tôi thấy ai đó trông giống bạn. Cơ mà kiểu, ui giồi người ta giống nhau là chuyện bình thường, có gì đâu mà quan tâm. Tôi cũng định chụp ảnh lại và nhắn trêu bạn là có người trông giống bạn quá, nhưng lại thôi vì tôi thấy nó lãng xẹt :)) Đến lúc xem story của bạn thì tôi mới biết người đó ko giống bạn, mà đó là bạn tôi luôn!
+Thực ra là ko gặp đâu, chỉ là đến lúc cô giáo D đăng story rằng bạn ấy vừa bay sang Bangkok thì tôi mới giật mình. Hôm qua, trong lúc ngồi chờ lên máy bay, tôi thấy ai đó trông giống bạn. Cơ mà kiểu, ui giồi người ta giống nhau là chuyện bình thường, có gì đâu mà quan tâm. Tôi cũng định chụp ảnh lại và nhắn trêu bạn là có người trông giống bạn quá, nhưng lại thôi vì tôi thấy nó lãng xẹt :)) Đến lúc xem story của bạn thì tôi mới biết người đó ko giống bạn, mà đó là bạn tôi luôn :))
 
 
 ### Mưa ở HK nó ... lịch sự
