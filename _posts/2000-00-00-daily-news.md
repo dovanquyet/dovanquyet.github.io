@@ -14,6 +14,15 @@ This is where I write my (funny) daily stories. The language used is casual, som
 ## 2023
 
 
+### Góc soi mói - Đâu ai chung tình được mãi
+
+Tôi có cái nhìn ko thiện cảm với bài hát này. Nghe cái tên là thấy nó giống như lời bào chữa cho những người đi ngoại tình vậy. Thế nên tôi ko nghe bài này một cách chủ đích cho đến khi tôi lỡ nghe một đoạn bác Trương Gia Bình hát trong liveshow của chú Tùng Dương. Nghe giai điệu cũng hay đấy, nhưng tôi vẫn khắt khe, quyết tâm ko nghe :)) Rồi hôm nay tôi tự nhiên có hứng nghe bài đó, khi tôi nhìn thấy cụm từ "gian díu mập mờ" ở tên một video của kênh Sài Gòn Tếu.
+
+Nhạc hay, gieo vần ổn, nhưng ý nghĩa của lời bài hát là thứ mà tôi phải băn khoăn. Ủa có thấy đoạn nào ngoại tình đâu?? Thế hóa ra chỉ là hai người đó chia tay, và rằng người con trai nhận ra mình thích nhưng lại sợ cô đơn, nên có những tâm trạng như vậy cho bài hát. Ơ xong câu cuối "Nghĩ đi em đâu ai chung tình được mãi" chẳng liên quan đến mấy câu trên. Ông thích một mình thì kệ ông, ông thích yêu kệ ông, cơ mà liên quan gì đến chuyện chung tình? Hay tôi hiểu thiếu nghĩa của từ chung tình, rằng ko yêu một ai đó nữa cũng được gọi là ko chung tình, hay phải có mối quan hệ ngoài lề thì mới được gọi là ko chung tình? Chẳng hiểu.
+
+Tôi mở MV gốc lên xem, và bất ngờ chưa. Bạn gái của nhân vật chính mới là người ko chung tình. Ủa gì vậy? Câu chuyện chẳng ăn khớp với lời bài hát, và câu cuối của lời bài hát và nhan đề cũng ko liên quan lắm đến cả bài! Cảm giác ch\*t ở trong lòng một ít :)
+
+
 ### Âm nhạc điều khiển cuộc sống
 
 Thi thoảng tôi có để ý rằng có tôi cảm thấy dễ chịu khi vừa nghe một bài hát vừa ngồi học, và thực ra nghe một lúc thì tôi ko còn cảm thấy là tôi đang nghe bài hát đó nữa. Tôi tự hỏi những bài hát đó có ảnh hưởng như thế nào lên cơ thể tôi? Gần đây tôi có đưa ra một giả thuyết, rằng tempo của bài hát có thể điều khiển tempo hay mức năng lượng tương ứng của cơ thể con người. Ví dụ như trong chiến trận thời xưa, người ta dùng trống, dùng tiếng hô để tăng nhuệ khí cho quân đội. Tôi nghe mấy bài nhạc đó, tôi cũng thấy máu tranh đấu trong người nổi lên.
