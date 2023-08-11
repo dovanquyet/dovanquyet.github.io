@@ -13,6 +13,17 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ## 2023
 
+### Gặp đại diện bên FHKI
+
+Số là tôi làm cho ban sự kiện của VSAHK, nên sự kiện sắp tới tôi sẽ phụ trách. Chúng tôi mời được Hiệp hội Thương nghiệp Hong Kong (FHKI) để đồng tổ chức sự kiện này. Tối qua, chúng tôi có vinh dự được gặp ông Anthony Lam, Phó Chủ Tịch của Thương Hội, để trao đổi qua về việc tổ chức. Ông ấy cực kỳ dễ gần, nói chuyện rất lôi cuốn, rất quan tâm đến bọn tôi, làm cho bọn tôi có cảm giác được trân trọng. Rất khâm phục ông về cách ông đối nhân xử thế.
+
+Bên cạnh đó, ông ấy rất am hiểu Việt Nam và có khoảng 30 năm kinh nghiệm kinh doanh ở VN. Tôi thực sự rất bất ngờ vì ông có nói được chút tiếng Việt, biết nhiều thứ về VN mà tôi ko biết. À, ông còn là (một trong những người) chủ của Circle K Vietnam. Ông có cho bọn tôi cardvisit của ổng, và chị trợ lý của ổng trêu là về VN có thể show card này ra để được uống cafe miễn phí ở Circle K. Hiện tại thì công việc của ông ấy chắc chắn là bận rồi, nhưng ông vẫn dành thời gian để học Tiến Sĩ. Thật ngưỡng mộ làm sao!
+
+
+### Review EMNLP 2023
+
+Haiz, I cost me a day to review a long paper. I don't know if I spend too much time doing such thing, but by doing so I learn quite a lot from each paper. In total, I need to review 5 papers, and the review costs me nearly a week to complete. OMG!
+
 
 ### Góc soi mói - Đâu ai chung tình được mãi
 
