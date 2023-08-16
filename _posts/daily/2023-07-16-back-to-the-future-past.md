@@ -15,7 +15,7 @@ The story began when my mother accidentally read my sister's diary. My mother fo
 I, standing as a little-boy arbitrator in my family, started to unveil the situation step by step to defend my sister in front of my mom. Please assume the following: 1. our characters are mainly formed during childhood and teenage, and 2. it's very difficult to change a person's characteristics unless the person undergoes a critical (and likely about failure) moment. That's to say, you may argue why don't my mom and sister learn to change their minds to better understand each other, but I would argue back that it's very difficult. I already drew an eventuality graph to demonstrate my point. In the following paragraph, I just give more details (if any) about each of these events.
 
 <p align="center">
-<img src="/images/daily/trace_back_history.jpg" width="500">
+<img src="/images/posts/trace_back_history.jpg" width="720">
 </p>
 
 1. Why my sister seems to be aggressive (in comparing to other girls)?
