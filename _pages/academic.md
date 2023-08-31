@@ -73,4 +73,4 @@ n/a
 
 ### Teaching
 
-- TA: HKUST COMP4332 (Spring 23)
+- TA: HKUST COMP4332 (Spring 23), COMP2211 (Fall 23)
