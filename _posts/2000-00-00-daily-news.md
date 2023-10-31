@@ -13,6 +13,17 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ## 2023
 
+
+### Quá hay!
+
+Không phải hài kịch nhưng tôi vừa xem vừa cười. Cười vì được khai sáng, cười vì được nghe những câu chuyện [Cởi Mở](https://www.youtube.com/watch?v=ex06rGG4CNE).
+
+
+### VSAHK - Vietnamese Students' Day
+
+Cuối cùng thì ngày đó cũng đã đến. Công sức của chúng tôi trong 6 tháng ròng rã cuối cùng cũng được đến đáp ([page](https://www.facebook.com/vsahk2023/posts/285024494427769/) and [news](https://en.vietnamplus.vn/festival-connects-vietnamese-student-community-in-hong-kong/269651.vnp))!
+
+
 ### Gặp đại diện bên FHKI
 
 Số là tôi làm cho ban sự kiện của VSAHK, nên sự kiện sắp tới tôi sẽ phụ trách. Chúng tôi mời được Hiệp hội Thương nghiệp Hong Kong (FHKI) để đồng tổ chức sự kiện này. Tối qua, chúng tôi có vinh dự được gặp ông Anthony Lam, Phó Chủ Tịch của Thương Hội, để trao đổi qua về việc tổ chức. Ông ấy cực kỳ dễ gần, nói chuyện rất lôi cuốn, rất quan tâm đến bọn tôi, làm cho bọn tôi có cảm giác được trân trọng. Rất khâm phục ông về cách ông đối nhân xử thế.

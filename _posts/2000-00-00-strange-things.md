@@ -17,7 +17,7 @@ This is where I tell strange things happened to me. Very strange!
 
 Tôi có thấy VTV đưa tin một số đất nước đã ra luật cấm buôn bán chó mèo. Tranh cãi nổ ra, và điều quan trọng là vấn đề "đạo đức" được đem ra để tranh luận, rằng "ăn thịt chó là thiếu văn hóa". Thú thực thì cái văn hóa ấy là ăn hóa phương Tây thôi. Giờ họ đang có ảnh hưởng lớn trên thế giới, nên những quốc gia muốn hợp tác làm ăn với họ thì cũng phải tự điều chỉnh văn hóa cho "văn minh" giống phương Tây. Chứ cái chuyện ko ăn thịt chó vì chó là bạn của con người nghe điêu lắm, mỗi nơi có một quan niệm về những con vật khác nhau mà.
 
-Tôi nghĩ rằng việc ăn trứng gà, ăn thịt lợn thì cũng mang nghiệp y như ăn thịt chó thôi. Nếu bạn là một con gà, đẻ trứng ra rồi con người lấy "con" của bạn để ăn, thì bạn cũng đau khổ lắm đúng ko? Rồi giết lợn cũng thế, sát sinh y chang như giết chó mèo. Còn khía cạnh bạn bè ấy hả, hmm, nếu mai sau tộc người nào đó coi lợn là thần thánh và họ bá chủ thế giới, thì lúc đó thời thế, chuẩn mực đạo đức sẽ thay đổi thôi. Đó, ý tôi là thích cấm thì cứ cấm, chứ đừng lôi chuyện đạo đức vào đây. Nghe giả chân.
+Tôi nghĩ rằng việc ăn trứng gà, ăn thịt lợn thì cũng mang nghiệp y như ăn thịt chó thôi. Nếu bạn là một con gà, đẻ trứng ra rồi con người lấy "con" của bạn để ăn, thì bạn cũng đau khổ lắm đúng ko? Rồi giết lợn cũng thế, sát sinh y chang như giết chó mèo. Còn khía cạnh bạn bè ấy hả, hmm, nếu mai sau tộc người nào đó coi lợn là thần thánh và họ bá chủ thế giới, thì lúc đó thời thế, chuẩn mực đạo đức sẽ thay đổi thôi. Đó, ý tôi là thích cấm thì cứ cấm, chứ đừng lôi chuyện đạo đức vào đây. Nghe giả trân.
 
 
 ### Tôi lại bị hoàn cảnh đưa đẩy đến mức hào hứng ngoài kiểm soát
