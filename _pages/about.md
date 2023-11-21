@@ -10,7 +10,7 @@ redirect_from:
 
 **"Think big, act small, and move fast"**
 
-This webpage is last updated on **2023/10/31**.
+This webpage is last updated on **2023/11/21**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
@@ -20,7 +20,7 @@ This webpage is last updated on **2023/10/31**.
 
 Hi folks, welcome to my personal homepage! You can call me Quyet (or Quake or Quest, don't know which one is the most suitable). I'm a second year M.Phil student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Previously, I got my B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in July 2022.
 
-My primary research interests are centered around Natural Language Processing (NLP). Over the past two years, I have been actively engaged in the study of Commonsense Reasoning. Since the birth of ChatGPT, my perspective toward NLP has changed. After reading several posts and blogs of reputative CS professors discussing ChatGPT, I (am influenced by the idea that we) shouldn't expect LMs to really understand language anymore because they will never understand, instead expect them to mimic human behaviors as realistic as possible. If we view LLMs as tools for industrial development, I think the current MLOps of LLMs is adequate. However, if we (want to) view LLMs as AGI, much more efforts need to be put into their development, as the two main problems with LLMs that I concerned are efficient learning ability and generalized reasoning ability.
+My primary research interests are centered around Natural Language Processing (NLP). Over the past two years, I have been actively engaged in the study of Commonsense Reasoning. Since the birth of ChatGPT, my perspective toward NLP has changed. After reading several posts and blogs of reputative CS professors discussing ChatGPT, I (am influenced by the idea that we) shouldn't expect LMs to really understand language anymore because they will never understand, instead expect them to mimic human behaviors as realistic as possible. If we view LLMs as tools for industrial development, I think the current MLOps of LLMs is adequate. However, if we (want to) view LLMs as AGI, much more efforts need to be put into their development, as the two main problems with LLMs that I am concerned are efficient learning ability and generalized reasoning ability.
 
 Therefore, for future research, I will focus on the following areas:
 1. Neuro-symbolic reasoning methods: I intend to investigate the utilization of external resources, specifically existing knowledge graphs, in order to facilitate the identification and rectification of erroneous beliefs within language models. <!-- "RECKONING" and "Language Models with Rationality" -->
@@ -33,7 +33,7 @@ My full academic profile can be found [here](https://dovanquyet.github.io/academ
 
 ## Academic News
 
-- [2023/06] I submitted my first first-author paper to EMNLP'23. An MPhil graduation requirement is met!
+<!-- - [2023/06] I submitted my first first-author paper to EMNLP'23. An MPhil graduation requirement is met! -->
 - [2023/05] Our paper on Contextualized Commonsense Causal Reasoning has been accepted to EMNLP'23 Main Conference. Check it [here](https://arxiv.org/abs/2305.05191)
 - [2023/04] Our paper on Commonsense Knowledge Base Population is archived. Check it [here](https://arxiv.org/abs/2304.10392)
 - [2023/02] Our work on evaluating ChatGPT is out. Check this [paper](https://arxiv.org/abs/2302.04023). Updated: it is accepted to AACL 2023 (Poster).
