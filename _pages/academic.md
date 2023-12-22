@@ -40,7 +40,7 @@ I have self-studied the following courses/series whose videos are available on Y
 
 - Gregory L. Murphy - The Big Book of Concepts (reading)
 - MIT - MIT 6.868J The Society of Mind, Fall 2011 (start, I need to learn the idea from Marvin Minsky because I believe that the idea will base the future NLP)
-- Zero Knowledge Proofs - [MOOC Spring 23](https://zk-learning.org/) (interesting course, but not relevant to my current research. So ...)
+- Zero Knowledge Proofs - [MOOC Spring 23](https://zk-learning.org/) (interesting course, but not relevant to my current research. So ...). Another Block Chain [course](https://timroughgarden.github.io/fob21)
 - Stanford - Human Behavioral Biology (not yet start)
 - Wendy Wood - **Good Habits, Bad Habits** (finished in Sep 2023)
 - Stanford - CS330 Deep Multi-Task and Meta Learning (finished Oct 2022)
@@ -54,7 +54,7 @@ I have self-studied the following courses/series whose videos are available on Y
 
 ### Services
 
-- Conference Reviewer: EMNLP'22, ACL'23, EMNLP'23
+- Conference Reviewer: EMNLP'22, 23, ACL'23, AACL'24, EACL'24
 - Volunteer: IJCAI'23
 - Others: Guest speaker @ HKUST School of Science DSCT Alumni Sharing 2022, RPg representative @ HKUST RGC Visit 2023
 

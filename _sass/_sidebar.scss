@@ -171,7 +171,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
-  font-size:17px;
+  font-size: 20px;
 
   @include breakpoint($large) {
     display: block;

@@ -10,7 +10,7 @@ redirect_from:
 
 **"Think big, act small, and move fast"**
 
-This webpage is last updated on **2023/11/21**.
+This webpage is last updated on **2023/12/22**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
@@ -25,6 +25,7 @@ My primary research interests are centered around Natural Language Processing (N
 Therefore, for future research, I will focus on the following areas:
 1. Neuro-symbolic reasoning methods: I intend to investigate the utilization of external resources, specifically existing knowledge graphs, in order to facilitate the identification and rectification of erroneous beliefs within language models. <!-- "RECKONING" and "Language Models with Rationality" -->
 2. Efficient (transfer) learning: I aspire to enable LMs to learn from very little supervision, which is a hallmark of human intelligence. I am particularly interested in how to discover and effectively finetune the most critical subnetworks of LMs w.r.t to each task. <!-- RS_Tu.pdf and "Discovering Knowledge-Critical Subnetworks in Pretrained Language Models" -->
+<!-- 3. Basic learning ability: How to train and evaluate LLMs on such crucial skills (rule following (shift of distribution), new skill (soft rule)) -->
 
 About my personal life, I am a big fan of music. I consider myself as an amateur singer. Check this [Youtube channel](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) to hear my voice :D Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism accounts for the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)). Also, in Feb 2023, I joined the organizing team of [Vietnamese Students' Association in HK](https://www.facebook.com/profile.php?id=100087606602683) as the Head of Event Organization.
 

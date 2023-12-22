@@ -13,6 +13,12 @@ This is where I tell strange things happened to me. Very strange!
 
 ## 2023
 
+
+### Google search
+
+Pretty surprised that Google doesn't return any result for the search "why do men have longer backs than women", but ChatGPT can give an answer! I am pretty curious about that. I am doubt if at ancient time, men needed to carry stuffs (so they evolved to have larger back and shorter legs). Or, due to s\*xual pose :))
+
+
 ### Chuyện ăn thịt chó
 
 Tôi có thấy VTV đưa tin một số đất nước đã ra luật cấm buôn bán chó mèo. Tranh cãi nổ ra, và điều quan trọng là vấn đề "đạo đức" được đem ra để tranh luận, rằng "ăn thịt chó là thiếu văn hóa". Thú thực thì cái văn hóa ấy là ăn hóa phương Tây thôi. Giờ họ đang có ảnh hưởng lớn trên thế giới, nên những quốc gia muốn hợp tác làm ăn với họ thì cũng phải tự điều chỉnh văn hóa cho "văn minh" giống phương Tây. Chứ cái chuyện ko ăn thịt chó vì chó là bạn của con người nghe điêu lắm, mỗi nơi có một quan niệm về những con vật khác nhau mà.

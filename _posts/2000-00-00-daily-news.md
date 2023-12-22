@@ -14,6 +14,27 @@ This is where I write my (funny) daily stories. The language used is casual, som
 ## 2023
 
 
+### Đi buôn
+
+Sau khi tôi app PhD xong thì tôi có thời gian chăm chút cho (vẻ bên ngoài của) tôi nhiều hơn. Từ những chuyến đi chơi, tôi nhận ra giày tôi đã cũ, điện thoại tôi có camera đều :)) Nên tôi quyết tâm thay đổi. Tôi làm quả speedrun 2 ngày đưa ra quyết định mua điện thoại, tìm máy, so sánh, xem đánh giá, rồi đi mua luôn. Tương tự với màn speedrun mua giày, cũng ko có gì để suy nghĩ, vì đôi giày Adidas tôi săn được quá đẹp :)) Rồi xong tự nhiên tôi lên Carousell nghịch ngợm, và lại hẹn kèo mua laptop cho mẹ tôi.
+
+Qua những trải nghiệm xem hàng và giá cả, tôi nhận ra đồ điện tử ở HK (laptop, điện thoại) rẻ hơn ở VN rất nhiều, kể cả đồ cũ. Laptop E570 xịn mua lại ở HK chỉ tầm 1k4 ~ 4tr VND, ở VN toàn bán 8tr. Đắt gấp đôi. Giày hàng hiệu cũng thế, khéo sale còn rẻ hơn cả Bitis ấy, chứ chưa nói đến hàng hiệu ở VN. Chắc do thuế ở VN cao. Bảo sao tôi hay nghe chuyện người ta buôn điện thoại, đồ hiệu ở nước ngoài về VN.
+
+
+### Hòa âm phối khí
+
+Gần đây tôi viết được 1 bài chủ đề teen pop tương tư. Nhìn lại những bài hát tôi đã viết, tôi nhận ra tôi có 5 bài hát nói về tình yêu, với 5 trạng thái tình cảm khác nhau (tương tư (vui), (buồn), yêu, chia tay (nặng nề), (nhẹ nhàng)). Với mỗi bài, tôi cũng đã nghĩ xem mình nên dùng nhạc cụ gì để làm beat. Giờ chỉ cần tìm người phối nhạc giúp mình là được :))
+
+Bên cạnh đó, tôi cũng có những ý tưởng âm nhạc khác, ví dụ như nhờ nhóm Bức Tường rock hóa bài hát Những bàn chân lặng lẽ (sẽ hay lắm đây), và Đâu ai chung tình được mãi (Bonsa Nova). Cơ mà vẫn phải tìm được người giúp thì mới hiện thực hóa được.
+
+
+### Gái gú
+
+Phim Làng trong Phố có một phân cảnh anh Hiếu đi sửa ống nước cho một chị da trắng mặc váy ngủ màu đỏ. Clip đó rất buồn cười, và tôi cũng thắc mắc tại sao các chị gái có nước da trắng lại trông hấp dẫn hơn những người có nước da xạm hơn? Tại sao??? Hóa ra, rất đơn giản. Mắt người dễ bị thu hút bởi ánh sáng, thế nên cái gì phát sáng hoặc độ phản quang cao hơn thì sẽ thu hút ánh nhìn hơn. Thế nên mắt tôi cứ bị chị diễn viên kia thu hút. Với lại, bảo sao con gái thích đánh phấn hoặc đeo trang sức, hoặc các ca sĩ mặc đồ lấp lánh, cốt là để thu hút ánh nhìn của người khác!
+
+Không liên quan nhưng gần đây tôi phát hiện ra gout của mình là chị Thương trong "Phía trước là bầu trời" - hiền, tốt, dám nghiêm khắc.
+
+
 ### Quá hay!
 
 Không phải hài kịch nhưng tôi vừa xem vừa cười. Cười vì được khai sáng, cười vì được nghe những câu chuyện [Cởi Mở](https://www.youtube.com/watch?v=ex06rGG4CNE).
@@ -22,6 +43,8 @@ Không phải hài kịch nhưng tôi vừa xem vừa cười. Cười vì đư�
 ### VSAHK - Vietnamese Students' Day
 
 Cuối cùng thì ngày đó cũng đã đến. Công sức của chúng tôi trong 6 tháng ròng rã cuối cùng cũng được đến đáp ([page](https://www.facebook.com/vsahk2023/posts/285024494427769/) and [news](https://en.vietnamplus.vn/festival-connects-vietnamese-student-community-in-hong-kong/269651.vnp))!
+
+Có những cuộc họp dài 4h40', hoặc những buổi onsite check hết cả buổi chiều. Tôi ví Vietnamese Students' Day như 1 đứa bé trong bụng mẹ, kiểu một ngày đẹp trời cuối thàng 5 tôi nhận làm papa của nó, dành thời gian chăm chút cho nó để nó trào đời vào tháng 10 :))
 
 
 ### Gặp đại diện bên FHKI
