@@ -32,7 +32,7 @@ Lúc chuẩn bị tiếp tục thì bọn tôi phát hiện ra, hình như đây
 
 <p align="center">
 <img src="/images/wanderhk/lion_rock/3_cham_dung_chan.jpg" width="500">
-<img src="/images/wanderhk/lion_rock/3_cham_dung_chan_nu.heic" width="500">
+<img src="/images/wanderhk/lion_rock/3_cham_dung_chan_nu.jpg" width="500">
 <img src="/images/wanderhk/lion_rock/3_dinh_nui.jpg" width="500">
 <img src="/images/wanderhk/lion_rock/3_dinh_nui.heic" width="500">
 </p>
