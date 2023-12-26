@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/infographics-overnight-camping-ham-tin-wan
-date: 2023-12-25
+date: 2023-12-26
 title: 'Infographics Du hí Hồng Kông: Overnight Camping at Ham Tin Wan'
 categories:
   - infographic
@@ -28,29 +28,29 @@ Chúng tôi ăn lẩu và loot đồ ở nhà chị Hương xong thì chốt qu�
 
 ### Đi chậm ko sao, đúng đường là được
 
-Cùng treo lên đỉnh núi cao vời vợi
-Để ta ngắm hoàng hôn cùng núi đồi
-Rảnh là ta self-ie cùng anh em
-Một chút đã hết dung lượng
+Cùng treo lên đỉnh núi cao vời vợi\
+Để ta ngắm hoàng hôn cùng núi đồi\
+Rảnh là ta sel-fie cùng anh em\
+Một chút đã hết dung lượng\
 Ta bứt tai, biết xóa ảnh nào đây?
 
-Chặng đường mình sải bước thật gập gềnh
-Chỉ toàn đá, đất và cây, cùng cát bụi
-Thỉnh thoảng trượt chân ngã ui bệt mông
-Vẫn đứng lên như có gì
+Chặng đường mình sải bước thật gập ghềnh\
+Chỉ toàn đá, đất và cây, cùng cát bụi\
+Thỉnh thoảng trượt chân ngã ui bệt mông\
+Vẫn đứng lên như có gì\
 Ta bước đi mắt ngắm một trời sao
 
-Và con tim ta đã ước nguyện cùng nhau vai kề vai
+Và con tim ta đã ước nguyện cùng nhau vai kề vai\
 Đường gian nan ta đi chầm chậm thôi
 
-Điểm đến giờ đây đã ko xa xôi
-Mình vẫn đúng đường ae nhé
-Chỉ mấy checkpoint nữa là đến biển thôi
-Á
+Điểm đến giờ đây đã ko xa xôi\
+Mình vẫn đúng đường ae nhé\
+Chỉ mấy checkpoint nữa là đến biển thôi\
+Áaaaa
 
-Rồi ta trèo sang Mac Le hose,
-Đường dễ đi rồi anh em hỡi
-Vừa lướt đi vừa chill cùng cảnh quan
+Rồi ta trèo sang Mac Le hose,\
+Đường dễ đi rồi anh em hỡi\
+Vừa lướt đi vừa chill cùng cảnh quan\
 Ham Tin Wan kia rồi!
 
 <p align="center">
@@ -70,7 +70,7 @@ Sau khi chúng tôi thuê đồ cắm trại ở một nhà hàng bên kia cầu
 </p>
 
 
-Cơ mà phần nhóm củi đốt lò mới gọi là gian truân. Ở đây mn chỉ có kinh nghiệm dùng bếp ga bếp điện, chứ ko ai có kinh nghiệm đốt và giữ lửa cho gia đình :)) Người chị phiên bản Amazon của tôi gọi điện thoại cho mẹ xin hướng dẫn. Một bạn khác và tôi thì đi xin than đỏ về để lấy nhiệt (tạo lửa) thì họ cho mượn cái khò lửa luôn. Nói chung là chúng tôi vẫn ko nhóm được lửa sau 30 phút loay hoay sắp xếp lại bếp, thổi và quạt bếp (1 phút mặc niệm cho cái quạt giấy của tôi @@). Người cho chúng tôi khò lửa thấy thế thì sang tận nơi giúp, họ còn mang cả củi khô sang nữa cho nữa. Té ra là củi khô mới cháy được, còn than củi (charcoal) và cây cỏ tươi trên cát thì không (có vẻ hiển nhiên nhưng lúc đó chúng tôi ko nghĩ thế @@). Túm lại, có 3 điều lưu ý mà bọn tôi rút ra được: 1. cần dùng củi khô để lấy lửa, 2. khi châm lửa thì xếp củi ở dưới, đồ dễ cháy (giấy, chấu, etc.) ở giữa, trên cùng là than, mục là làm mặt dưới của than được hun nóng đỏ, 3. khó quá thì đi nhờ cho lẹ :))
+Cơ mà phần nhóm củi đốt lò mới gọi là gian truân. Ở đây mn chỉ có kinh nghiệm dùng bếp ga bếp điện, chứ ko ai có kinh nghiệm đốt và giữ lửa cho gia đình :)) Người chị phiên bản Amazon của tôi gọi điện thoại cho mẹ xin hướng dẫn. Một bạn khác và tôi thì đi xin than đỏ về để lấy nhiệt (tạo lửa) thì họ cho mượn cái khò lửa luôn. Nói chung là chúng tôi vẫn ko nhóm được lửa sau 30 phút loay hoay sắp xếp lại bếp, thổi và quạt bếp (1 phút mặc niệm cho cái quạt giấy của tôi @@). Người cho chúng tôi khò lửa thấy thế thì sang tận nơi giúp, họ còn mang cả củi khô sang nữa cho nữa. Té ra là củi khô mới cháy được, còn than củi (charcoal) và cây cỏ tươi trên cát thì không (có vẻ hiển nhiên nhưng lúc đó chúng tôi ko nghĩ thế @@). Túm lại, có 3 điều lưu ý mà bọn tôi rút ra được: 1. cần dùng củi khô để lấy lửa, 2. khi châm lửa thì xếp củi ở dưới, đồ dễ cháy (giấy, chấu, etc.) ở giữa, trên cùng là than, mục tiêu là làm mặt dưới của than được hun nóng đỏ, 3. khó quá thì đi nhờ cho lẹ :))
 
 <p align="center">
 <img src="/images/wanderhk/overnight_camping/7_fire_stove.jpg" width="500">
@@ -88,22 +88,22 @@ Với một bếp lửa bập bùng sương sớm, một bếp lửa ấp iu n�
 
 2h sáng, chúng tôi ko phải Erik nên ko rảnh để gọi cho ai rồi trách họ ko nhấc máy :)) Thay vào đó, với nguồn năng lượng hấp thụ từ đống tro tàn rực rỡ, chúng tôi quyết định chơi trò gì đó trước khi đi nghỉ. Từ ý tưởng ban đầu là nén lon, chúng tôi nghĩ cách để khiến trò chơi mang tính đồng đội hơn. Rứa là trò chơi sau ra đời :))
 
-Một vòng tròn cát
-Lá cờ ở tâm
-Bên thủ bên công
+Một vòng tròn cát\
+Lá cờ ở tâm\
+Bên thủ bên công\
 Phút rưỡi một hiệp
 
-Bên công ghi nhớ
-Cố cướp lấy cờ
-Khi đoạt cờ xong
+Bên công ghi nhớ\
+Cố cướp lấy cờ\
+Khi đoạt cờ xong\
 Xách mông mà chạy
 
-Chớ bị bắt lại
-Sẽ mất lượt chơi
-Nếu không kịp thời
+Chớ bị bắt lại\
+Sẽ mất lượt chơi\
+Nếu không kịp thời\
 Thì cũng thua nốt :))
 
-Xin mời thông chốt
+Xin mời thông chốt\
 Của đội thủ cờ!
 
 <p align="center">
@@ -119,14 +119,14 @@ Tôi nhớ ngay đến một trò cướp cờ trong sao nhập ngũ năm nay m�
 Tôi xin được phép bình luận một vài bức ảnh vui :))
 
 <p align="center">
-<img src="/images/wanderhk/overnight_camping/10_light_reflect_shoe.jpg" width="500">
-</p>
+<img src="/images/wanderhk/overnight_camping/10_light_reflect_shoe.jpg" width="500"><br>
 Giày của một đồng chí có miếng phản quang quá chất lượng :)) Nó làm cho tôi nghĩ đến phát minh của Đạt Văn Tây trong "From Beijing With Lòvé" - đèn ko cần điện, cơ mà chỉ sáng khi có ánh sáng chiếu vào :))
+</p>
 
 <p align="center">
-<img src="/images/wanderhk/overnight_camping/11_cage.jpg" width="500">
-</p>
+<img src="/images/wanderhk/overnight_camping/11_cage.jpg" width="500"><br>
 Cá chậu chim lồng :))
+</p>
 
 Sau chuyến đi này, tôi xin tạm đặt biệt danh cho ae như sau:
 1. PhAnh đế giày
