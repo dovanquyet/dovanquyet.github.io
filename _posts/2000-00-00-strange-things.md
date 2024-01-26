@@ -14,6 +14,16 @@ This is where I tell strange things happened to me. Very strange!
 ## 2023
 
 
+### CMHK
+
+I can't believe that such a big telecom company like CMHK can have such a poor documentation of their service! I can't find the per minute fee for local voice call after 15 mins of searching. WTF!
+
+
+### My fortune number
+
+Baker's dozen!
+
+
 ### Google search
 
 Pretty surprised that Google doesn't return any result for the search "why do men have longer backs than women", but ChatGPT can give an answer! I am pretty curious about that. I am doubt if at ancient time, men needed to carry stuffs (so they evolved to have larger back and shorter legs). Or, due to s\*xual pose :))

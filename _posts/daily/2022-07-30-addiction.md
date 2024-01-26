@@ -4,6 +4,7 @@ date: 2022-07-30
 title: '23 years of age, I have an (short) addiction to games, as planned!'
 categories:
   - philosophy
+  - my character
 ---
 
 Note: Even though I tried my best to refine the document, it could still be quite hard to read and understand.

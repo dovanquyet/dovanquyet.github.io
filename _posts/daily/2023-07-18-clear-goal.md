@@ -5,6 +5,7 @@ title: 'Curse of Data Taxonomy: We do not need a perfect taxonomy for good appli
 categories:
   - philosophy
   - work and research
+  - my character
 ---
 
 As I work on a commonsense knowwledge base reasoning problem in the format of classification, I understand how awkward it is when I have to deal with data which I misclassify often. It's not clear about the category that each instance fall into, nor the need to have such taxonomy. The problem makes me angry sometimes so that I just can't bear to continue working on the problem. It seems meaningless for me, as at the end of the day, we don't need a perfect taxonomy to apply the data sources in other downstream tasks.

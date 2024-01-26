@@ -4,6 +4,7 @@ date: 2023-07-16
 title: 'Why do I have this problem/skill/charateristic? Let me trace back decades ago to find the answer'
 categories:
   - philosophy
+  - my character
 ---
 
 This post noted what I discussed with my mother when she was disappointed by my sister's words. It seems similar to cause-effect in short-term context, but it refers to a longer-term dependence of what people experienced and what people have today! Okay, let's go.

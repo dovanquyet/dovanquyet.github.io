@@ -7,13 +7,18 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_public.pdf) (updated in Nov 2023) and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
+Please take a look at my [Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_public.pdf) (updated in Jan 2024) and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
 <!-- my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf). -->
 
 
 ### Selected Publications
 
 For the full list of my publications with brief summaries, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252).
+
+
+- **ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**\
+**Quyet V. Do**, Tianqing Fang, Shizhe Diao, Zhaowei Wang, Yangqiu Song\
+*EACL 2024*. [\[pdf\]](https://arxiv.org/abs/2401.14003) [\[code\]](https://github.com/HKUST-KnowComp/ConstraintChecker).
 
 - **COLA: Contextualized Commonsense Causal Reasoning from the Causal Inference Perspective**\
 Zhaowei Wang, **Quyet V. Do**, Hongming Zhang, Jiayao Zhang, Weiqi Wang, Tianqing Fang, Yangqiu Song, Ginny Y. Wong, S. See\
@@ -29,7 +34,7 @@ Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, H
 
 - **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**\
 Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See\
-*Findings of EMNLP 2022*. [\[pdf\]](https://arxiv.org/abs/2210.07988) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
+*Findings of EMNLP 2022*. [\[pdf\]](https://aclanthology.org/2022.findings-emnlp.246/) [\[code\]](https://github.com/HKUST-KnowComp/PseudoReasoner).
 
 _Remark: \* indicates equal contribution._
 
@@ -56,7 +61,6 @@ I have self-studied the following courses/series whose videos are available on Y
 
 - Conference Reviewer: EMNLP'22, 23, ACL'23, AACL'24, EACL'24
 - Volunteer: IJCAI'23
-- Others: Guest speaker @ HKUST School of Science DSCT Alumni Sharing 2022, RPg representative @ HKUST RGC Visit 2023
 
 
 ### Awards

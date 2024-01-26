@@ -10,7 +10,7 @@ redirect_from:
 
 **"Think big, act small, and move fast"**
 
-This webpage is last updated on **2023/12/26**.
+This webpage is last updated on **2024/01/27**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
@@ -18,14 +18,14 @@ This webpage is last updated on **2023/12/26**.
 
 ## About me
 
-Hi folks, welcome to my personal homepage! You can call me Quyet (or Quake or Quest, don't know which one is the most suitable). I'm a second year M.Phil student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Previously, I got my B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in July 2022.
+Hi folks, welcome to my personal homepage! You can call me Quyet (or Quake or Quest or Quiet, don't know which one is the most suitable, probably Quake). I'm a second year M.Phil student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Previously, I got my B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in July 2022.
 
 My primary research interests are centered around Natural Language Processing (NLP). Over the past two years, I have been actively engaged in the study of Commonsense Reasoning. Since the birth of ChatGPT, my perspective toward NLP has changed. After reading several posts and blogs of reputative CS professors discussing ChatGPT, I (am influenced by the idea that we) shouldn't expect LMs to really understand language anymore because they will never understand, instead expect them to mimic human behaviors as realistic as possible. If we view LLMs as tools for industrial development, I think the current MLOps of LLMs is adequate. However, if we (want to) view LLMs as AGI, much more efforts need to be put into their development, as the two main problems with LLMs that I am concerned are efficient learning ability and generalized reasoning ability.
 
 Therefore, for future research, I will focus on the following areas:
 1. Neuro-symbolic reasoning methods: I intend to investigate the utilization of external resources, specifically existing knowledge graphs, in order to facilitate the identification and rectification of erroneous beliefs within language models. <!-- "RECKONING" and "Language Models with Rationality" -->
 2. Efficient (transfer) learning: I aspire to enable LMs to learn from very little supervision, which is a hallmark of human intelligence. I am particularly interested in how to discover and effectively finetune the most critical subnetworks of LMs w.r.t to each task. <!-- RS_Tu.pdf and "Discovering Knowledge-Critical Subnetworks in Pretrained Language Models" -->
-<!-- 3. Basic learning ability: How to train and evaluate LLMs on such crucial skills (rule following (shift of distribution), new skill (soft rule)) -->
+3. Basic learning ability: How to train and evaluate LLMs on such crucial skills (rule following (shift of distribution), new skill (soft rule))
 
 About my personal life, I am a big fan of music. I consider myself as an amateur singer. Check this [Youtube channel](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) to hear my voice :D Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism accounts for the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)). Also, in Feb 2023, I joined the organizing team of [Vietnamese Students' Association in HK](https://www.facebook.com/profile.php?id=100087606602683) as the Head of Event Organization.
 
@@ -34,8 +34,9 @@ My full academic profile can be found [here](https://dovanquyet.github.io/academ
 
 ## Academic News
 
-<!-- - [2023/06] I submitted my first first-author paper to EMNLP'23. An MPhil graduation requirement is met! -->
-- [2023/05] Our paper on Contextualized Commonsense Causal Reasoning has been accepted to EMNLP'23 Main Conference. Check it [here](https://arxiv.org/abs/2305.05191)
+- [2024/01] My first first-author [paper](https://arxiv.org/abs/2401.14003) has been accepted to EACL'24!
+- [2024/01] Finished my PhD application. I got 6 interviews from 4 universities :D But probably no more :/
+- [2023/05] Our paper on Contextualized Commonsense Causal Reasoning has been accepted to ACL'23 Main Conference. Check it [here](https://arxiv.org/abs/2305.05191)
 - [2023/04] Our paper on Commonsense Knowledge Base Population is archived. Check it [here](https://arxiv.org/abs/2304.10392)
 - [2023/02] Our work on evaluating ChatGPT is out. Check this [paper](https://arxiv.org/abs/2302.04023). Updated: it is accepted to AACL 2023 (Poster).
 - [2022/11] Have a chat with Prof. Pascale. She is also interested in using commonsense knowledge to control the language model's generation and support open-ended QA. Thus, I start working with her students :P. Updated: I am no longer a part of that group since July 2023. I feel in debt that I learned a lot from all people in the lab but only contributed a little :/

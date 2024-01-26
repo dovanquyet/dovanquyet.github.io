@@ -4,6 +4,7 @@ date: 2023-08-17
 title: 'What if I can choose my body?'
 categories:
   - philosophy
+  - my character
 ---
 
 To be updated ... Finally I want to update this post. It is one year since I created this post (2022-08-17). Now, it's time to complete it. Let's see, what I want to tell? Hmm, it is the story about choices, hesitance, and result at the end.
@@ -14,7 +15,7 @@ At the beginning of this year, as I am suggested that working out with resistanc
 
 The moment that I came back to my home this summer is when the result is revealed. My mom, who is really obsessed about my 'abnormal' body acknowledged the grow of my body, especially my shoulder. She looked kinda happy about that, and I was happy too as my effort has paid me off.
 
-So, what do I want to tell you? As I have no choice of my body, the only way for me to have a better body shape is staying calm and finding the solution for myself. On the other hand, if I have a choice, I will definite give up find solution for my own, and go for the easier choice of taking parts I need from other people to have a better body shape. That is the strength of binding and responsibility. As long as the binding perserves and all the involved parties accepted the situation, it will gradually yield the desired result.
+So, what do I want to tell you? As I have no choice of my body, the only way for me to have a better body shape is staying calm and finding the solution for myself. On the other hand, if I have a choice, I will definite give up finding solution for my own, and go for the easier choice of taking parts I need from other people to have a better body shape. That is the strength of binding and responsibility. As long as the binding perserves and all the involved parties accepted the situation, it will gradually yield the desired result.
 
 By the way, happy birthday to my body!
 

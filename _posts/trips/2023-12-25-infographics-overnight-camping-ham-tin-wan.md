@@ -34,11 +34,20 @@ Rảnh là ta sel-fie cùng anh em\
 Một chút đã hết dung lượng\
 Ta bứt tai, biết xóa ảnh nào đây?
 
+<p align="center">
+<img src="/images/wanderhk/overnight_camping/2_selfie.jpg" width="500">
+</p>
+
 Chặng đường mình sải bước thật gập ghềnh\
 Chỉ toàn đá, đất và cây, cùng cát bụi\
 Thỉnh thoảng trượt chân ngã ui bệt mông\
-Vẫn đứng lên như có gì\
+Vẫn đứng lên như ko có gì\
 Ta bước đi mắt ngắm một trời sao
+
+<p align="center">
+<img src="/images/wanderhk/overnight_camping/3_spooky_path.jpg" width="500">
+<img src="/images/wanderhk/overnight_camping/4_stary_night.jpg" width="500">
+</p>
 
 Và con tim ta đã ước nguyện cùng nhau vai kề vai\
 Đường gian nan ta đi chầm chậm thôi
@@ -54,9 +63,6 @@ Vừa lướt đi vừa chill cùng cảnh quan\
 Ham Tin Wan kia rồi!
 
 <p align="center">
-<img src="/images/wanderhk/overnight_camping/2_selfie.jpg" width="500">
-<img src="/images/wanderhk/overnight_camping/3_spooky_path.jpg" width="500">
-<img src="/images/wanderhk/overnight_camping/4_stary_night.jpg" width="500">
 <img src="/images/wanderhk/overnight_camping/5_arrival.jpg" width="500">
 </p>
 

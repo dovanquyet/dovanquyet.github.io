@@ -5,6 +5,7 @@ title: 'Reincarnation: Three months of change'
 categories:
   - work and research
   - philosophy
+  - my character
 ---
 
 > I will write up the whole post after the PhD application period
