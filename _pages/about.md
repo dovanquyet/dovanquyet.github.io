@@ -10,11 +10,11 @@ redirect_from:
 
 **"Think big, act small, and move fast"**
 
-This webpage is last updated on **2024/01/27**.
+This webpage is last updated on **2024/02/11**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
-> I am open to supervising UG students who are academically strong, highly motivated, and having a decent AI-coding skill (Python, Pytorch, and Huggingface Transformers are preferred). If you are interested in NLP and want to collaborate with me, feel free to contact and send your CV + Unofficial Transcript to me via email. 
+<!-- > I am open to supervising UG students who are academically strong, highly motivated, and having a decent AI-coding skill (Python, Pytorch, and Huggingface Transformers are preferred). If you are interested in NLP and want to collaborate with me, feel free to contact and send your CV + Unofficial Transcript to me via email.  -->
 
 ## About me
 

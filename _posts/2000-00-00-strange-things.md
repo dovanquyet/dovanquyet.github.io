@@ -11,13 +11,19 @@ Nơi tôi kể những câu chuyện kỳ lạ xảy ra với tôi. Lạ thật!
 This is where I tell strange things happened to me. Very strange!
 
 
-## 2023
+## 2024
+
+### Nghĩ nghiêm túc lúc đang gấp rút viết báo nghiên cứu
+
+Vâng, tôi lại nghĩ đến một người. Tôi ko áp dụng nguyên tắc 5 ngày nữa. Tôi có đủ bằng chứng để chứng minh rằng người đó là một người phù hợp (bằng hoặc) hơn những người tôi đã gặp. Đương nhiên ko có gì làm hoàn hảo. Tôi cũng ko kỳ vọng gì. Tôi đang quan sát và trải nghiệm. Người đó thẳng thắn nói rằng tôi nằm trong danh sách những người mà người đó ko quan tâm lắm. Tôi suy nghĩ ...
 
 
 ### CMHK
 
-I can't believe that such a big telecom company like CMHK can have such a poor documentation of their service! I can't find the per minute fee for local voice call after 15 mins of searching. WTF!
+I can't believe that such a big telecom company like CMHK can have such a poor documentation of their service! I can't find the per minute fee for local voice call after 15 mins of searching. WTF! Btw, the charge isn't high, so I don't care anymore! 
 
+
+## 2023
 
 ### My fortune number
 

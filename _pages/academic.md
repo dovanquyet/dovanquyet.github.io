@@ -39,9 +39,9 @@ Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and 
 _Remark: \* indicates equal contribution._
 
 
-### Self-study
+### Independent Study
 
-I have self-studied the following courses/series whose videos are available on Youtube, and also read some books. These are all amazing, and they significantly broaden my knowledge.
+I have self-learn the following courses/series whose videos are available on Youtube, and also read some books. These are all amazing, and they significantly broaden my knowledge.
 
 - Gregory L. Murphy - The Big Book of Concepts (reading)
 - MIT - MIT 6.868J The Society of Mind, Fall 2011 (start, I need to learn the idea from Marvin Minsky because I believe that the idea will base the future NLP)
