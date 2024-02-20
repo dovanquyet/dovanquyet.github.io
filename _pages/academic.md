@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_public.pdf) (updated in Jan 2024) and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
+Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_public.pdf) (updated in Jan 2024), [Industrial 1-page CV](https://dovanquyet.github.io/files/DoVanQuyet_CV_1page.pdf) (updated in Jan 2024), and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
 <!-- my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf). -->
 
 
@@ -41,7 +41,7 @@ _Remark: \* indicates equal contribution._
 
 ### Independent Study
 
-I have self-learn the following courses/series whose videos are available on Youtube, and also read some books. These are all amazing, and they significantly broaden my knowledge.
+I have self-learned the following courses/series whose videos are available on Youtube, and also read some books. These are all amazing, and they significantly broaden my knowledge.
 
 - Gregory L. Murphy - The Big Book of Concepts (reading)
 - MIT - MIT 6.868J The Society of Mind, Fall 2011 (start, I need to learn the idea from Marvin Minsky because I believe that the idea will base the future NLP)

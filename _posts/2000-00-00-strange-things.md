@@ -15,7 +15,7 @@ This is where I tell strange things happened to me. Very strange!
 
 ### Nghĩ nghiêm túc lúc đang gấp rút viết báo nghiên cứu
 
-Vâng, tôi lại nghĩ đến một người. Tôi ko áp dụng nguyên tắc 5 ngày nữa. Tôi có đủ bằng chứng để chứng minh rằng người đó là một người phù hợp (bằng hoặc) hơn những người tôi đã gặp. Đương nhiên ko có gì làm hoàn hảo. Tôi cũng ko kỳ vọng gì. Tôi đang quan sát và trải nghiệm. Người đó thẳng thắn nói rằng tôi nằm trong danh sách những người mà người đó ko quan tâm lắm. Tôi suy nghĩ ...
+Vâng, tôi lại nghĩ đến một người. Tôi ko áp dụng nguyên tắc 5 ngày nữa. Tôi có đủ bằng chứng để chứng minh rằng người đó là một người phù hợp (bằng hoặc) hơn những người tôi đã gặp. Đương nhiên ko có gì làm hoàn hảo. Tôi cũng ko kỳ vọng gì. Tôi đang quan sát và trải nghiệm. Người đó thẳng thắn nói rằng tôi nằm trong danh sách những người mà người đó ko quan tâm lắm. Tôi suy nghĩ. À, hóa ra người đó đang cần sự quan tâm từ tôi!
 
 
 ### CMHK
