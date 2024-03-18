@@ -16,7 +16,7 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ### Đi buôn
 
-Sau khi tôi app PhD xong thì tôi có thời gian chăm chút cho (vẻ bên ngoài của) tôi nhiều hơn. Từ những chuyến đi chơi, tôi nhận ra giày tôi đã cũ, điện thoại tôi có camera đều :)) Nên tôi quyết tâm thay đổi. Tôi làm quả speedrun 2 ngày đưa ra quyết định mua điện thoại, tìm máy, so sánh, xem đánh giá, rồi đi mua luôn. Tương tự với màn speedrun mua giày, cũng ko có gì để suy nghĩ, vì đôi giày Adidas tôi săn được quá đẹp :)) Rồi xong tự nhiên tôi lên Carousell nghịch ngợm, và lại hẹn kèo mua laptop cho mẹ tôi.
+Sau khi tôi app PhD xong thì tôi có thời gian chăm chút cho (vẻ bên ngoài của) tôi nhiều hơn. Từ những chuyến đi chơi, tôi nhận ra giày tôi đã cũ, điện thoại tôi có camera đểu :)) Nên tôi quyết tâm thay đổi. Tôi làm quả speedrun 2 ngày đưa ra quyết định mua điện thoại, tìm máy, so sánh, xem đánh giá, rồi đi mua luôn. Tương tự với màn speedrun mua giày, cũng ko có gì để suy nghĩ, vì đôi giày Adidas tôi săn được quá đẹp :)) Rồi xong tự nhiên tôi lên Carousell nghịch ngợm, và lại hẹn kèo mua laptop cho mẹ tôi.
 
 Qua những trải nghiệm xem hàng và giá cả, tôi nhận ra đồ điện tử ở HK (laptop, điện thoại) rẻ hơn ở VN rất nhiều, kể cả đồ cũ. Laptop E570 xịn mua lại ở HK chỉ tầm 1k4 ~ 4tr VND, ở VN toàn bán 8tr. Đắt gấp đôi. Giày hàng hiệu cũng thế, khéo sale còn rẻ hơn cả Bitis ấy, chứ chưa nói đến hàng hiệu ở VN. Chắc do thuế ở VN cao. Bảo sao tôi hay nghe chuyện người ta buôn điện thoại, đồ hiệu ở nước ngoài về VN.
 

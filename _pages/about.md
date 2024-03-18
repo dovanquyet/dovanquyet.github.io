@@ -10,7 +10,7 @@ redirect_from:
 
 **"Think big, act small, and move fast"**
 
-This webpage is last updated on **2024/02/18**.
+This webpage is last updated on **2024/03/18**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
@@ -35,7 +35,7 @@ My full academic profile can be found [here](https://dovanquyet.github.io/academ
 ## Academic News
 
 - [2024/01] My first first-author [paper](https://arxiv.org/abs/2401.14003) has been accepted to EACL'24!
-- [2024/01] Finished my PhD application. I got 6 interviews from 4 universities :D But probably no more :/
+- [2024/01] Finished my PhD application. I got 6 interviews from 4 universities :D But probably no more :/ Updated: two more interviews, one is from a university that I haven't applied :D
 - [2023/05] Our paper on Contextualized Commonsense Causal Reasoning has been accepted to ACL'23 Main Conference. Check it [here](https://arxiv.org/abs/2305.05191)
 - [2023/04] Our paper on Commonsense Knowledge Base Population is archived. Check it [here](https://arxiv.org/abs/2304.10392)
 - [2023/02] Our work on evaluating ChatGPT is out. Check this [paper](https://arxiv.org/abs/2302.04023). Updated: it is accepted to AACL 2023 (Poster).

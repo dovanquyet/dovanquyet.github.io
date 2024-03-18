@@ -82,6 +82,6 @@ n/a
 
 ### Teaching
 
-> For those who want to know more about my teaching/presentation/academic-English skills, please watch one TA [session](https://drive.google.com/file/d/1xhiUzqTc13VyIcEbQggCc_DPqcInA9HD/view?usp=sharing) that I taught.
+> For those who want to know more about my teaching/presentation/academic-English skills, please watch one TA [session](https://youtu.be/5UYK15JvAsU) that I taught.
 
 - TA: HKUST COMP4332 (Spring 23), COMP2211 (Fall 23)
