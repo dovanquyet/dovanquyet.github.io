@@ -1,0 +1,15 @@
+---
+permalink: /posts/en/my-phd-decision
+date: 2024-04-15
+title: 'My Phd Decision'
+categories:
+  - philosophy
+---
+
+I will not re-preach the lesson of how to make a good decision. What I want to write here is mainly about my altitude toward choices for PhD. I got two offers, one is from Virginia Tech (VT) and one is from Arizona State University (ASU), while I was in the waiting list of UWaterloo. In term of ranking, UWaterloo has higher rank and popularity, as it is a young, vibrant university, with a lot of funding and computing resources. That would probably the best remaining choice for me, as tier-1 universities relesed the result quite early this year, and I got rejected from all of them. Yet, the case was that I was long for the result from the university.
+
+In the situation, I believe that many students will wait for the UWaterloo's result before they consider other schools (and because of that, I got the result of UWaterloo so late, only got it near the ddl of result announcement April 15. It's like the hierarchical delay, as we need to wait top students to pick top schools). But for me, I feel insecure about that best option, as I have not control of it. The situation is not a bet. It was like having a safe good choice but dream for another (a.k.a "Đứng núi này trông núi nọ", or "The grass is always green on the other side of the fence"). It make me uncomfortable of my lack of commitment. Yet, it's my own choice as I have control issue, while others may feel okay to wait for the result. Thus, I made up my mind by assuming I would be rejected from UWaterloo (it became true later), and just focus on two certain choices: VT vs ASU. A good choice for me is fine enough!
+
+About the choice between VT and ASU, I had consulted quite a lot of people, read a lot of sources, and organized these information systematically. As my girl friend - or my future wife in other words :3 - studies medicine and currently undergo medical residency training, which means that she cannot leave our home country, I wonder ASU, which is closer to our home country than VT, is a better choice. I consulted my Vietnamese PhD seniors about that matter, as many of them have married and have childs. The advice I got is straight - they were all bad choices in term of distances, and what I needed to look at was the supervisor, the most important factor of my PhD. Every other factors are not so important, as if I am not happy with my jobs due to my supervisor, every other things are meaningless! With the straight advice, I was fortunate enough to quickly identify the factors that I should choose VT.
+
+I made the decision on a special day, my mother's birthday. In fact, it's w.r.t EST, but isn't w.r.t HKT :D At the end, VT is a good choice for me. Whether I can rise as a star depends so much on me! I control my fate!

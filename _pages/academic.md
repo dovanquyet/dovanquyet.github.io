@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_public.pdf) (updated in Jan 2024), [Industrial 1-page CV](https://dovanquyet.github.io/files/DoVanQuyet_CV_1page.pdf) (updated in Jan 2024), and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
+Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_full.pdf) (updated in May 2024), [Industrial 1-page CV](https://dovanquyet.github.io/files/DoVanQuyet_CV_1page.pdf) (updated in May 2024), and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
 <!-- my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf). -->
 
 
@@ -55,33 +55,3 @@ I have self-learned the following courses/series whose videos are available on Y
 - Stanford - **CS224w Machine Learning on Graph** (finished in Feb 2022)
 - PBS - The Vietnam War (finished in April 2020)
 - Stanford - **CS224n Natural Language Processing with Deep Learning** (finished in Jun 2021)
-
-
-### Services
-
-- Conference Reviewer: EMNLP'22, 23, ACL'23, AACL'24, EACL'24
-- Volunteer: IJCAI'23
-
-
-### Awards
-
-- AACL 2023 Area Chair Award [2023]
-- HKUST Postgraduate Studentship [2022-2024]
-- [Academic Achievement](https://registry.hkust.edu.hk/academic-achievements/medal-recipients-year) Medalist of HKUST UG Class of 2022 [2022]
-- HKUST SS Chern's Class Achievement with Outstanding Performance [2022]
-- Awardees for the 16th, 17th HKUST Epsilon Fund Award [2021, 2022]
-- Dean’s List Student of HKUST [2018-2022, except Spring 2021]
-- HKUST University Scholarship [2018-2022]
-- The Bronze Medal at the 58th International Mathematical Olympiad [2017]
-
-
-### Talks
-
-n/a
-
-
-### Teaching
-
-> For those who want to know more about my teaching/presentation/academic-English skills, please watch one TA [session](https://youtu.be/5UYK15JvAsU) that I taught.
-
-- TA: HKUST COMP4332 (Spring 23), COMP2211 (Fall 23)
