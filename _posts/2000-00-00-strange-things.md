@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-la
-date: 2023-12-31
+date: 2024-02-28
 title: 'Chuyện lạ/Strange things'
 categories:
   - funny

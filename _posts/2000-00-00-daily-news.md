@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2023-12-31
+date: 2024-05-31
 title: 'Chuyện hàng ngày/Daily story'
 categories:
  - funny
@@ -11,8 +11,53 @@ Nơi tôi kể những câu chuyện, suy nghĩ (vui) hàng ngày. Ngôn ngữ v
 This is where I write my (funny) daily stories. The language used is casual, sometimes exaggerating.
 
 
-## 2023
+## 2024
 
+### Max-cap policy for fair competition in Academia?
+
+Max-cap policy is important and has been applied in many sports for fair competition. In a rough sense, an organization cannot spend more than what they earn, or the professional league may even apply max salary policy. That helps to balance the power of each team, avoiding "a super team" when the organization need to carry a big debt. In business, there are similar fair-competition laws (which I don't know clearly), but it should serve in a similar way.
+
+I wonder if we can apply the same thing to Academia. I care about the fact that current researchers don't have time to decently review paper from peers. Maybe because they are forced to produce as much research output as possible. Should we help them by setting a max-cap policy, that a researcher is not allow to involved in 12 publications per year. That will create less fierce academic environment, giving researcher time to think of what's really matter. Also, different research groups will received enough funding for their research, and they don't have to always think of getting more funding by publishing more papers.
+
+But, the reality in sport and business is that people still find a way to circumvent the fair-competition law. Big tech companies always find the way to swallow smaller companies that they consider as threats. Thus, I am not so positive about my proposal of max-cap policy in Academia.
+
+
+### Kế hoạch cuộc đời
+
+Gần đây tôi có đặt ra câu hỏi về việc, tại sao thế hệ của chúng tôi cứ phải lao đầu vào công việc và tạm gác lại cuộc sống cá nhân, sau đó khi có vợ con rồi thì lại từ bỏ luôn cuộc chơi? Tôi thấy nó hơi bị ngược. Đương nhiên, những gì tôi bàn ở đây chỉ đúng khi mình luôn đảm bảo được nguồn thu nhập để trang trải cho gia đình và phòng trường hợp tai nạn.
+
+Tôi thấy rằng nguyên tắc chọn công việc là "nghề chọn người", có nghĩa là mình cần có kiến thức, kinh nghiệm, trải nghiệm để làm một nghề gì đó. Thực ra, nếu có 3 thứ đó, thì bạn mới biết là bạn có yêu nghề không, và từ đó bạn mới gắn bó được với công việc. Khi mà thế hệ hiện nay chỉ lao đầu vào công việc, thì họ chẳng có nhiều trải nghiệm, họ chẳng biết họ thích gì, vậy thì sao mà họ có thể hiểu được đâu là thứ xã hội cần. Họ sẽ chỉ đi làm như là một công cụ cho những người bên kinh doanh - những người có trải nghiệm và tầm nhìn chiến lược. Rồi khi nhiều tuổi hơn, nếu họ ko lên làm quản lý được, họ sẽ bị đào thải. Hoặc họ chọn việc settle down hoặc làm thứ khác, sau khi đã kiếm đủ tiền!
+
+Cơ mà, tôi thiết nghĩ, người ta khi về già sẽ chẳng còn thú vui gì nữa, và lúc đó thứ họ làm giỏi nhất là công việc của họ. Vậy tại sao ko bắt đầu muộn hơn một chút, ví dụ như tuổi 40, và làm việc đến già - khi mà sức khỏe ko cho phép nữa? Trước tuổi 40, tạo sao ko cân bằng cuộc sống, dành đủ thời gian cho gia đình, trải nghiệm để thấy mình thích và mình cần gì nhất? Từ đó, mình sẽ biết được mình nên làm gì trong tương lai.
+
+Đó là ý kiến cá nhân của tôi. Áp dụng kiến thức này vào thực tế, nó có nghĩa là tôi nên dành đủ thời gian cho bạn gái, thay vì chỉ chăm chăm vào công việc. Khi nào con tôi đủ lớn, vợ tôi có thể giúp tôi lo cho chúng, thì tôi bắt đầu all-in vào công việc! Đấy là suy nghĩ của tôi hiện tại!
+
+
+### Mệt mỏi khi phải đưa ra quyết định
+
+Tôi đồng ý với [clip này](https://www.youtube.com/watch?v=X7j8F16eSqs) rằng con người sẽ chuyển từ concious system 2 sang autopilot system 1 để đưa ra quyết định khi họ phải đưa ra quyết định quá nhiều. Tôi từng phải dán nhãn cho dataset của tôi, và tôi đã trải qua điều tương tự. Ban đầu tốn rất nhiều thời gian để dán nhãn 1 ví dụ (instance), nghĩ tiêu chí này tiêu chí nọ, sau đó một hồi thì tôi autopilot, dán nhãn rất nhanh, ko kiểm tra các tiêu chí nữa.
+
+Hình như việc viết lách cũng vậy. Việc chọn từ ngữ, đôi khi, tốn nhiều thời gian và công sức. Thế nên người ta mới muốn có AI viết giúp, sau đó chỉ ngồi sửa thôi. Việc sửa bài cũng vất, nhưng thực sự ko vất bằng việc viết bài!
+
+
+### Nhìn AI hay bất cứ công nghệ gì như một sự tự động hóa
+
+Tuần trước mình có xem được series "Làm bạn với AI" của Shark Thái Vân Linh, trong đó có một [clip](https://youtu.be/1HSl3Y2glYo?si=IhmO7vWLnWteEVzm) nói về quá trình tự động hóa. Mình là dân kỹ thuật, nên thực ra những clip về kỹ thuật quá mình lại ko thích xem, vì đó là chuyên ngành của mình mà, mình xem lại làm gì. Thay vào đó, mình thích xem những clip nói về công nghẹ từ góc nhìn của kinh doanh. Và đấy chính là từ clip kia làm được.
+
+Clip đã giúp mình hiểu được vai trò cốt lõi của công nghệ, như là một công cụ tự động hóa để tiết kiệm thời gian. Từ công việc văn phòng, lên bản thảo kế hoạch, làm slide thuyết trình, đến những việc xã hội như thu phí đường bộ, phạt nguội, hoặc chống người đột nhập, AI đều đã có thể giúp con người làm những việc này một cách nhanh chóng với mức thể hiện tốt, thậm chí là tốt hơn con người. Từ clip này, mình có thể hình dung ra được những công việc nào có thể được tự động hóa được bằng AI, và nói rộng ra là định hướng phát triển cho cả một công ty về AI. Đương nhiên là mình cần trí tưởng tưởng và cảm nhận thị trường đủ tốt để nắm bắt được những cơ hội ấy. Bên cạnh đó, mình cũng có thể biết được những ngành nghề nào sẽ ko bị thay thể bởi AI, vì bản chất những ngành nghề đó ko cần tự động hóa. Người ta muốn có sense of human ở những nghề đó, ví dụ như y tế, giáo dục, chính trị :D
+
+
+### Thua vì lợi thế của mình
+
+Game 5 WC LOL 2022, T1 cố gắng backdoor DRX trong khi DRX đang ăn rồng ngàn tuổi, kết quả là T1 ko backdoor được và thua cay đắng. Game 4 MSI LOL 2024, BLG sau khi phá hủy được hai trụ nhà chính cua GenG thì chỉ chăm chăm đi backboor. Kết quả tương tự, backdoor ko thành và BLG thua GenG ở game đó, và ngậm ngùi nhìn GenG nâng cao chiếc cúp vô định MSI. Nói một cách trừu tượng hơn, T1 và BLG đã tạo được lợi thế để thắng, nhưng cũng vì lợi thế đó mà đã đưa ra quyết định sai lầm.
+
+Câu chuyện này ko phải hiếm gặp. Cơ mà tôi ko thấy người ta bàn luận nhiều về vấn đề này một cách trung lập, mà hay bàn luận theo một cách tiếc nuối/tiêu cực kiểu có lợi thế mà tại sao ko biết tận dụng. Kỳ thực, trong nhiều trường hợp, khi mà người ta đạt được lợi thế, tự dưng người ta lại chỉ chăm chăm tận dụng lợi thế đó, mà quên mất rằng ban đầu người ta ko có xuất phát điểm tốt hơn những vẫn dành được lợi thế. Họ nên bình tĩnh xử lý, đa dạng hóa chiến thuật, thay vì chăm chăm vào lợi thế kia. Nên coi lợi thế kia chỉ là một công cụ/một cách để giúp mình tiếp tục dẫn đầu.
+
+Với tôi, vì là một hs chuyên Toán, tôi cứ chăm chăm vào cái lợi thế đó để ko dứt khoát theo CNTT từ sớm. Đến lúc tôi chuyển hắn sang CNTT thì đã muộn hơn so với bạn bè và giờ tôi đang ở top sau trên đường đua. Nhưng ko sao, các bạn đi trước, những người thành công sớm, có thể sẽ rơi vào trường hợp kể trên. Tôi còn cơ hội vượt lên!
+
+
+
+## 2023
 
 ### Đi buôn
 
