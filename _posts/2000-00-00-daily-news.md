@@ -13,6 +13,11 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ## 2024
 
+### Cái nết của những người ae
+
+Quả thật, sau chuyến đi Shenzhen, tôi mới được củng cố thêm lập điểm rằng hội anh em của tôi cũng hay đánh giá và phán xét người khác lắm, và cũng để ý đến nhiều bản thân mình, chấp trước vào cơ thể họ. Cơ mà, khác với những người hai mặt, hội anh em của tôi thẳng thắn nói về điều đó, chứ ko cố tỏ ra thảo mai rồi nói xấu sau lưng người khác.
+
+
 ### Max-cap policy for fair competition in Academia?
 
 Max-cap policy is important and has been applied in many sports for fair competition. In a rough sense, an organization cannot spend more than what they earn, or the professional league may even apply max salary policy. That helps to balance the power of each team, avoiding "a super team" when the organization need to carry a big debt. In business, there are similar fair-competition laws (which I don't know clearly), but it should serve in a similar way.
