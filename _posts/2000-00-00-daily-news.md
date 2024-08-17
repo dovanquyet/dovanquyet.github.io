@@ -13,6 +13,19 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ## 2024
 
+
+### Ô, mua trên Shopee á
+
+Tôi chưa thấy mặt hàng nào trên Shopee mà có nhiều comment tiêu cực đến thế. Đó chính là ô. Tìm mãi trên shopee mà ko thấy cái ô nào tử tế :))) Ôi đm có shop rao là mua 1 tặng 1, xong trả tiền 2!
+
+
+### Tiểu thương = khống giá!
+
+Tôi ko có ý quy chụp, cơ mà tôi đang bị sốc vì bộ chăn ga vỏ gối mà bạn gái tôi mua cho tôi với giá 500k, thì mẹ bạn mua với giá 450k/2 bộ. Ôi đinh công mệnh!
+
+Từ giờ t sẽ ghi nhớ niềm đau này. Mua mấy đồ đó phải mặc cả! Tư duy mặc cả luôn luôn phải có, còn tư duy chống mặc cả chỉ bật lên với một số mặt hàng thôi!
+
+
 ### Cái nết của những người ae
 
 Quả thật, sau chuyến đi Shenzhen, tôi mới được củng cố thêm lập điểm rằng hội anh em của tôi cũng hay đánh giá và phán xét người khác lắm, và cũng để ý đến nhiều bản thân mình, chấp trước vào cơ thể họ. Cơ mà, khác với những người hai mặt, hội anh em của tôi thẳng thắn nói về điều đó, chứ ko cố tỏ ra thảo mai rồi nói xấu sau lưng người khác.
