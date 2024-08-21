@@ -49,7 +49,7 @@ My full academic profile can be found [here](https://dovanquyet.github.io/academ
 
 ## Contact me!
 
-Feel free to reach me at vqdo {at} connect [dot] ust (dot) hk.
+Feel free to reach me at quyetdo {at} vt [dot] edu.
 
 
 ## Trang Chủ (phiên bản tiếng Việt cho trang này)

@@ -85,12 +85,12 @@ analytics:
 author:
   name             : "DO Van Quyet 杜文决"
   avatar           : "avatar.jpg"
-  bio              : "M.Phil in CSE @ HKUST"
+  bio              : "PhD CS at Virginia Tech"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ"
-  email            : # "vqdo@connect.ust.hk"
+  email            : # "quyetdo@vt.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
