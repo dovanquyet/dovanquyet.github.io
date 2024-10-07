@@ -7,26 +7,21 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_full.pdf) (updated in Aug 2024), [Industrial 1-page CV](https://dovanquyet.github.io/files/DoVanQuyet_CV_1page.pdf) (updated in Aug 2024), and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
-<!-- my [UG Transcript](https://dovanquyet.github.io/files/ugtranscript.pdf). -->
+Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_full.pdf) (updated in Oct 2024), [Industrial 1-page CV](https://dovanquyet.github.io/files/DoVanQuyet_CV_1page.pdf) (updated in Oct 2024), and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
+<!-- my [UG Transcript](https://dovanquyet.github.io/files/HKUST_Transcript.pdf). -->
 
 
 ### Selected Publications
 
 For the full list of my publications with brief summaries, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252).
 
+- **SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**\
+Holy Lovenia and Rahmad Mahendra and Salsabil Maulana Akbar et. al. *including* **Quyet V. Do**\
+*EMNLP 2024*. [\[pdf\]](https://arxiv.org/abs/2406.10118).
 
 - **ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**\
 **Quyet V. Do**, Tianqing Fang, Shizhe Diao, Zhaowei Wang, Yangqiu Song\
 *EACL 2024*. [\[pdf\]](https://arxiv.org/abs/2401.14003) [\[code\]](https://github.com/HKUST-KnowComp/ConstraintChecker).
-
-- **COLA: Contextualized Commonsense Causal Reasoning from the Causal Inference Perspective**\
-Zhaowei Wang, **Quyet V. Do**, Hongming Zhang, Jiayao Zhang, Weiqi Wang, Tianqing Fang, Yangqiu Song, Ginny Y. Wong, S. See\
-*ACL 2023*. [\[pdf\]](https://arxiv.org/abs/2305.05191) [\[code\]](https://github.com/HKUST-KnowComp/COLA).
-
-- **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**\
-Tianqing Fang\*, **Quyet V. Do**\*, Sehyun Choi, Weiqi Wang, Yangqiu Song\
-*ArXiv Preprint*, 2023. [\[pdf\]](https://arxiv.org/abs/2304.10392) [\[code\]](https://github.com/HKUST-KnowComp/CSKB-Population).
 
 - **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**\
 Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, **Quyet V. Do**, Yan Xu, Pascale Fung\

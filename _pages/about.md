@@ -10,7 +10,7 @@ redirect_from:
 
 **"Think big, act small, and move fast"**
 
-This webpage is last updated on **2024/08/17**.
+This webpage is last updated on **2024/10/05**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
@@ -18,14 +18,16 @@ This webpage is last updated on **2024/08/17**.
 
 ## About me
 
-Hi folks, welcome to my personal homepage! You can call me Quyet (pronounce like 'q' + 'yet'). I'm a first-year PhD student at Virginia Tech where I work with [Prof. Tu Vu](https://tuvllms.github.io/). Previously, I got my M.Phil in Computer Science and B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in Sep 2024 and July 2022. During my MPhil program, I was fortunate to be supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
+Hi folks, welcome to my personal homepage! You can call me by my real name Quyet (pronounce like 'Quest'), or my English name William. I'm a first-year PhD student at Virginia Tech where I work with [Prof. Tu Vu](https://tuvllms.github.io/). Previously, I got my M.Phil in Computer Science and B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in Sep 2024 and July 2022. During my MPhil program, I was fortunate to be supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
 
-My primary research interests are centered around Natural Language Processing (NLP). Over the past two years, I have been actively engaged in the study of Commonsense Reasoning. Since the birth of ChatGPT, my perspective toward NLP has changed. After reading several posts and blogs of reputative CS professors discussing ChatGPT, I (am influenced by the idea that we) shouldn't expect LMs to really understand language anymore because they will never understand, instead expect them to mimic human behaviors as realistic as possible. If we view LLMs as tools for industrial development, I think the current MLOps of LLMs is adequate. However, if we (want to) view LLMs as AGI, much more efforts need to be put into their development, as the two main problems with LLMs that I am concerned are efficient learning ability and generalized reasoning ability.
+My primary research interests are centered around AI/NLP (Artificial Intelligence / Natural Language Processing). Although the field drastically progresses in the last decade, I do not expect language models (as the "main products" of the field) to really understand human language nor expose super-human capability. Instead, I expect them to mimic human behaviors (either as an individual or a group of people) as realistic as possible and benefit industrial applications.
 
-Therefore, for future research, I will focus on the following areas:
-1. Neuro-symbolic reasoning methods: I intend to investigate the utilization of external resources, specifically existing knowledge graphs, in order to facilitate the identification and rectification of erroneous beliefs within language models. <!-- "RECKONING" and "Language Models with Rationality" -->
-2. Efficient (transfer) learning: I aspire to enable LMs to learn from very little supervision, which is a hallmark of human intelligence. I am particularly interested in how to discover and effectively finetune the most critical subnetworks of LMs w.r.t to each task. <!-- RS_Tu.pdf and "Discovering Knowledge-Critical Subnetworks in Pretrained Language Models" -->
-3. Basic learning ability: How to train and evaluate LLMs on such crucial skills (rule following (shift of distribution), new skill (soft rule))
+I haven't had a specific direction for my research career yet. The following are several research topics that I am working on:
+1. Instruction following capability: At this moment, State-of-The-Art LLMs can perform well on multiple tasks with simple instructions. But what if the task and instructions are more realistic and complex? Can LLMs follow all the instructions? That is what I am working on.
+2. Model merging: It is very impactful if we can merge models (of difference size, different pretraining procedure) so that we can transfer strengths and minimize weaknesses of models in the merged model.
+<!-- 1. Neuro-symbolic reasoning methods: I intend to investigate the utilization of external resources, specifically existing knowledge graphs, in order to facilitate the identification and rectification of erroneous beliefs within language models. "RECKONING" and "Language Models with Rationality" -->
+<!-- 2. Efficient (transfer) learning: I aspire to enable LMs to learn from very little supervision, which is a hallmark of human intelligence. I am particularly interested in how to discover and effectively finetune the most critical subnetworks of LMs w.r.t to each task. RS_Tu.pdf and "Discovering Knowledge-Critical Subnetworks in Pretrained Language Models" -->
+<!-- 3. Basic learning ability: How to train and evaluate LLMs on such crucial skills (rule following (shift of distribution), new skill (soft rule)) -->
 
 About my personal life, I am a big fan of music. I consider myself as an amateur singer. Check this [Youtube channel](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) to hear my voice :D Besides, about my spiritual, I am hugely inspired by the [Zen Master Thich Nhat Hanh](https://plumvillage.org/thich-nhat-hanh/). His Buddhism accounts for the major portion of my reasoning system. My favorite book, not surprisingly, is one of his books, Old Path White Cloud ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)). Also, from Feb 2023 to April 2024, I served as the Head of Event Organization of [Vietnamese Students' Association in HK](https://www.facebook.com/profile.php?id=100087606602683).
 
@@ -49,7 +51,7 @@ My full academic profile can be found [here](https://dovanquyet.github.io/academ
 
 ## Contact me!
 
-Feel free to reach me at quyetdo {at} vt [dot] edu.
+Feel free to reach me at william (dot) vqdo {at} vt [dot] edu.
 
 
 ## Trang Chủ (phiên bản tiếng Việt cho trang này)
