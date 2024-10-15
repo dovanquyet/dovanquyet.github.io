@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DO Van Quyet 🤖"
+title                    : "Quyet Do 🤖"
 title_separator          : "-"
-name                     : &name "DO Van Quyet"
+name                     : &name "Quyet Do"
 description              : &description "AI/NLP PhD at Virginia Tech"
 url                      : "https://dovanquyet.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ author:
   name             : "DO Van Quyet 杜文决"
   avatar           : "avatar.jpg"
   bio              : "AI/NLP PhD at Virginia Tech"
-  location         : "Hong Kong SAR, China"
+  location         : "Blacksburg, VA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ"

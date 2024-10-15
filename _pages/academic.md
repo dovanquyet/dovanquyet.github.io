@@ -13,7 +13,7 @@ Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/D
 
 ### Selected Publications
 
-For the full list of my publications with brief summaries, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252).
+For the full list of my publications with brief summaries, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252). I published papers with the name **Quyet V. Do**. In the future, I will use the name **Quyet Do**.
 
 - **SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**\
 Holy Lovenia and Rahmad Mahendra and Salsabil Maulana Akbar et. al. *including* **Quyet V. Do**\
@@ -25,7 +25,8 @@ Holy Lovenia and Rahmad Mahendra and Salsabil Maulana Akbar et. al. *including* 
 
 - **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**\
 Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, **Quyet V. Do**, Yan Xu, Pascale Fung\
-*AACL 2023*, **Area Chair Award**. [\[pdf\]](https://arxiv.org/abs/2302.04023) [\[code\]](https://github.com/HLTCHKUST/chatgpt-evaluation).
+*AACL 2023*, **Area Chair Award**. [\[pdf\]](https://arxiv.org/abs/2302.04023) [\[code\]](https://github.com/HLTCHKUST/chatgpt-evaluation).\
+// First empirical study on ChatGPT
 
 - **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**\
 Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See\
