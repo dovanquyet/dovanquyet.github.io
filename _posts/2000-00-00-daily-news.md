@@ -13,6 +13,10 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 ## 2024
 
+### Thói quen mua sắm
+
+Tôi cũng ko ngờ, sau vài tháng quen thanh toán trực tiếp bằng ví Shopee Pay, tôi đã quên luôn cái lựa chọn thanh toán bằng tiền mặt rồi. Nói gì thì nói, thanh toán bằng tiền mặt sẽ an toàn hơn, vì tiền trao cháo múc, đỡ sợ shipper bùng hàng hoặc bị trộm mất hàng lúc tôi ko ở nhà. Cơ mà đấy, sau mấy tháng ko thanh toán tiền mặt bao giờ, khi hôm qua tôi đặt đồ trên Shopee cho mẹ tôi, tôi cũng tự động thanh toán bằng ShopeePay luôn. Công nhận là cái gì tiện lợi thì dễ nghiện thật!
+
 
 ### Ô, mua trên Shopee á
 
