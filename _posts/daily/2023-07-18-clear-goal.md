@@ -8,7 +8,7 @@ categories:
   - my character
 ---
 
-As I work on a commonsense knowwledge base reasoning problem in the format of classification, I understand how awkward it is when I have to deal with data which I misclassify often. It's not clear about the category that each instance fall into, nor the need to have such taxonomy. The problem makes me angry sometimes so that I just can't bear to continue working on the problem. It seems meaningless for me, as at the end of the day, we don't need a perfect taxonomy to apply the data sources in other downstream tasks.
+As I work on a commonsense knowledge base reasoning problem in the format of classification, I understand how awkward it is when I have to deal with data which I misclassify often. It's not clear about the category that each instance fall into, nor the need to have such taxonomy. The problem makes me angry sometimes so that I just can't bear to continue working on the problem. It seems meaningless for me, as at the end of the day, we don't need a perfect taxonomy to apply the data sources in other downstream tasks.
 
 Nonetheless, not only the problem I work on but also other tasks in the field of AI share the same problem. Starting with the classic "5-Likert-Scale Sentiment Analysis" on Yelp datasets. I know this task is often considered as a standard practice problem for beginners and we shouldn't treat it so seriously, I had a bad impression about this task. What's this for? Isn't a more simple 2-Likert-Scale problem enough for the downstream application as determining customers' satisfaction toward the service? Why do we need to determine it in a finer-grain scale, in which the boundary between two close classes is very blurry? Yet it's an exercise for beginner, I don't care about it anymore.
 

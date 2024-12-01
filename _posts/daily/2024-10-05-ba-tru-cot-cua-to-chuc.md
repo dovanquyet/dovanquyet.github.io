@@ -7,7 +7,9 @@ categories:
 ---
 
 
-Chính trị, An ninh, Kinh tế, Văn hóa là những khía cạnh quan trọng trong đời sống. Có thể có những cách định nghĩa khác nhau, nhưng trong blog này, tôi sẽ định nghĩa chúng như sau:
+Chính trị, An ninh, Kinh tế, Văn hóa là những khía cạnh quan trọng trong đời sống.
+
+Có thể có những cách định nghĩa khác nhau, nhưng trong blog này, tôi sẽ định nghĩa chúng như sau:
 - [Chính trị](https://luatvandiendich.wordpress.com/2018/07/27/chinh-tri-va-nguon-goc-hinh-thanh-thuat-ngu-o-phuong-dong-va-phuong-tay/): Mọi sự giữa người với người, ví dụ như cách quản lý một bộ máy nhân sự, hoặc cách ứng xử với một tổ chức khác. Về bản chất, một tổ chức chính là hiện thân của chính trị. Nếu nó mang tầm nhà nước, thì nó là chuyện đàm phán giữa các quốc gia, tạo ra những thỏa thuận, chính sách, hoạt động, giải quyết các mâu thuẫn. Còn đối với mỗi người, chính trị là việc đối nhân xử thế.
 - An ninh: Mọi việc đến việc bảo vệ thành quả, chống lại tác nhân chống phá từ cả bên trong và bên ngoài. Đối với một nhà nước, đó là việc trấn át tội phạm, bảo vệ an ninh trật tự cho người dân, hoặc chống lại những thế lực thù địch bên ngoài. Còn đối với người dân, thì đó là việc chống trộm cắp lừa đảo, hoặc bảo vệ sức khỏe của bản thân.
 - Kinh tế: Kinh bang tế thế, hoạt động sản xuất trao đổi hàng hóa dựa trên niềm tin. Đều này gần như ko thay đổi nhiều ở mọi cấp độ, vi mô hay vĩ mô, cá thể hay tập thể.
@@ -27,7 +29,7 @@ Nhà nước vũ trang sẽ ko thể tồn tại được lâu nếu nó ko giú
 
 Cũng giống như vậy, nhà nước văn hóa cần lo cơm áo cho người dân và an ninh xã hội. Đó chính là thách thức lớn của nước Việt Nam Dân chủ Cộng Hòa của tôi thời kỳ với thành lập. Đặc khu kinh tế cũng vậy, nếu ko có an ninh tốt thì sẽ là món mồi béo bở cho tổ chức khác, ví dụ, giặc ngoại xâm.
 
-Các công ty lớn đều có mô hình kiềng ba chân này. Ví dụ, là một thực thể kinh tế, chắc chắn các công ty sẽ tuyển toàn người làm ăn giỏi. Tuy nhiên, các công ty đó cũng xây dựng văn hóa để thu hút người tài, và cũng bảo vệ bí mật kinh tế của họ. Công ty nào thiếu một trong ba thì ko thể tồn tại lâu được.
+Các công ty lớn đều có mô hình kiềng ba chân này. Ví dụ, là một thực thể kinh tế, chắc chắn các công ty sẽ tuyển toàn người làm ăn giỏi. Tuy nhiên, các công ty đó cũng xây dựng văn hóa để thu hút người tài, và cũng bảo vệ bí mật kinh tế của họ. Công ty nào thiếu một trong ba thì ko thể tồn tại lâu được. Và thực ra mô hình gia đình cũng vậy.
 
 Có một câu hỏi về tính hoàn thiện của mô hình kiềng ba chân, rằng liệu còn khía cạnh nào khác hay ko? Tôi khá chắc là không, vì ba nhánh này đại diện cho ba nhu cầu cơ bản nhất của mọi sinh vật cấp cao. Mọi khía cạnh khác khả năng cao sẽ là một phần trong ba khía cạnh lớn này. Nếu bạn đọc có ý kiến bổ sung, hãy cho tôi biết bằng cách comment ở phía dưới bài viết.
 
@@ -39,6 +41,8 @@ Tương sinh và cũng là tương khắc, đó là vòng tròn An ninh -> Kinh 
 Thời kỳ chiến tranh loạn lạc thì làm sao mà phát triển kinh tế một cách thoải mái được. Lúc đó vừa thiếu thốn ngân sách do phải chi cho an ninh, vừa bị giặc phá họa. Ngược lại, bắt đầu từ những năm 80, khi ko còn lo việc chiến tranh nữa, thì nước ta mới tập trung xây dựng kinh tế được. Điển hình là việc cải cách kinh tế năm 86. Rồi từ những năm 2010, khi mà đời sống vật chất của VN đã được nâng cao, thì việc phát triển văn hóa và tất yếu. Âm nhạc của VN đầu những năm 2000 chỉ là những bản đạo nhạc, thì từ 2010 đã có rất nhiều sản phẩm âm nhạc chất lượng cho người Việt tự làm ra, và đến những năm 2020 thì thị trường âm nhạc của VN đã rất lớn mạnh với những sản phẩm đình đám, ko thua kém gì những nghệ sĩ quốc tế. Và khi văn hóa của dân tộc đạt đến đỉnh cao, thì liên kết của người dân với đất nước (đại diện là nhà nước) sẽ càng mạnh mẽ, và nhu cầu bảo vệ nhà nước (hay sức mạnh an ninh của nhà nước) cũng sẽ càng mạnh mẽ.
 
 Do quan hệ tương hỗ đó, các nhà nước có thể cạnh tranh với nhau dựa vào điểm yếu của đối phương và điểm ưu việt của mình. Cách mạng màu xảy ra khi nhánh văn hóa của nhà nước hiện tại ko phát triển và cạnh tranh được với nhánh văn hóa của thế lực cạnh tranh, dẫn đến việc bị lật đổ bởi chiến tranh truyền thông, thông qua các cuộc biểu tình (điều đang xảy ra ở Bangladesh). Điều tương tự cũng xảy ra trong chiến tranh vũ trang (khi mà các đế chế phóng kiến mở rộng lãnh thổ, chủ yếu dùng quân đội mạnh hơn) và chiến tranh kinh tế (việc Liên Xô sụp đổ, khi cơ chế kinh tế xã hội chủ nghĩa có những bất cập và ko thể cạnh tranh với kinh tế tư bản).
+
+Tương tự với những mô hình tổ chức nhỏ hơn, như công ty hoặc gia đình. Việc cạnh tranh cũng dựa theo nguyên lý ấy.
 
 Chiều ngược lại của vòng tròn cũng có quan hệ nhất định, cơ mà ít hơn. Nhiều nước giàu nhưng quân đội ko ra gì, ví dụ như Phát xít Ý (ý kiến tham khảo từ các kênh kể chuyện lịch sử), nhưng cũng có nước tận dụng sức mạnh kinh tế để đầu tư phát triển quốc phòng. Tương tự với hai cặp còn lại.
 

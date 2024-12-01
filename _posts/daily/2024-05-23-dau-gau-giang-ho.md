@@ -30,3 +30,5 @@ Giang hồ mạng là một hiện tượng phức tạp trong xã hội Việt 
 
 
 > Gemini 1.0 Pro: Thực tế là, có rất nhiều trend trong xã hội Việt Nam bắt nguồn từ những hành động, lời nói thiếu suy nghĩ của các giang hồ mạng. Hãy viết một bài ngắn về chủ đề "Đầu gấu, giang hồ, và vai trò của họ trong quá trình phát triển văn hóa", tập trung vào phần di sản của họ, ví dụ như câu nói "đấm không trượt phát nào" hay "ôi bạn ơi" của Khá Bảnh, hoặc "tham lam, ngu dốt, còn cái nịt" của Tiến Bịp
+
+> P/s: Cái này là tôi viết thêm. Nghĩ đến thời điểm vài trăm năm sau, có khi những câu như "Có làm thì mới có ăn/Không làm mà muốn thì ăn đ** b**" lại được coi như ca dao tục ngữ cũng nên :))

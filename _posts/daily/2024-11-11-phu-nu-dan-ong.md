@@ -6,7 +6,7 @@ categories:
   - philosophy
 ---
 
-Tôi ko có ý phân biệt đối xử, ko cổ súy cho lối suy nghĩ cổ hủ trọng nam kinh nữ. Tôi viết những điều sau để tôi nhìn nhận sự khác biệt giữa nam giới và nữa giới một cách trực quan, nguồn gốc và hệ quả của sự khác biệt đó. Đương nhiên, là một người đàn ông, tôi sẽ viết những điều đó theo góc nhìn của đàn ông. Việc có một vài suy nghĩ thiên vị là ko thể tránh khỏi, và tôi sẽ lắng nghe phản hồi để sửa những chỗ chưa được trong bài viết. 
+Tôi ko có ý phân biệt đối xử, ko cổ súy cho lối suy nghĩ cổ hủ trọng nam kinh nữ. Tôi viết những điều sau để tôi nhìn nhận sự khác biệt giữa nam giới và nữ giới, nguồn gốc và hệ quả của sự khác biệt đó, một cách trực quan. Đương nhiên, là một người đàn ông, tôi sẽ viết những điều đó theo góc nhìn của đàn ông. Việc có một vài suy nghĩ thiên vị là ko thể tránh khỏi, và tôi sẽ lắng nghe phản hồi để sửa những chỗ chưa được trong bài viết. 
 
 ## Nguồn gốc
 

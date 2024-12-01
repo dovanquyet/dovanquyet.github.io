@@ -7,10 +7,10 @@ categories:
 ---
 
 <p align="center">
-Trẻ em như búp trên cành
-Biết ăn biết ngủ biết học hành là ngoan
-Nhưng cha mẹ phải tính toan
-Nuôi con khôn lớn dễ dàng gì đâu!
+Trẻ em như búp trên cành<br>
+Biết ăn biết ngủ biết học hành là ngoan<br>
+Nhưng cha mẹ phải tính toan<br>
+Nuôi con khôn lớn dễ dàng gì đâu!<br>
 </p>
 
 Tôi càng ngày càng nhận ra việc nuôi dạy một đứa trẻ là việc khó. Thời buổi kinh tế đã ổn, ko thiếu ăn thiếu mặc, thì một vấn đề khác bắt đầu được quan tâm là sức khỏe tinh thần của trẻ nhỏ.
