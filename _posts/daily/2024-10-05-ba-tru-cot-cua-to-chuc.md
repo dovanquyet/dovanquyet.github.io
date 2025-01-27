@@ -58,13 +58,37 @@ Ngược lại, có những quốc gia do bộ máy chính trị yếu kém, nê
 
 ## Áp dụng lý thuyết trong thực tế
 
-Nhìn lại cuộc sống của chính mình, tôi thấy mô hình "kiềng ba chân" này thực sự đúng. Chúng ta, dù là ai, cũng đều xoay quanh An ninh, Kinh tế, và Văn hóa để tồn tại và phát triển, thế nên chúng ta cần lưu ý đến điều đó. Ai cũng có thế mạnh và điểm yếu ở từng khía cạnh. Tôi chẳng phải ngoại lệ.
+Nhìn lại cuộc sống của chính mình, tôi thấy mô hình "kiềng ba chân" này thực sự đúng. Chúng ta, dù là ai, cũng đều xoay quanh An ninh, Kinh tế, và Văn hóa để tồn tại và phát triển, thế nên chúng ta cần lưu ý đến điều đó. Ai cũng có thế mạnh và điểm yếu ở từng khía cạnh. Tôi chẳng phải ngoại lệ. Tùy vào từng hoàn cảnh, đặc thù tổ chức, mà những người của từng nhánh sẽ phù hợp cho vị trí lãnh đạo tổ chức đó, hoặc hợp thành tổ chức đó.
 
-Tôi đầu tư thời gian để phát triển nhánh Kinh tế – làm nghiên cứu, học kỹ năng làm việc nhóm, học cách lãnh đạo, rồi học cách nhìn ra thời cơ làm ăn. An ninh của tôi thì tạm ổn – tôi tập thể dục vừa đủ để duy trì sức khỏe, không đến mức cuồng nhưng cũng không để cơ thể trì trệ. Nhưng đến Văn hóa, tôi tự thấy mình ko tốt. Tôi ít quan tâm đến các thú vui tinh thần hay làm giàu trải nghiệm cá nhân. Tôi chỉ biết hát và tấu hài để đủ dùng trong những buổi sinh hoạt cộng đồng thôi. Bạn gái tôi thì ngược lại – tôi nghĩ là cô ấy ổn đều cả ba khía cạnh. Năng lực kinh tế: học đủ giỏi (thì mới đỗ Nội trú được), năng lực văn hóa: biết cách xây dựng văn hóa cho mối quan hệ, hướng đến điều tốt đẹp cho cộng đồng, năng lực quân sự: học Y thì đương nhiên biết cách xử lý trong trường hợp bệnh tật, cơ mà ko có nhiều thời gian chăm sóc bản thân.
+
+### Mối quan hệ hôn nhân
+
+Tôi đầu tư thời gian phát triển nhánh Kinh tế – làm nghiên cứu, học kỹ năng làm việc nhóm, học cách lãnh đạo, rồi học cách nhìn ra thời cơ làm ăn. An ninh của tôi thì tạm ổn – tôi tập thể dục vừa đủ để duy trì sức khỏe, không đến mức cuồng nhưng cũng không để cơ thể trì trệ. Nhưng đến Văn hóa, tôi tự thấy mình ko tốt. Tôi ít quan tâm đến các thú vui tinh thần hay làm giàu trải nghiệm cá nhân. Tôi chỉ biết hát và tấu hài để đủ dùng trong những buổi sinh hoạt cộng đồng thôi. Bạn gái tôi thì ngược lại – tôi nghĩ là cô ấy ổn đều cả ba khía cạnh. Năng lực kinh tế: học đủ giỏi (thì mới đỗ Nội trú được), năng lực văn hóa: biết cách xây dựng văn hóa cho mối quan hệ, hướng đến điều tốt đẹp cho cộng đồng, năng lực quân sự: học Y thì đương nhiên biết cách xử lý trong trường hợp bệnh tật, cơ mà ko có nhiều thời gian chăm sóc bản thân.
 
 Điều đó khiến chúng tôi có sự bù trừ, và khiến bọn tôi hút nhau. Tôi lo tài chính, sức khỏe thế chất, còn cô ấy chăm sóc tinh thần, sức khỏe và giúp tôi mở rộng góc nhìn về cuộc sống. Để duy trì mối quan hệ, chúng tôi cũng có thể chọn các hoạt động cùng nhau theo mỗi khía cạnh đó. Chẳng hạn, chúng tôi cùng tập thể dục để nâng cao sức khỏe (An ninh), cùng làm việc và hỗ trợ nhau trong sự nghiệp (Kinh tế), và dành thời gian đọc sách, xem phim, đi chơi để nuôi dưỡng đời sống tinh thần (Văn hóa).
 
 Do mô hình gia đình cũng cần ba yếu tố, nên việc chọn người bạn đời để hài hòa ba yếu tố và phát triển chính trị của hai người rất quan trọng. Tôi nhận ra, nếu một gia đình không có ai mạnh về An ninh (tính mạnh mẽ, dám đương đầu với người ngoài, hoặc sức khỏe tốt), họ dễ bị tổn thương trước những vấn đề bên ngoài. Nếu không có ai giỏi về Kinh tế, mọi thứ sẽ chật vật. Và nếu Văn hóa ko được chú trọng đúng mực, trải nghiệm hôn nhân sẽ rất tệ, thiếu gắn kết. Việc chọn bạn đời, hay nói rộng hơn, việc xây dựng một "tổ chức" bền vững, thực sự nằm ở chỗ mỗi người phải có thế mạnh riêng để hỗ trợ nhau, và quan trọng hơn cả là cần có hệ thống chính trị tư tưởng tốt để khuyên bảo nhau, định hướng cho tổ chức phát triển một cách bền vững.
+
+### Việc dạy con
+
+Việc dạy con cũng có 3 yếu tố kể trên. Việc cần thiết của các yếu tố có thể được bạn đọc tự suy luận dựa trên những ví dụ phía trên. Nó ko chỉ phản ánh qua hành động tương ứng với mỗi khía cạnh (thể dục thể thao, học tập nghiên cứu, trải nghiệm văn hóa tương ứng với an ninh, kinh tế, văn hóa), mà trong từng việc cụ thể, 3 yếu tố cũng có thể được thể hiện bởi cách thực hiện khác nhau. Ví dụ, khi ta nhắc nhở con cái làm một chuyện gì đó.
+- Theo nhánh an ninh: ta sẽ ra lệnh con làm, kỳ vọng con sẽ chấp hành ngay lập tức mà ko cần giải thích (ít nhất là trong lúc ra lệnh). Giống như quân đội.
+- Theo nhánh kinh tế: ta sẽ giải thích cho con hiểu vì sao nên làm vậy, lập luận logic, mà kỳ vọng là con sẽ hiểu sau khi mình giải thích. Giống như công ty.
+- Theo nhánh văn hòa: ta cố gắng thấu hiểu suy nghĩ của con, giải thích cho con hiểu cạn kẽ tại sao nên làm vậy, vận động sự thay đổi từ từ, khuyên nhủ nhẹ nhành.
+
+Một ví dụ khác là chuyện ăn uống. Ăn no, ăn đủ chất, và ăn ngon thể hiện 3 nhánh an ninh, kinh tế, văn hóa!
+Rồi các môn học ở trường. Các môn khoa học đại diện cho kinh tế, một số môn trong đó và môn thể dục đại diện cho nhánh an ninh, còn các môn xã hội đại diện cho văn hóa. Ấy thế nên mới cần giáo dục toàn diện.
+
+
+### Phân loại các mối quan hệ
+
+Có nhiều người bảo đồng nghiệp ko phải bạn bè. Tôi thấy vừa đúng vừa sai. Đối với tôi, đồng nghiệp là mqh của ngành kinh tế, khi mà người ta hợp tác để kiếm tiền, còn bạn bè là để chia sẻ những tâm sự trong cuộc sống, tức là mối quan hệ văn hóa. Văn hóa có giống nhau thì mới thông cảm để lắng nghe nhau chia sẻ được. Đương nhiên, những người đồng nghiệp thường có lối sống giống nhau, có nhiều mối quan tâm giống nhau, nên cũng sẽ dễ có chung văn hóa sống hơn.
+
+### Tính chuyển nhượng (Transferability) của kinh nghiệm
+
+Do mỗi tổ chức đều có những yếu tố nền móng giống nhau, nên những kinh nghiệm đúc kết được từ một việc có vẻ ko liên quan có khi lại rất quan trọng cho một việc khác.
+
+Ví dụ như việc yêu đương và công việc. Từ việc yêu đương, ta học cách chia sẻ, thấu hiểu, thông cảm cho người khác, rồi học cách giao tiếp chuẩn mực, hoặc thậm trí là cách thuyết phục người khác bằng một sự chân thành và mang tính xây dựng. Đều đó rất có ích cho công việc, rằng nó sẽ giúp ta giao tiếp với đồng nghiệp, cấp trên, cấp dưới một cách tốt hơn. Ta cũng hiểu được rằng để thuyết phục được cấp trên và đồng nghiệp làm một việc gì đó sẽ cần nhiều thời gian, công sức, tâm huyết. Ta sẽ ko dễ từ bỏ nữa. Ngược lại, kỹ năng lên kế hoạch, tính toán kỹ lưỡng tù công việc sẽ giúp cho tình yêu được định hướng rõ ràng, làm cho mối quan hệ có chiều sâu hơn và tiến được xa hơn!
 
 
 ## Tác động của AI vào đời sống
