@@ -10,7 +10,7 @@ redirect_from:
 
 **"Think big, act small, and move fast"**
 
-This webpage is last updated on **2024/11/29**.
+This webpage is last updated on **2025/04/05**.
 
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
@@ -37,8 +37,9 @@ About my personal life, I am a big fan of music. I consider myself as an amateur
 My full academic profile can be found [here](https://dovanquyet.github.io/academic). For (interesting) stories about my personal life, please check [here](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay).
 
 
-## Academic News
+## News
 
+- [2025/05] Start my Summer Internship at Adobe Research 🎉
 - [2024/08] Start my PhD journey at Virginia Tech under the supervision of Prof. Tu Vu
 - [2024/03] Decide to do my PhD at Virginia Tech!
 - [2024/01] My first first-author [paper](https://arxiv.org/abs/2401.14003) has been accepted to EACL'24!
@@ -54,7 +55,7 @@ My full academic profile can be found [here](https://dovanquyet.github.io/academ
 
 ## Contact me!
 
-Feel free to reach me at william (dot) vqdo {at} vt [dot] edu.
+Feel free to reach me at {my first name in the webpage's title}{my last name} {at} vt [dot] edu.
 
 
 ## Trang Chủ (phiên bản tiếng Việt cho trang này)

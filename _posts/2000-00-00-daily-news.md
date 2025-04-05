@@ -11,6 +11,29 @@ Nơi tôi kể những câu chuyện, suy nghĩ (vui) hàng ngày. Ngôn ngữ v
 This is where I write my (funny) daily stories. The language used is casual, sometimes exaggerating.
 
 
+## 2025
+
+
+### Bụt chùa nhà ko thiêng
+
+Bản chất là Conflict-of-interest. Con cái thường nghĩ rằng, bố mẹ nhắc nhở một điều gì đó là do bố mẹ thích mình làm thế, tức là được lợi cho bố mẹ, chứ ko phải để tốt cho mình. Thế nên nhiều người con ko nghe lời khuyên của bố mẹ. Trong khi người ngoài nói, có khi lại nghe!
+
+
+### Yolo
+
+Trong vòng 3 ngày, tôi di chuyển một quãng đường bằng hơn một vòng trái đất.
+Đến ngày thứ 3, tôi mới phát hiện ra rằng, việc ghế máy bay của United Airlines ko ngả về phía sau được là tính năng, chứ ko phải lỗi. Nếu muốn ghế xịn hơn thì phải trả thêm tiền @@
+Ở SFO thì tôi nghe thấy tiếng Quảng và tiếng Việt nhiều hơn cả tiếng Anh. Cơ mà, người Mỹ ồn ở chỗ công cộng cũng ko kém người nước nào!
+
+
+### Câu nói trong ngày
+
+"Vì đồng, bào dân tộc.". Vch!
+
+Và Quang Linh Vlog đã bị tạm giam!
+
+
+
 ## 2024
 
 

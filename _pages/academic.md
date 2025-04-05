@@ -13,7 +13,7 @@ Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/D
 
 ### Selected Publications
 
-For the full list of my publications with brief summaries, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252). I published papers with the name **Quyet V. Do**. In the future, I will use the name **Quyet Do**.
+For the full list of my publications with brief summaries, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252). I published papers with the name **Quyet V. Do**.
 
 - **SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**\
 Holy Lovenia and Rahmad Mahendra and Salsabil Maulana Akbar et. al. *including* **Quyet V. Do**\
