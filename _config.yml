@@ -24,7 +24,7 @@ talkmap_link             : false # change to true to add link to talkmap on talk
 comments: # copy from https://github.com/vcidst/vcidst.github.io/blob/master/_config.yml#L29
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : "ziscore" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "dovanquyet" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,14 +83,14 @@ analytics:
 
 # Site Author. Visit _include/author-profile.html to modify accordingly
 author:
-  name             : "DO Van Quyet 杜文决"
+  name             : "Quyet Do"
   avatar           : "avatar.jpg"
   bio              : "AI/NLP PhD at Virginia Tech"
   location         : "Blacksburg, VA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qaA6SeAAAAAJ"
-  email            : # "quyetdo@vt.edu"
+  email            : #
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -314,3 +314,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+

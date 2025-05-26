@@ -7,11 +7,12 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_full.pdf) (updated in Oct 2024), [Industrial 1-page CV](https://dovanquyet.github.io/files/DoVanQuyet_CV_1page.pdf) (updated in Oct 2024), and [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
+Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_full.pdf) (updated in Oct 2024), [Industrial 1-page CV](https://dovanquyet.github.io/files/DoVanQuyet_CV_1page.pdf) (updated in Oct 2024). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
 <!-- my [UG Transcript](https://dovanquyet.github.io/files/HKUST_Transcript.pdf). -->
+<!-- [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement) -->
 
 
-### Selected Publications
+## Selected Publications
 
 For the full list of my publications with brief summaries, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252). I published papers with the name **Quyet V. Do**.
 
@@ -35,7 +36,7 @@ Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and 
 _Remark: \* indicates equal contribution._
 
 
-### Independent Study
+## Independent Study
 
 I have self-learned the following courses/series whose videos are available on Youtube, and also read some books. These are all amazing, and they significantly broaden my knowledge.
 
