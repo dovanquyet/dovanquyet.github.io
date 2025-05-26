@@ -33,6 +33,12 @@ I aspire to develop artificial intelligence (AI) in a similar way as human intel
 My full academic profile can be found [here](https://dovanquyet.github.io/academic).
 
 
+Internship
+---
+Adobe, San Jose, CA, USA.
+* Research Scientist Intern @ NLG Team, May. 2025 – Aug. 2025
+
+
 Personal life
 ---
 
