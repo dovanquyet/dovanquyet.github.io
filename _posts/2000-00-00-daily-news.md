@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2025-03-31
+date: 2025-05-25
 title: 'Chuyện hàng ngày/Daily story'
 categories:
  - funny
@@ -12,6 +12,16 @@ This is where I write my (funny) daily stories. The language used is casual, som
 
 
 ## 2025
+
+
+### Gia đình quyết định nhiều phần tính cách của bạn
+
+Rõ rồi. Tôi thấy khi tôi làm gì, bố mẹ tôi cũng bảo con cẩn thận, đừng có làm, ảnh hưởng đến con và bố mẹ. Việc bị cấm đoán và quan trọng là ko thường xuyên được ủng hộ từ bố mẹ đã khiến tôi ít tính tò mò khám phá, mà thay vào đó tôi quan ngại việc về làm sao để giải quyết được các vấn đề của gia đình, xã hội. Tôi sẽ ko giỏi làm nghiên cứu như nhiều bạn, nhưng tôi tự tin tôi có thể trở thành một quản lý tốt. 
+
+
+### Nhạc chạy deadline của tôi
+
+Thật là phong phú. Nào là "Những bàn chân lặng lẽ" bản pop, rồi "Hát về cây lúa hôm nay", "Mùa xuân trên thành phố Hồ Chí Minh", hoặc "Năm anh em áo dance khớp mọi loại nhạc :v".
 
 
 ### Bụt chùa nhà ko thiêng

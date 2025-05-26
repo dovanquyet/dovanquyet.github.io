@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 **"Think big, act small, and move fast"**\
-This webpage is last updated on {% last_modified_at %}.\
 Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#trang-chủ-phiên-bản-tiếng-việt-cho-trang-này)
 
 <!-- > I am open to supervising UG students who are academically strong, highly motivated, and having a decent AI-coding skill (Python, Pytorch, and Huggingface Transformers are preferred). If you are interested in NLP and want to collaborate with me, feel free to contact and send your CV + Unofficial Transcript to me via email.  -->
@@ -58,4 +57,3 @@ Nghiên cứu của mình tập trung vào ngành NLP (Xử lý Ngôn ngữ tự
 Về cuộc sống, mình rất thích âm nhạc. Giọng hát mình khá ổn và đã đi trình diễn ở một số nơi. Nhấn vào [kênh Youtube này](https://www.youtube.com/channel/UCw0K4xQPwp8wZp6rkWRcTCg) để nghe một vài bài hát mình cover hoặc tự viết :D Về tinh thần, lối suy nghĩ của mình được ảnh hưởng lớn từ [Thiền sư Thích Nhất Hạnh](https://plumvillage.org/thich-nhat-hanh/), đặc biệt là qua cuốn sách Đường Xưa Mây Trắng ([en](https://terebess.hu/zen/mesterek/Thich%20Nhat%20Hanh%20-%20Old%20Path%20White%20Clouds.pdf),[vi](https://thuvienhoasen.org/images/file/3GfDvp1G0QgQAHtP/duong-xua-may-trang.pdf)). Bên cạnh đó, từ tháng 02/2023 đến tháng 04/2024, mình tham gia Ban cán sự của [Hội sinh viên VN tại HK](https://www.facebook.com/profile.php?id=100087606602683) với vai trò Trưởng ban tổ chức sự kiện.
 
 Cuối cùng, bạn có thể xem những thông tin liên quan đến học thuật của mình tại [đây](https://dovanquyet.github.io/academic), và những bài viết blog liên quan đến cuộc sống hàng ngày tại [đây](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay).
-

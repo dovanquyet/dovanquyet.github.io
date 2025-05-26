@@ -6,7 +6,7 @@ categories:
   - funny
 ---
 
-Trăng này cao hơn 1m6, học Y6, tính tình dễ mến, thích chơi dao, dọa tôi nếu không giao bán Trăng thì sẽ cho tôi đi du lịch tâm linh 2 tuần về nhà một lần bằng đường hương khói :')
+Trăng này cao hơn 1m6, học Y6, tính tình dễ mến, thích chơi dao, dọa tôi nếu không rao bán Trăng thì sẽ cho tôi đi du lịch tâm linh 2 tuần về nhà một lần bằng đường hương khói :')
 
 Chuyện là sau khi tôi viết xong bài Tết 2023 - Họp lớp, tôi gửi vào nhóm lớp và nhận được phản hồi tích cực. Có đứa còn 'nghịch ngợm, đào bới' hết các thứ trên page của tôi. Thực ra lúc nhắn vào nhóm, tôi một phần cũng muốn khoe homepage của mình :))
 
