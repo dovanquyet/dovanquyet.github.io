@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/chuyen-hang-ngay
-date: 2024-05-31
+date: {{ page.last_modified_at }}
 title: 'Chuyện hàng ngày/Daily story'
 categories:
  - funny
