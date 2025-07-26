@@ -1,6 +1,6 @@
 ---
 permalink: /posts/vi/ba-tru-cot-cua-moi-to-chuc
-date: 2024-11-29
+date: 2025-05-25
 title: "Ba trụ cột của mỗi tổ chức"
 categories:
   - philosophy
@@ -8,6 +8,8 @@ categories:
 
 
 Chính trị, An ninh, Kinh tế, Văn hóa là những khía cạnh quan trọng trong đời sống.
+
+> Update May 25, 2025: Dưới một lăng kính khác, có lẽ văn hóa và an ninh là hai điểm cốt lõi của sự sinh tồn. Chính trị và kinh tế sẽ là hai điểm phát triển từ hai điểm cối lõi trên. Tôi sẽ viết lại bài này theo góc nhìn đó! Bên cạnh đó, tôi cũng sẽ nhấn mạnh vào sức mạnh của văn hóa.
 
 Có thể có những cách định nghĩa khác nhau, nhưng trong blog này, tôi sẽ định nghĩa chúng như sau:
 - [Chính trị](https://luatvandiendich.wordpress.com/2018/07/27/chinh-tri-va-nguon-goc-hinh-thanh-thuat-ngu-o-phuong-dong-va-phuong-tay/): Mọi sự giữa người với người, ví dụ như cách quản lý một bộ máy nhân sự, hoặc cách ứng xử với một tổ chức khác. Về bản chất, một tổ chức chính là hiện thân của chính trị. Nếu nó mang tầm nhà nước, thì nó là chuyện đàm phán giữa các quốc gia, tạo ra những thỏa thuận, chính sách, hoạt động, giải quyết các mâu thuẫn. Còn đối với mỗi người, chính trị là việc đối nhân xử thế.

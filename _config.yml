@@ -270,6 +270,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-last-modified-at # date-format: '%Y-%b-%d'
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -314,11 +315,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Auto-track the last updated time.
-plugins:
-  - jekyll-last-modified-at
-
-# Optional. The default date format, used if none is specified in the tag.
-last-modified-at:
-    date-format: '%Y-%b-%d'

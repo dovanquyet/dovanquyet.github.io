@@ -14,6 +14,11 @@ This is where I write my (funny) daily stories. The language used is casual, som
 ## 2025
 
 
+### Đi ở trọ và được bác chủ nhà cho rất nhiều đồ ăn
+
+Tình hình là 1 tuần vừa rồi, hôm nào tôi cũng ăn no lòi bụng. Số là được bác chủ nhà người Việt nấu cho nhiều món ngon, ví dụ như hủ tiếu chay, xôi gà, bánh xèo, canh mướp đắng nhồi đậu, ... Dự là sau đợt thực tập hè, tôi sẽ lên 80kg :D Phải tập gym ngay và luôn để tận dụng nguồn thức ăn dồi dào này!
+
+
 ### Gia đình quyết định nhiều phần tính cách của bạn
 
 Rõ rồi. Tôi thấy khi tôi làm gì, bố mẹ tôi cũng bảo con cẩn thận, đừng có làm, ảnh hưởng đến con và bố mẹ. Việc bị cấm đoán và quan trọng là ko thường xuyên được ủng hộ từ bố mẹ đã khiến tôi ít tính tò mò khám phá, mà thay vào đó tôi quan ngại việc về làm sao để giải quyết được các vấn đề của gia đình, xã hội. Tôi sẽ ko giỏi làm nghiên cứu như nhiều bạn, nhưng tôi tự tin tôi có thể trở thành một quản lý tốt. 

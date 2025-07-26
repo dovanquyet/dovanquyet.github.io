@@ -18,7 +18,7 @@ About me
 ---
 
 Hi folks, welcome to my personal homepage! You can call me by my real name Quyet (pronounce like 'Quest'), or my English name William. I'm a first-year PhD student at Virginia Tech where I work with [Prof. Tu Vu](https://tuvllms.github.io/). Previously, I got my M.Phil in Computer Science and B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in Sep 2024 and July 2022. During my MPhil program, I was fortunate to be supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
-
+If you're interested, here is my [Curriculum Vitaé](https://dovanquyet.github.io/files/DoVanQuyet_CV_full.pdf).
 
 Research Interest
 ---
