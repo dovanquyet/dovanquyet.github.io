@@ -1,6 +1,15 @@
+---
+permalink: /posts/vi/three-victories-each-day/
+date: 2025-10-30
+title: 'Ba chiến thắng mỗi ngày'
+categories:
+  - work
+  - philosophy
+---
 
 Tôi sẽ cố gắng ghi lại những chiến thắng nhỏ của tôi trong mỗi ngày. 
 Tôi sẽ làm cho cuộc sống thú vị hơn, tìm được nhiều động lực hơn!
+Tôi nhận ra, nếu ko làm cho thứ mình làm thú vị, thì dù nó có ý nghĩa đến đâu, tôi cũng sẽ cảm thấy chán và mất động lực giữa chừng.
 
 ## Oct 30, 2025
 * Update homepage :))

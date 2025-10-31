@@ -14,7 +14,7 @@ redirect_from:
 <!-- > I am open to supervising UG students who are academically strong, highly motivated, and having a decent AI-coding skill (Python, Pytorch, and Huggingface Transformers are preferred). If you are interested in NLP and want to collaborate with me, feel free to contact and send your CV + Unofficial Transcript to me via email.  -->
 
 
-<p style="color: #861F41; text-align: center; margin-bottom: 15px;">I am actively looking for research internships for Summer 2026. If you have an open position that aligns with my experience, please reach out!</p>
+<p style="color: #cc3333; text-align: center; margin-bottom: 15px;">I am actively looking for research internships for Summer 2026. If you have an open position that aligns with my experience, please reach out!</p>
 
 
 
@@ -22,7 +22,7 @@ redirect_from:
 ---
 
 Hi folks, welcome to my personal homepage! You can call me by my real name Quyet (pronounce like 'Quest'), or my English name William. I'm a second-year PhD student at Virginia Tech where I work with [Prof. Tu Vu](https://tuvllms.github.io/). Previously, I got my M.Phil in Computer Science and B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in Sep 2024 and July 2022. During my MPhil program, I was fortunate to be supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
-If you're interested, here is my [Curriculum Vitaé](https://dovanquyet.github.io/files/DoVanQuyet_CV_full.pdf).
+If you're interested, here is my [Curriculum Vitaé](https://drive.google.com/file/d/1eju1ri1dniuO0W66DYmKJNEgQStRtaus/view?usp=sharing).
 
 
 🔬 Research Interest
@@ -33,7 +33,7 @@ I aspire to develop artificial intelligence (AI) in a similar way as human intel
 
 1. 📜 **Instruction following capability**: evaluating AI models under the extreme loads of instructions, which resembles the need in AI alignment or agentic AI.
 1. ✨ **Creative reasoning**: training models to efficiently and creatively solve complex tasks.
-1. 💾 **Self-learned agent with memory**: applying different types of memory---working, short-term, and long-term---into agentic systems to enable *learning from doing* and *long-context processing*. 
+1. 💾 **Self-learned agents with memory**: applying different types of memory---working, short-term, and long-term---into agentic systems to enable *learning from doing* and *long-context processing*. 
 <!-- 1. **Neuro-symbolic reasoning system**: learning both system-1 and sytem-2 reasoning capability in an efficient way and within a model by combining neural and symbolic modules. -->
 <!-- 1. **Automatic evaluation**: developing techniques to enhance automatic evaluation of AI-generated data is key for future AI development. -->
 
@@ -43,9 +43,9 @@ My full academic profile can be found [here](https://dovanquyet.github.io/academ
 📈 Internship
 ---
 **Adobe Research**, San Jose, CA, USA.
-* Research Scientist Intern @ NLG Team, May. 2025 – Aug. 2025\
-  Mentor: Dr. [Viet Lai](https://laiviet.github.io/) and Dr. [Trung Bui](https://sites.google.com/site/trungbuistanford/Home?authuser=0)\
-  Summary: 
+- Research Scientist Intern @ NLG Team, May. 2025 – Aug. 2025\
+  Mentor: Dr. [Viet Lai](https://laiviet.github.io/), Dr. [David Yoon](https://david-yoon.github.io/), and Dr. [Trung Bui](https://sites.google.com/site/trungbuistanford/Home?authuser=0)\
+  Summary: Work on *automatic evaluation for image generation and editing*. Improve the performance of GPT-4o and Gemini-2.5-Pro in the task by *9% accuracy and Pearson correlation*.
 
 
 🎤 Personal life
