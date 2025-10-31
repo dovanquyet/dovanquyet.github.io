@@ -108,7 +108,7 @@ author:
   linkedin         : "dovanquyet/"
   orcid            : "https://orcid.org/0000-0003-4229-8346"
   pinterest        :
-  soundcloud       : "dovanquyet"
+  soundcloud       : # "dovanquyet"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -116,7 +116,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "channel/UCw0K4xQPwp8wZp6rkWRcTCg"
+  youtube          : # "channel/UCw0K4xQPwp8wZp6rkWRcTCg"
   wikipedia        :
   dblp             : "https://dblp.org/pid/331/2617.html"
   semanticscholar  : "https://www.semanticscholar.org/author/Quyet-V.-Do/2187874252"

@@ -14,6 +14,17 @@ This is where I write my (funny) daily stories. The language used is casual, som
 ## 2025
 
 
+### Lâu lâu ko viết bài
+
+Đợt này tôi cũng ko có nhiều điều để update, hoặc những điều mà tôi muốn viết trong blog cũng ko khác những điều mà tôi chia sẻ trước đây. Mấy tuần nay tôi có nghe podcast của kênh 
+[Inner World Podcast](https://www.youtube.com/@Innerworld.podcast). Chúng đem đến nhiều kiến thức mới về cơ thể cho tôi, giúp tôi hiểu hơn về cách hoạt động của bộ não, các hormone, các chất dẫn truyền thần kinh. Chưa bàn đến chuyện tôi có thể áp dụng những kiến thức đó đến đâu, cơ mà tôi vui khi hiểu biết hơn về cơ thể của mình.
+
+
+### Lần đầu tiên mua game
+
+Và ko thể là game nào khác ngoài Hollow Knight: Silksong!
+
+
 ### Đi ở trọ và được bác chủ nhà cho rất nhiều đồ ăn
 
 Tình hình là 1 tuần vừa rồi, hôm nào tôi cũng ăn no lòi bụng. Số là được bác chủ nhà người Việt nấu cho nhiều món ngon, ví dụ như hủ tiếu chay, xôi gà, bánh xèo, canh mướp đắng nhồi đậu, ... Dự là sau đợt thực tập hè, tôi sẽ lên 80kg :D Phải tập gym ngay và luôn để tận dụng nguồn thức ăn dồi dào này!

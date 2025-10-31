@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please take a look at my [Academic Resumé](https://dovanquyet.github.io/files/DoVanQuyet_CV_full.pdf) (updated in May 2025), [Industrial 1-page CV](https://dovanquyet.github.io/files/DoVanQuyet_CV_1page.pdf) (updated in May 2025). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
+Please take a look at my [Academic Resumé](https://drive.google.com/file/d/1eju1ri1dniuO0W66DYmKJNEgQStRtaus/view?usp=sharing) (updated in Oct 2025), [Industrial 1-page CV](https://drive.google.com/file/d/1kLi7PlAOn9ZNjjdrFy_uTepfEBgMonxt/view?usp=sharing) (updated in Oct 2025). For full description of my academic and industrial experience and extracurricular activities, please visit my LinkedIn page.
 <!-- my [UG Transcript](https://dovanquyet.github.io/files/HKUST_Transcript.pdf). -->
 <!-- [my SoP](https://dovanquyet.github.io/files/SoP_Quyet_general.pdf) (which I consider as my predoctoral research statement) -->
 
