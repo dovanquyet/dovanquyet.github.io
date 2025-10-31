@@ -27,7 +27,7 @@ Holy Lovenia and Rahmad Mahendra and Salsabil Maulana Akbar et. al. *including* 
 - **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity**\
 Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, **Quyet V. Do**, Yan Xu, Pascale Fung\
 *AACL 2023*, **Area Chair Award**. [\[pdf\]](https://arxiv.org/abs/2302.04023) [\[code\]](https://github.com/HLTCHKUST/chatgpt-evaluation).\
-<p style="color: #cc3333; ">// First empirical study on ChatGPT<p>
+<span style="color: #cc3333; ">// First empirical study on ChatGPT<span>
 
 - **PseudoReasoner: Leveraging Pseudo Labels for Commonsense Knowledge Base Population.**\
 Tianqing Fang, **Quyet V. Do**, Hongming Zhang, Yangqiu Song, Ginny Y. Wong and Simon See\

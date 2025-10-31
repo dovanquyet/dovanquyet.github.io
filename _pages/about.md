@@ -59,8 +59,8 @@ Feel free to reach me at {my first name in the webpage's title}{my last name} {a
 
 
 ## 🇻🇳 Vietnamese below | Phiên bản tiếng Việt cho trang này
-<details>
-  <summary></summary>
+<!-- <details>
+  <summary></summary> -->
 
 Chào mừng mọi người đến mới trang chủ của mình. Hiện tại mình đang là nghiên cứu sinh năm nhất của chương trình Tiến Sĩ ở Đại học Bách Khoa bang Virginia (Virginia Tech) với sự hướng dẫn của Giáo sư [Vũ Thanh Tú](https://tuvllms.github.io/). Trước đó, mình nhận bằng Thạc sĩ Nghiên cứu (MPhil) ngành Computer Science (Khoa học Máy tính) và Cử nhân ngành Data Science (Khoa học Dữ liệu) và Advanced Pure Math (Toán thuần túy nâng cao) từ trường ở [Hong Kong University of Science and Technology](https://hkust.edu.hk/) vào tháng 9 năm 2024 và tháng 7 năm 2022. Trong thời gian học Thạc sĩ, mình may mắn được làm việc với Giáo sư [Yangqiu Song (Tống Dương Thu)](https://www.cse.ust.hk/~yqsong/).
 
@@ -70,5 +70,5 @@ Về cuộc sống, mình rất thích âm nhạc. Giọng hát mình khá ổn 
 
 Cuối cùng, bạn có thể xem những thông tin liên quan đến học thuật của mình tại [đây](https://dovanquyet.github.io/academic), và những bài viết blog liên quan đến cuộc sống hàng ngày tại [đây](https://dovanquyet.github.io/posts/vi/chuyen-hang-ngay).
 
-</details>
+<!-- </details> -->
 
