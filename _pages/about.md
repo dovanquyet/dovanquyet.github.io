@@ -12,26 +12,32 @@ redirect_from:
 <!-- Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#-trang-chủ-phiên-bản-tiếng-việt-cho-trang-này) -->
 <!-- > I am open to supervising UG students who are academically strong, highly motivated, and having a decent AI-coding skill (Python, Pytorch, and Huggingface Transformers are preferred). If you are interested in NLP and want to collaborate with me, feel free to contact and send your CV + Unofficial Transcript to me via email.  -->
 
+*My homepage now is hosted on [Google Sites](https://sites.google.com/view/williamquyetdo). I no longer maintain this page.*
+
+**Last updated**: April 2, 2026.
+
+
 <p style="color: #cc3333; text-align: center; margin-bottom: 15px;">
-  I am actively looking for research internships for Summer 2026.<br>
+  I am actively looking for a Research Internship.<br>
   If you have an open position that aligns with my experience, please reach out!
 </p>
 
 
 ## 👋 About me
 
-Hi folks, welcome to my homepage! You can call me by my real name Quyet (pronounce like 'Quest'), or my English name William. I'm a second-year PhD student at Virginia Tech where I work with [Prof. Tu Vu](https://tuvllms.github.io/). Previously, I got my M.Phil in Computer Science and B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in Sep 2024 and July 2022. During my MPhil program, I was fortunate to be supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
+Hi folks, welcome to my homepage! You can call me by my real name Quyet (pronounced like 'Quest'), or my English name William. I'm a second-year PhD student at Virginia Tech where I work with [Prof. Tu Vu](https://tuvllms.github.io/). Previously, I got my M.Phil in Computer Science and B.Sc in Data Science and Pure Math (Advanced Track) from HKUST in Sep 2024 and July 2022. During my MPhil program, I was fortunate to be supervised by [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
 If you're interested, here is my [Curriculum Vitaé](https://drive.google.com/file/d/1eju1ri1dniuO0W66DYmKJNEgQStRtaus/view?usp=sharing).
 
 
 ## 🔬 Research Interest
 
-I aspire to develop AI that evolves through efficient self-learning, similar to the development of human intelligence. In the era of large AI models, my research focus includes:
-<!-- From my viewpoint, data is everything in AI. Methodologies are not magic but stems from data and use data to train AI models. Thus, my research fully focuses on data. -->
+I aspire to develop AI systems that evolve through efficient self-learning and practical experience, mirroring the trajectory of human intelligence. In the era of large-scale models, my research focuses on:
 
-1. 📜 **Instruction following capability**: evaluating AI models under the extreme loads of instructions, which resembles the need in AI alignment or agentic AI.
-1. ✨ **Creative reasoning**: training models to efficiently and creatively solve complex tasks.
-1. 💾 **Self-learning agents with memory**: applying different types of memory---working, short-term, and long-term---into agentic systems to enable *learning from experience* and *long-context processing*. 
+1. 🔍 Long-context searching: Advancing multi-hop reasoning in LLMs for search applications.
+2. 🔥 Post-training: Designing data synthesis pipelines to fine-tune LLMs for various skills and behaviors.
+3. 📜 Agentic memory and context engineering: Designing, evaluating, and improving agentic systems for realistic tasks that require long-horizon interactions and memory.
+
+<!-- From my viewpoint, data is everything in AI. Methodologies are not magic but stems from data and use data to train AI models. Thus, my research fully focuses on data. -->
 <!-- 1. **Neuro-symbolic reasoning system**: learning both system-1 and sytem-2 reasoning capability in an efficient way and within a model by combining neural and symbolic modules. -->
 <!-- 1. **Automatic evaluation**: developing techniques to enhance automatic evaluation of AI-generated data is key for future AI development. -->
 

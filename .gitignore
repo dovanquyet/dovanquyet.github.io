@@ -1,3 +1,4 @@
 _site/
 _pages/.unused/
 *.docx
+*.DS_Store
