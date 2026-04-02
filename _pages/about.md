@@ -12,13 +12,13 @@ redirect_from:
 <!-- Để xem phiên bản tiếng Việt của trang này, vui lòng kéo xuống dưới hoặc nhấn vào [đây](https://dovanquyet.github.io/#-trang-chủ-phiên-bản-tiếng-việt-cho-trang-này) -->
 <!-- > I am open to supervising UG students who are academically strong, highly motivated, and having a decent AI-coding skill (Python, Pytorch, and Huggingface Transformers are preferred). If you are interested in NLP and want to collaborate with me, feel free to contact and send your CV + Unofficial Transcript to me via email.  -->
 
-*My homepage now is hosted on [Google Sites](https://sites.google.com/view/williamquyetdo). I no longer maintain this page.*
+*My homepage is now hosted on [Google Sites](https://sites.google.com/view/williamquyetdo). I no longer maintain this site.*
 
 **Last updated**: April 2, 2026.
 
 
 <p style="color: #cc3333; text-align: center; margin-bottom: 15px;">
-  I am actively looking for a Research Internship.<br>
+  I am actively looking for a research internship.<br>
   If you have an open position that aligns with my experience, please reach out!
 </p>
 
